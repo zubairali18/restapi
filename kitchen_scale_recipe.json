@@ -4,6 +4,7 @@
       "name": "Lasagna",
       "servings": 3,
       "difficulty": "Intermediate",
+      "image": "https://img.freepik.com/premium-photo/italian-lasagna-with-tomato-sauce-isolated-white-background_711700-1506.jpg",
       "ingredients": [
         {
           "name": "Lasagna noodles",
@@ -81,6 +82,7 @@
       "name": "Chocolate Chip Cookies",
       "servings": 12,
       "difficulty": "Intermediate",
+      "image": "https://media.istockphoto.com/id/1134897271/photo/biscuits-with-chocolate-isolated-on-white-background.jpg?s=612x612&w=0&k=20&c=lzX92wxN5mwL0ZsQndE_XubR0h_g3fyMgy0sKMQIAtg=",
       "ingredients": [
         {
           "name": "Butter",
@@ -145,6 +147,7 @@
       "name": "Classic Caesar Salad",
       "servings": 4,
       "difficulty": "Intermediate",
+      "image": "https://media.istockphoto.com/id/1211166166/photo/caesar-salad-with-grilled-chicken-and-croutons-of-bread.jpg?s=612x612&w=0&k=20&c=anNWizfxset3nOpS9zxGU1PCgn6dBwILhqYIED4qxYY=",
       "ingredients": [
         {
           "name": "Romaine lettuce",
@@ -216,6 +219,7 @@
       "name": "Chicken Alfredo Pasta",
       "servings": 4,
       "difficulty": "Easy",
+      "image": "https://media.istockphoto.com/id/1254382372/photo/isolated-spaghetti-with-white-cream-sauce.jpg?s=612x612&w=0&k=20&c=BQr6C62XLKPLA4DNLKc4RgcKuCtSHklC-1N4BquEzr8=",
       "ingredients": [
         {
           "name": "Fettuccine pasta",
@@ -273,6 +277,7 @@
       "name": "Margherita Pizza",
       "servings": 4,
       "difficulty": "Intermediate",
+      "image": "https://thumbs.dreamstime.com/b/real-italian-pizza-margherita-napoli-isolated-white-background-real-italian-pizza-margherita-napoli-isolated-white-246648576.jpg",
       "ingredients": [
         {
           "name": "Pizza dough",
@@ -326,6 +331,7 @@
       "name": "Chicken Pad Thai",
       "servings": 4,
       "difficulty": "Easy",
+      "image": "https://images.ctfassets.net/px4cqjx727yq/1VPSAGf0KEdyz2fUZfLl7a/fc2c18b5e0d074e7e390a4d8643498d4/Keto_Zucchini_Chicken_Pad_Thai_with_Coconut_Cashew.png?q=90&w=1680",
       "ingredients": [
         {
           "name": "Rice noodles",
@@ -413,6 +419,7 @@
       "name": "Biryani",
       "servings": 6,
       "difficulty": "Difficult",
+      "image": "https://recipes.timesofindia.com/thumb/msid-53096628,width-1600,height-900/53096628.jpg",
       "ingredients": [
         {
           "name": "Basmati rice",
@@ -550,6 +557,7 @@
       "name": "Haleem",
       "servings": 8,
       "difficulty": "Difficult",
+      "image": "https://i.dawn.com/primary/2017/10/59d080eb5b178.jpg",
       "ingredients": [
         {
           "name": "Boneless mutton",
@@ -658,6 +666,7 @@
       "name": "Thai Green Curry",
       "servings": 4,
       "difficulty": "Intermediate",
+      "image": "https://img.taste.com.au/Y3OSiJEI/taste/2016/11/thai-green-chicken-curry-106836-1.jpeg",
       "ingredients": [
         {
           "name": "Coconut Milk",
@@ -723,6 +732,7 @@
       "name": "Aloo Gosht",
       "servings": 4,
       "difficulty": "Easy",
+      "image": "https://kfoods.com/images1/newrecipeicon/aaloo-gosht_3308.jpg",
       "ingredients": [
         {
           "name": "Mutton",
@@ -814,6 +824,7 @@
       "name": "Pho",
       "servings": 2,
       "difficulty": "Intermediate",
+      "image": "https://thumbs.dreamstime.com/b/vietnamese-pho-soup-white-background-classic-authentic-food-served-bowl-chicken-broth-lots-fresh-173063147.jpg",
       "ingredients": [
         {
           "name": "Beef Bones",
@@ -917,6 +928,7 @@
       "name": "Teriyaki Chicken",
       "servings": 5,
       "difficulty": "Easy",
+      "image": "https://i0.wp.com/chefsavvy.com/wp-content/uploads/pouring-sauce-ontop-of-teriyaki-chicken-bowl.jpg?resize=665%2C363&ssl=1",
       "ingredients": [
         {
           "name": "Chicken Thighs",
@@ -974,6 +986,7 @@
       "name": "Bulgogi Beef",
       "servings": 4,
       "difficulty": "Medium",
+      "image": "https://img.freepik.com/premium-photo/korean-beef-bulgogi-white-background-with-copy-space_431906-23.jpg?w=2000",
       "ingredients": [
         {
           "name": "Sirloin Steak",
@@ -1029,6 +1042,7 @@
       "name": "Pakistani Biryani",
       "servings": 2,
       "difficulty": "Medium",
+      "image": "https://cravingzone.com/wp-content/uploads/2020/07/biryani-5-667x500.jpg",
       "ingredients": [
         {
           "name": "Basmati Rice",
@@ -1151,6 +1165,7 @@
       "name": "Turkish Lahmacun",
       "servings": 4,
       "difficulty": "Difficult",
+      "image": "https://i0.wp.com/www.turkishfoodtravel.com/wp-content/uploads/2020/12/lahmacun_big.jpg?fit=1200%2C674&ssl=1",
       "ingredients": [
         {
           "name": "Ground lamb",
@@ -1249,6 +1264,7 @@
       "name": "Beef and Broccoli Stir Fry",
       "servings": 4,
       "difficulty": "Easy",
+      "image": "https://barefeetinthekitchen.com/wp-content/uploads/2016/03/beef-broccoli-stir-fry-2.jpg",
       "ingredients": [
         {
           "name": "Beef sirloin",
@@ -1316,6 +1332,7 @@
       "name": "Easy Beef and Pepper Skillet",
       "servings": 4,
       "difficulty": "Difficult",
+      "image": "https://hips.hearstapps.com/goodhousekeeping/assets/15/51/1450378960-ghk-0116-sauteed-beef-pepper-skillet-with-fries.jpg",
       "ingredients": [
         {
           "name": "Ground beef",
@@ -1377,6 +1394,7 @@
       "name": "Beef Bulgogi",
       "servings": 4,
       "difficulty": "Moderate",
+      "image": "https://img.freepik.com/premium-photo/korean-beef-bulgogi-white-background-with-copy-space_431906-23.jpg?w=2000",
       "ingredients": [
         {
           "name": "Beef sirloin",
@@ -1438,6 +1456,7 @@
       "name": "Creamy Garlic Shrimp Pasta",
       "servings": 4,
       "difficulty": "Easy",
+      "image": "https://images-gmi-pmc.edge-generalmills.com/9697bbe1-c710-44a7-b5a8-d8adefea5058.jpg",
       "ingredients": [
         {
           "name": "Pasta",
@@ -1511,6 +1530,7 @@
       "name": "Japanese Miso Soup",
       "servings": 4,
       "difficulty": "Medium",
+      "image": "https://web-japan.org/kidsweb/img/cook_misoshiru_pic17.jpg",
       "ingredients": [
         {
           "name": "Dashi stock",
@@ -1553,6 +1573,7 @@
       "name": "Garlic Shrimp Linguine",
       "servings": 4,
       "difficulty": "Difficult",
+      "image": "https://images-gmi-pmc.edge-generalmills.com/8218a2ba-d750-40d3-9355-b9d58a02a626.jpg",
       "ingredients": [
         {
           "name": "Linguine pasta",
@@ -1621,6 +1642,7 @@
       "name": "Tomato Basil Soup",
       "servings": 4,
       "difficulty": "Easy",
+      "image": "https://thecozyapron.com/wp-content/uploads/2012/02/tomato-basil-soup_thecozyapron_1.jpg",
       "ingredients": [
         {
           "name": "Tomatoes",
@@ -1690,6 +1712,7 @@
       "name": "Grilled Salmon with Lemon and Herb Marinade",
       "servings": 4,
       "difficulty": "Difficult",
+      "image": "https://images-gmi-pmc.edge-generalmills.com/6bd4a0d4-bec0-43c9-93c5-8f69a02b6e34.jpg",
       "ingredients": [
         {
           "name": "Salmon fillets",
@@ -1746,6 +1769,7 @@
       "name": "Moroccan Chicken Tagine",
       "servings": 4,
       "difficulty": "Easy",
+      "image": "https://img.taste.com.au/UFKTkDGI/taste/2016/11/moroccan-chicken-tagine-102314-1.jpeg",
       "ingredients": [
         {
           "name": "Chicken thighs",
@@ -1840,6 +1864,7 @@
       "name": "Margherita Pizza",
       "servings": 2,
       "difficulty": "Moderate",
+      "image": "https://static01.nyt.com/images/2014/04/09/dining/09JPPIZZA2/09JPPIZZA2-videoSixteenByNineJumbo1600-v2.jpg",
       "ingredients": [
         {
           "name": "Pizza dough",
@@ -1894,6 +1919,7 @@
       "name": "Miso Soup",
       "servings": 4,
       "difficulty": "Difficult",
+      "image": "https://i.ytimg.com/vi/eOwnsH2u-F0/maxresdefault.jpg",
       "ingredients": [
         {
           "name": "Dashi",
@@ -1927,6 +1953,7 @@
       "name": "Chicken Teriyaki",
       "servings": 4,
       "difficulty": "Easy",
+      "image": "https://i0.wp.com/chefsavvy.com/wp-content/uploads/pouring-sauce-ontop-of-teriyaki-chicken-bowl.jpg?resize=665%2C363&ssl=1",
       "ingredients": [
         {
           "name": "Chicken thighs",
@@ -1977,6 +2004,7 @@
       "name": "Apple Pie",
       "servings": 8,
       "difficulty": "Easy",
+      "image": "https://www.mashed.com/img/gallery/the-untold-truth-of-apple-pie/l-intro-1643045440.jpg",
       "ingredients": [
         {
           "name": "Pie crust",
@@ -2033,6 +2061,7 @@
       "name": "Beef and Broccoli Stir-Fry",
       "servings": 4,
       "difficulty": "Medium",
+      "image": "https://www.savingdessert.com/wp-content/uploads/2013/01/Beef-and-Broccoli-Stir-Fry-3.jpg",
       "ingredients": [
         {
           "name": "Beef sirloin",
@@ -2105,6 +2134,7 @@
       "name": "Fried Rice with Vegetables",
       "servings": 4,
       "difficulty": "Moderate",
+      "image": "https://thumbs.dreamstime.com/b/chinese-fried-rice-vegetables-omelette-black-bowl-isolated-white-background-99762251.jpg",
       "ingredients": [
         {
           "name": "Cooked rice",
@@ -2182,6 +2212,7 @@
       "name": "Japanese Chicken Teriyaki",
       "servings": 4,
       "difficulty": "Medium",
+      "image": "https://static01.nyt.com/images/2016/05/28/dining/28COOKING-CHICKEN-TERIYAKI1/28COOKING-CHICKEN-TERIYAKI1-videoSixteenByNineJumbo1600.jpg",
       "ingredients": [
         {
           "name": "Boneless, skinless chicken thighs",
@@ -2240,6 +2271,7 @@
       "name": "Korean Bibimbap",
       "servings": 4,
       "difficulty": "Difficult",
+      "image": "https://www.maangchi.com/wp-content/uploads/2008/01/bibimbap-bowl-590x422.jpg",
       "ingredients": [
         {
           "name": "Short grain rice",
@@ -2339,6 +2371,7 @@
       "name": "Korean BBQ Beef Bulgogi",
       "servings": 4,
       "difficulty": "Medium",
+      "image": "https://www.aspicyperspective.com/wp-content/uploads/2020/01/bulgogi-korean-bbq-recipe-200-480x270.jpg",
       "ingredients": [
         {
           "name": "Beef sirloin",
@@ -2396,6 +2429,7 @@
       "name": "Teriyaki Salmon",
       "servings": 4,
       "difficulty": "Easy",
+      "image": "https://culinaryginger.com/wp-content/uploads/Teriyaki-Glazed-Salmon-59-720x405.jpg",
       "ingredients": [
         {
           "name": "Salmon fillets",
@@ -2459,6 +2493,7 @@
       "name": "Fried Rice with Vegetables",
       "servings": 4,
       "difficulty": "Medium",
+      "image": "https://www.seriouseats.com/thmb/tuMCogfAOy2zNdVqE7ydUwuru9Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/easy-vegetable-fried-rice-recipe-hero-2-fed2a62b8bce4c51b945d9c24c2edb68.jpg",
       "ingredients": [
         {
           "name": "Cooked rice",
@@ -2522,6 +2557,7 @@
       "name": "Roasted Sweet Potato and Black Bean Tacos",
       "servings": 4,
       "difficulty": "Medium",
+      "image": "https://www.mashed.com/img/gallery/roasted-sweet-potato-and-black-bean-tacos-recipe/l-intro-1631149755.jpg",
       "ingredients": [
         {
           "name": "Sweet potatoes",
