@@ -1,3 +1,4 @@
+
 {
   "recipes": [
     {
@@ -59,12 +60,12 @@
         {
           "name": "Salt",
           "quantity": null,
-          "unit": "to taste"
+          "unit": "To Taste"
         },
         {
           "name": "Pepper",
           "quantity": null,
-          "unit": "to taste"
+          "unit": "To Taste"
         }
       ],
       "instructions": [
@@ -86,47 +87,47 @@
       "ingredients": [
         {
           "name": "Butter",
-          "quantity": "1/2 cup",
+          "quantity": 0.5,
           "unit": "cup"
         },
         {
           "name": "Granulated sugar",
-          "quantity": "1/2 cup",
+          "quantity": 0.5,
           "unit": "cup"
         },
         {
           "name": "Brown sugar",
-          "quantity": "1/2 cup",
+          "quantity": 0.5,
           "unit": "cup"
         },
         {
           "name": "Egg",
-          "quantity": "1",
+          "quantity": 1,
           "unit": ""
         },
         {
           "name": "Vanilla extract",
-          "quantity": "1 tsp",
+          "quantity": 1,
           "unit": "tsp"
         },
         {
           "name": "All-purpose flour",
-          "quantity": "1 1/4 cups",
+          "quantity": 0.25,
           "unit": "cup"
         },
         {
           "name": "Baking soda",
-          "quantity": "1/2 tsp",
+          "quantity": 0.5,
           "unit": "tsp"
         },
         {
           "name": "Salt",
-          "quantity": "1/2 tsp",
+          "quantity": 0.5,
           "unit": "tsp"
         },
         {
           "name": "Chocolate chips",
-          "quantity": "1 cup",
+          "quantity": 1,
           "unit": "cup"
         }
       ],
@@ -151,57 +152,57 @@
       "ingredients": [
         {
           "name": "Romaine lettuce",
-          "quantity": "1 head",
+          "quantity": 1,
           "unit": ""
         },
         {
           "name": "Parmesan cheese",
-          "quantity": "1/2 cup",
+          "quantity": 0.5,
           "unit": "cup"
         },
         {
           "name": "Croutons",
-          "quantity": "1 cup",
+          "quantity": 1,
           "unit": "cup"
         },
         {
           "name": "Anchovy fillets",
-          "quantity": "4",
+          "quantity": 4,
           "unit": ""
         },
         {
           "name": "Garlic",
-          "quantity": "2 cloves",
+          "quantity": 2,
           "unit": ""
         },
         {
           "name": "Lemon juice",
-          "quantity": "1/4 cup",
+          "quantity": 0.25,
           "unit": "cup"
         },
         {
           "name": "Dijon mustard",
-          "quantity": "1 tsp",
+          "quantity": 1,
           "unit": "tsp"
         },
         {
           "name": "Worcestershire sauce",
-          "quantity": "1 tsp",
+          "quantity": 1,
           "unit": "tsp"
         },
         {
           "name": "Olive oil",
-          "quantity": "1/2 cup",
+          "quantity": 0.5,
           "unit": "cup"
         },
         {
           "name": "Salt",
-          "quantity": "1/4 tsp",
+          "quantity": 0.25,
           "unit": "tsp"
         },
         {
           "name": "Black pepper",
-          "quantity": "1/4 tsp",
+          "quantity": 0.25,
           "unit": "tsp"
         }
       ],
@@ -223,42 +224,42 @@
       "ingredients": [
         {
           "name": "Fettuccine pasta",
-          "quantity": "1 lb",
+          "quantity": 1,
           "unit": "lb"
         },
         {
           "name": "Chicken breast",
-          "quantity": "2",
+          "quantity": 2,
           "unit": ""
         },
         {
           "name": "Heavy cream",
-          "quantity": "1 cup",
+          "quantity": 1,
           "unit": "cup"
         },
         {
           "name": "Parmesan cheese",
-          "quantity": "1/2 cup",
+          "quantity": 0.5,
           "unit": "cup"
         },
         {
           "name": "Garlic",
-          "quantity": "2 cloves",
+          "quantity": 2,
           "unit": ""
         },
         {
           "name": "Butter",
-          "quantity": "4 tbsp",
+          "quantity": 4,
           "unit": "tbsp"
         },
         {
           "name": "Salt",
-          "quantity": "1/2 tsp",
+          "quantity": 0.5,
           "unit": "tsp"
         },
         {
           "name": "Black pepper",
-          "quantity": "1/4 tsp",
+          "quantity": 0.25,
           "unit": "tsp"
         }
       ],
@@ -281,37 +282,37 @@
       "ingredients": [
         {
           "name": "Pizza dough",
-          "quantity": "1 lb",
+          "quantity": 1,
           "unit": "lb"
         },
         {
           "name": "Tomato sauce",
-          "quantity": "1 cup",
+          "quantity": 1,
           "unit": "cup"
         },
         {
           "name": "Fresh mozzarella cheese",
-          "quantity": "8 oz",
+          "quantity": 8,
           "unit": "oz"
         },
         {
           "name": "Fresh basil leaves",
-          "quantity": "10",
+          "quantity": 10,
           "unit": ""
         },
         {
           "name": "Extra-virgin olive oil",
-          "quantity": "1 tbsp",
+          "quantity": 1,
           "unit": "tbsp"
         },
         {
           "name": "Salt",
-          "quantity": "1/4 tsp",
+          "quantity": 0.25,
           "unit": "tsp"
         },
         {
           "name": "Black pepper",
-          "quantity": "1/4 tsp",
+          "quantity": 0.25,
           "unit": "tsp"
         }
       ],
@@ -335,67 +336,67 @@
       "ingredients": [
         {
           "name": "Rice noodles",
-          "quantity": "8 oz",
+          "quantity": 8,
           "unit": "oz"
         },
         {
           "name": "Chicken breast",
-          "quantity": "2",
+          "quantity": 2,
           "unit": ""
         },
         {
           "name": "Garlic",
-          "quantity": "2 cloves",
+          "quantity": 2,
           "unit": ""
         },
         {
           "name": "Shallot",
-          "quantity": "1",
+          "quantity": 1,
           "unit": ""
         },
         {
           "name": "Bean sprouts",
-          "quantity": "2 cups",
+          "quantity": 2,
           "unit": "cups"
         },
         {
           "name": "Green onions",
-          "quantity": "4",
+          "quantity": 4,
           "unit": ""
         },
         {
           "name": "Egg",
-          "quantity": "2",
+          "quantity": 2,
           "unit": ""
         },
         {
           "name": "Peanuts",
-          "quantity": "1/4 cup",
+          "quantity": 0.25,
           "unit": "cup"
         },
         {
           "name": "Lime",
-          "quantity": "1",
+          "quantity": 1,
           "unit": ""
         },
         {
           "name": "Vegetable oil",
-          "quantity": "2 tbsp",
+          "quantity": 2,
           "unit": "tbsp"
         },
         {
           "name": "Fish sauce",
-          "quantity": "3 tbsp",
+          "quantity": 3,
           "unit": "tbsp"
         },
         {
           "name": "Tamarind concentrate",
-          "quantity": "1 tbsp",
+          "quantity": 1,
           "unit": "tbsp"
         },
         {
           "name": "Brown sugar",
-          "quantity": "1 tbsp",
+          "quantity": 1,
           "unit": "tbsp"
         }
       ],
@@ -423,117 +424,117 @@
       "ingredients": [
         {
           "name": "Basmati rice",
-          "quantity": "3 cups",
+          "quantity": 3,
           "unit": "cups"
         },
         {
           "name": "Chicken",
-          "quantity": "1 kg",
+          "quantity": 1,
           "unit": "kg"
         },
         {
           "name": "Onions",
-          "quantity": "2",
+          "quantity": 2,
           "unit": ""
         },
         {
           "name": "Tomatoes",
-          "quantity": "2",
+          "quantity": 2,
           "unit": ""
         },
         {
           "name": "Ginger",
-          "quantity": "1 inch piece",
+          "quantity": 1,
           "unit": "inch"
         },
         {
           "name": "Garlic",
-          "quantity": "6 cloves",
+          "quantity": 6,
           "unit": ""
         },
         {
           "name": "Green chilies",
-          "quantity": "3-4",
+          "quantity": 4,
           "unit": ""
         },
         {
           "name": "Yogurt",
-          "quantity": "1 cup",
+          "quantity": 1,
           "unit": "cup"
         },
         {
           "name": "Red chili powder",
-          "quantity": "1 tsp",
+          "quantity": 1,
           "unit": "tsp"
         },
         {
           "name": "Turmeric powder",
-          "quantity": "1/2 tsp",
+          "quantity": 0.5,
           "unit": "tsp"
         },
         {
           "name": "Garam masala powder",
-          "quantity": "1 tsp",
+          "quantity": 1,
           "unit": "tsp"
         },
         {
           "name": "Cumin powder",
-          "quantity": "1 tsp",
+          "quantity": 1,
           "unit": "tsp"
         },
         {
           "name": "Coriander powder",
-          "quantity": "1 tsp",
+          "quantity": 1,
           "unit": "tsp"
         },
         {
           "name": "Bay leaves",
-          "quantity": "2",
+          "quantity": 2,
           "unit": ""
         },
         {
           "name": "Cinnamon sticks",
-          "quantity": "2",
+          "quantity": 2,
           "unit": ""
         },
         {
           "name": "Green cardamom pods",
-          "quantity": "2",
+          "quantity": 2,
           "unit": ""
         },
         {
           "name": "Black cardamom pods",
-          "quantity": "2",
+          "quantity": 2,
           "unit": ""
         },
         {
           "name": "Cloves",
-          "quantity": "2",
+          "quantity": 2,
           "unit": ""
         },
         {
           "name": "Oil",
-          "quantity": "1/2 cup",
+          "quantity": 0.5,
           "unit": "cup"
         },
         {
           "name": "Salt",
-          "quantity": "to taste",
-          "unit": ""
+          "quantity": null,
+          "unit": "To Taste"
         },
         {
           "name": "Water",
-          "quantity": "5 cups",
+          "quantity": 5,
           "unit": "cups"
         },
         {
           "name": "Saffron",
-          "quantity": "1/4 tsp",
+          "quantity": 0.25,
           "unit": "tsp"
         },
         {
           "name": "Milk",
-          "quantity": "1/4 cup",
+          "quantity": 0.25,
           "unit": "cup"
         }
       ],
@@ -561,92 +562,92 @@
       "ingredients": [
         {
           "name": "Boneless mutton",
-          "quantity": "1 kg",
+          "quantity": 1,
           "unit": "kg"
         },
         {
           "name": "Split chickpeas",
-          "quantity": "1 cup",
+          "quantity": 1,
           "unit": "cup"
         },
         {
           "name": "Lentils",
-          "quantity": "1 cup",
+          "quantity": 1,
           "unit": "cup"
         },
         {
           "name": "Wheat",
-          "quantity": "1 cup",
+          "quantity": 1,
           "unit": "cup"
         },
         {
           "name": "Onions",
-          "quantity": "4",
+          "quantity": 4,
           "unit": ""
         },
         {
           "name": "Ginger garlic paste",
-          "quantity": "2 tbsp",
+          "quantity": 2,
           "unit": "tbsp"
         },
         {
           "name": "Green chilies",
-          "quantity": "6",
+          "quantity": 6,
           "unit": ""
         },
         {
           "name": "Red chili powder",
-          "quantity": "2 tsp",
+          "quantity": 2,
           "unit": "tsp"
         },
         {
           "name": "Turmeric powder",
-          "quantity": "1 tsp",
+          "quantity": 1,
           "unit": "tsp"
         },
         {
           "name": "Coriander powder",
-          "quantity": "2 tsp",
+          "quantity": 2,
           "unit": "tsp"
         },
         {
           "name": "Cumin powder",
-          "quantity": "1 tsp",
+          "quantity": 1,
           "unit": "tsp"
         },
         {
           "name": "Garam masala powder",
-          "quantity": "1 tsp",
+          "quantity": 1,
           "unit": "tsp"
         },
         {
           "name": "Salt",
-          "quantity": "to taste",
-          "unit": ""
+          "quantity": null,
+          "unit": "To Taste"
         },
         {
           "name": "Oil",
-          "quantity": "1 cup",
+          "quantity": 1,
           "unit": "cup"
         },
         {
           "name": "Lemon",
-          "quantity": "1",
+          "quantity": 1,
           "unit": ""
         },
         {
           "name": "Mint leaves",
-          "quantity": "1/2 cup",
+          "quantity": 0.5,
           "unit": "cup"
         },
         {
           "name": "Fried onions",
-          "quantity": "1 cup",
+          "quantity": 1,
           "unit": "cup"
         },
         {
           "name": "Ginger",
-          "quantity": "1 inch piece",
+          "quantity": 1,
           "unit": "inch"
         }
       ],
@@ -670,52 +671,52 @@
       "ingredients": [
         {
           "name": "Coconut Milk",
-          "quantity": "400ml",
+          "quantity": 400,
           "unit": "ml"
         },
         {
           "name": "Green Curry Paste",
-          "quantity": "2 tbsp",
+          "quantity": 2,
           "unit": "tbsp"
         },
         {
           "name": "Boneless Chicken",
-          "quantity": "500g",
+          "quantity": 500,
           "unit": "g"
         },
         {
           "name": "Eggplant",
-          "quantity": "1",
+          "quantity": 1,
           "unit": ""
         },
         {
           "name": "Bamboo Shoots",
-          "quantity": "1/2 cup",
+          "quantity": 0.5,
           "unit": "cup"
         },
         {
           "name": "Green Beans",
-          "quantity": "1/2 cup",
+          "quantity": 0.5,
           "unit": "cup"
         },
         {
           "name": "Kaffir Lime Leaves",
-          "quantity": "4-5",
+          "quantity": 5,
           "unit": ""
         },
         {
           "name": "Fish Sauce",
-          "quantity": "2 tbsp",
+          "quantity": 2,
           "unit": "tbsp"
         },
         {
           "name": "Sugar",
-          "quantity": "1 tsp",
+          "quantity": 1,
           "unit": "tsp"
         },
         {
           "name": "Salt",
-          "quantity": "To taste",
+          "quantity": null,
           "unit": "To Taste"
         }
       ],
@@ -736,77 +737,77 @@
       "ingredients": [
         {
           "name": "Mutton",
-          "quantity": "500g",
+          "quantity": 500,
           "unit": "g"
         },
         {
           "name": "Potatoes",
-          "quantity": "2",
+          "quantity": 2,
           "unit": ""
         },
         {
           "name": "Onions",
-          "quantity": "2",
+          "quantity": 2,
           "unit": ""
         },
         {
           "name": "Tomatoes",
-          "quantity": "2",
+          "quantity": 2,
           "unit": ""
         },
         {
           "name": "Garlic",
-          "quantity": "4 cloves",
+          "quantity": 4,
           "unit": ""
         },
         {
           "name": "Ginger",
-          "quantity": "1-inch piece",
+          "quantity": 1,
           "unit": ""
         },
         {
           "name": "Green Chilies",
-          "quantity": "4-5",
+          "quantity": 4,
           "unit": ""
         },
         {
           "name": "Cumin Seeds",
-          "quantity": "1 tsp",
+          "quantity": 1,
           "unit": "tsp"
         },
         {
           "name": "Coriander Powder",
-          "quantity": "1 tsp",
+          "quantity": 1,
           "unit": "tsp"
         },
         {
           "name": "Turmeric Powder",
-          "quantity": "1/2 tsp",
+          "quantity": 0.5,
           "unit": "tsp"
         },
         {
           "name": "Red Chili Powder",
-          "quantity": "1 tsp",
+          "quantity": 1,
           "unit": "tsp"
         },
         {
           "name": "Salt",
-          "quantity": "To taste",
+          "quantity": null,
           "unit": "To Taste"
         },
         {
           "name": "Oil",
-          "quantity": "1/4 cup",
+          "quantity": 0.25,
           "unit": "cup"
         },
         {
           "name": "Water",
-          "quantity": "1 cup",
+          "quantity": 1,
           "unit": "cup"
         },
         {
           "name": "Fresh Coriander",
-          "quantity": "For garnish",
+          "quantity": 1,
           "unit": ""
         }
       ],
@@ -828,87 +829,87 @@
       "ingredients": [
         {
           "name": "Beef Bones",
-          "quantity": "3 lbs",
+          "quantity": 3,
           "unit": "lbs"
         },
         {
           "name": "Beef Chuck",
-          "quantity": "1 lb",
+          "quantity": 1,
           "unit": "lb"
         },
         {
           "name": "Yellow Onion",
-          "quantity": "1",
+          "quantity": 1,
           "unit": ""
         },
         {
           "name": "Ginger",
-          "quantity": "4-inch piece",
-          "unit": ""
+          "quantity": 4,
+          "unit": "inch"
         },
         {
           "name": "Star Anise",
-          "quantity": "2 pods",
+          "quantity": 2,
           "unit": "pods"
         },
         {
           "name": "Cloves",
-          "quantity": "3",
+          "quantity": 3,
           "unit": ""
         },
         {
           "name": "Cinnamon Stick",
-          "quantity": "1",
+          "quantity": 1,
           "unit": ""
         },
         {
           "name": "Fish Sauce",
-          "quantity": "3 tbsp",
+          "quantity": 3,
           "unit": "tbsp"
         },
         {
           "name": "Rock Sugar",
-          "quantity": "1 tbsp",
+          "quantity": 1,
           "unit": "tbsp"
         },
         {
           "name": "Rice Noodles",
-          "quantity": "1 lb",
+          "quantity": 1,
           "unit": "lb"
         },
         {
           "name": "Bean Sprouts",
-          "quantity": "2 cups",
+          "quantity": 2,
           "unit": "cup"
         },
         {
           "name": "Basil Leaves",
-          "quantity": "1 cup",
+          "quantity": 1,
           "unit": "cup"
         },
         {
           "name": "Cilantro",
-          "quantity": "1 cup",
+          "quantity": 1,
           "unit": "cup"
         },
         {
           "name": "Lime",
-          "quantity": "1",
+          "quantity": 1,
           "unit": ""
         },
         {
           "name": "Thai Chili Peppers",
-          "quantity": "3-4",
+          "quantity": 3,
           "unit": ""
         },
         {
           "name": "Hoisin Sauce",
-          "quantity": "To taste",
+          "quantity": null,
           "unit": "To Taste"
         },
         {
           "name": "Sriracha Sauce",
-          "quantity": "To taste",
+          "quantity": null,
           "unit": "To Taste"
         }
       ],
@@ -932,42 +933,42 @@
       "ingredients": [
         {
           "name": "Chicken Thighs",
-          "quantity": "1 lb",
+          "quantity": 1,
           "unit": "lb"
         },
         {
           "name": "Soy Sauce",
-          "quantity": "1/2 cup",
+          "quantity": 0.5,
           "unit": "cup"
         },
         {
           "name": "Mirin",
-          "quantity": "1/4 cup",
+          "quantity": 0.25,
           "unit": "cup"
         },
         {
           "name": "Brown Sugar",
-          "quantity": "2 tbsp",
+          "quantity": 2,
           "unit": "tbsp"
         },
         {
           "name": "Garlic",
-          "quantity": "2 cloves, minced",
+          "quantity": 2,
           "unit": ""
         },
         {
           "name": "Ginger",
-          "quantity": "1 inch piece, grated",
+          "quantity": 1,
           "unit": ""
         },
         {
           "name": "Green Onions",
-          "quantity": "2, thinly sliced",
+          "quantity": 2,
           "unit": ""
         },
         {
           "name": "Sesame Seeds",
-          "quantity": "1 tbsp",
+          "quantity": 1,
           "unit": "tbsp"
         }
       ],
@@ -990,42 +991,42 @@
       "ingredients": [
         {
           "name": "Sirloin Steak",
-          "quantity": "1 lb, thinly sliced",
+          "quantity": 1,
           "unit": "lb"
         },
         {
           "name": "Soy Sauce",
-          "quantity": "1/4 cup",
+          "quantity": 0.25,
           "unit": "cup"
         },
         {
           "name": "Brown Sugar",
-          "quantity": "2 tbsp",
+          "quantity": 2,
           "unit": "tbsp"
         },
         {
           "name": "Sesame Oil",
-          "quantity": "2 tbsp",
+          "quantity": 2,
           "unit": "tbsp"
         },
         {
           "name": "Garlic",
-          "quantity": "3 cloves, minced",
+          "quantity": 3,
           "unit": ""
         },
         {
           "name": "Ginger",
-          "quantity": "1 inch piece, grated",
-          "unit": ""
+          "quantity": 1,
+          "unit": "inch"
         },
         {
           "name": "Green Onions",
-          "quantity": "2, thinly sliced",
+          "quantity": 2,
           "unit": ""
         },
         {
           "name": "Sesame Seeds",
-          "quantity": "1 tbsp",
+          "quantity": 1,
           "unit": "tbsp"
         }
       ],
@@ -1046,102 +1047,102 @@
       "ingredients": [
         {
           "name": "Basmati Rice",
-          "quantity": "2 cups",
+          "quantity": 2,
           "unit": "cup"
         },
         {
           "name": "Chicken Thighs",
-          "quantity": "1 lb, bone-in",
+          "quantity": 1,
           "unit": "lb"
         },
         {
           "name": "Yogurt",
-          "quantity": "1 cup",
+          "quantity": 1,
           "unit": "cup"
         },
         {
           "name": "Onion",
-          "quantity": "1 large, sliced",
+          "quantity": 1,
           "unit": ""
         },
         {
           "name": "Garlic",
-          "quantity": "4 cloves, minced",
+          "quantity": 4,
           "unit": ""
         },
         {
           "name": "Ginger",
-          "quantity": "1 inch piece, grated",
-          "unit": ""
+          "quantity": 1,
+          "unit": "inch"
         },
         {
           "name": "Tomatoes",
-          "quantity": "2, diced",
+          "quantity": 2,
           "unit": ""
         },
         {
           "name": "Green Chilies",
-          "quantity": "2, sliced",
+          "quantity": 2,
           "unit": ""
         },
         {
           "name": "Cumin Powder",
-          "quantity": "1 tsp",
+          "quantity": 1,
           "unit": "tsp"
         },
         {
           "name": "Coriander Powder",
-          "quantity": "1 tsp",
+          "quantity": 1,
           "unit": "tsp"
         },
         {
           "name": "Turmeric Powder",
-          "quantity": "1/2 tsp",
+          "quantity": 0.5,
           "unit": "tsp"
         },
         {
           "name": "Red Chili Powder",
-          "quantity": "1 tsp",
+          "quantity": 1,
           "unit": "tsp"
         },
         {
           "name": "Cinnamon Stick",
-          "quantity": "1",
+          "quantity": 1,
           "unit": ""
         },
         {
           "name": "Cloves",
-          "quantity": "4",
+          "quantity": 4,
           "unit": ""
         },
         {
           "name": "Green Cardamom Pods",
-          "quantity": "4",
+          "quantity": 4,
           "unit": ""
         },
         {
           "name": "Bay Leaf",
-          "quantity": "1",
+          "quantity": 1,
           "unit": ""
         },
         {
           "name": "Salt",
-          "quantity": "to taste",
+          "quantity": null,
           "unit": "To Taste"
         },
         {
           "name": "Oil",
-          "quantity": "1/2 cup",
+          "quantity": 0.5,
           "unit": "cup"
         },
         {
           "name": "Water",
-          "quantity": "4 cups",
+          "quantity": 4,
           "unit": "cup"
         },
         {
           "name": "Fresh Cilantro Leaves",
-          "quantity": "1/4 cup",
+          "quantity": 0.25,
           "unit": "cup"
         }
       ],
@@ -1169,82 +1170,82 @@
       "ingredients": [
         {
           "name": "Ground lamb",
-          "quantity": "1/2 lb",
+          "quantity": 0.5,
           "unit": "lb"
         },
         {
           "name": "Tomatoes",
-          "quantity": "2",
+          "quantity": 2,
           "unit": ""
         },
         {
           "name": "Onion",
-          "quantity": "1",
+          "quantity": 1,
           "unit": ""
         },
         {
           "name": "Garlic",
-          "quantity": "3 cloves",
+          "quantity": 3,
           "unit": ""
         },
         {
           "name": "Red pepper",
-          "quantity": "1",
+          "quantity": 1,
           "unit": ""
         },
         {
           "name": "Parsley",
-          "quantity": "1/4 cup",
+          "quantity": 0.25,
           "unit": "cup"
         },
         {
           "name": "Lemon",
-          "quantity": "1",
+          "quantity": 1,
           "unit": ""
         },
         {
           "name": "Salt",
-          "quantity": "1 tsp",
+          "quantity": 1,
           "unit": "tsp"
         },
         {
           "name": "Black pepper",
-          "quantity": "1/2 tsp",
+          "quantity": 0.5,
           "unit": "tsp"
         },
         {
           "name": "Allspice",
-          "quantity": "1/2 tsp",
+          "quantity": 0.5,
           "unit": "tsp"
         },
         {
           "name": "Cumin",
-          "quantity": "1/2 tsp",
+          "quantity": 0.5,
           "unit": "tsp"
         },
         {
           "name": "Paprika",
-          "quantity": "1 tsp",
+          "quantity": 1,
           "unit": "tsp"
         },
         {
           "name": "Tomato paste",
-          "quantity": "2 tbsp",
+          "quantity": 2,
           "unit": "tbsp"
         },
         {
           "name": "Olive oil",
-          "quantity": "2 tbsp",
+          "quantity": 2,
           "unit": "tbsp"
         },
         {
           "name": "Water",
-          "quantity": "1/4 cup",
+          "quantity": 0.25,
           "unit": "cup"
         },
         {
           "name": "Pizza dough",
-          "quantity": "1 lb",
+          "quantity": 1,
           "unit": "lb"
         }
       ],
@@ -1268,52 +1269,52 @@
       "ingredients": [
         {
           "name": "Beef sirloin",
-          "quantity": "1 lb",
+          "quantity": 1,
           "unit": "lb"
         },
         {
           "name": "Broccoli florets",
-          "quantity": "4 cups",
+          "quantity": 4,
           "unit": "cups"
         },
         {
           "name": "Garlic",
-          "quantity": "3 cloves",
+          "quantity": 3,
           "unit": ""
         },
         {
           "name": "Ginger",
-          "quantity": "1 tbsp",
+          "quantity": 1,
           "unit": "tbsp"
         },
         {
           "name": "Soy sauce",
-          "quantity": "3 tbsp",
+          "quantity": 3,
           "unit": "tbsp"
         },
         {
           "name": "Cornstarch",
-          "quantity": "2 tsp",
+          "quantity": 2,
           "unit": "tsp"
         },
         {
           "name": "Water",
-          "quantity": "1/4 cup",
+          "quantity": 0.25,
           "unit": "cup"
         },
         {
           "name": "Vegetable oil",
-          "quantity": "2 tbsp",
+          "quantity": 2,
           "unit": "tbsp"
         },
         {
           "name": "Salt",
-          "quantity": "1/2 tsp",
+          "quantity": 0.5,
           "unit": "tsp"
         },
         {
           "name": "Black pepper",
-          "quantity": "1/4 tsp",
+          "quantity": 0.25,
           "unit": "tsp"
         }
       ],
@@ -1336,47 +1337,47 @@
       "ingredients": [
         {
           "name": "Ground beef",
-          "quantity": "1 lb",
+          "quantity": 1,
           "unit": "lb"
         },
         {
           "name": "Onion",
-          "quantity": "1",
+          "quantity": 1,
           "unit": ""
         },
         {
           "name": "Garlic cloves",
-          "quantity": "2",
+          "quantity": 2,
           "unit": ""
         },
         {
           "name": "Green bell pepper",
-          "quantity": "1",
+          "quantity": 1,
           "unit": ""
         },
         {
           "name": "Red bell pepper",
-          "quantity": "1",
+          "quantity": 1,
           "unit": ""
         },
         {
           "name": "Diced tomatoes",
-          "quantity": "1 can (14.5 oz)",
+          "quantity": 1,
           "unit": "can"
         },
         {
           "name": "Salt",
-          "quantity": "1 tsp",
+          "quantity": 1,
           "unit": "tsp"
         },
         {
           "name": "Black pepper",
-          "quantity": "1/2 tsp",
+          "quantity": 0.5,
           "unit": "tsp"
         },
         {
           "name": "Olive oil",
-          "quantity": "2 tbsp",
+          "quantity": 2,
           "unit": "tbsp"
         }
       ],
@@ -1398,47 +1399,47 @@
       "ingredients": [
         {
           "name": "Beef sirloin",
-          "quantity": "1 lb",
+          "quantity": 1,
           "unit": "lb"
         },
         {
           "name": "Soy sauce",
-          "quantity": "1/2 cup",
+          "quantity": 0.5,
           "unit": "cup"
         },
         {
           "name": "Brown sugar",
-          "quantity": "1/4 cup",
+          "quantity": 0.25,
           "unit": "cup"
         },
         {
           "name": "Sesame oil",
-          "quantity": "1 tbsp",
+          "quantity": 1,
           "unit": "tbsp"
         },
         {
           "name": "Garlic",
-          "quantity": "4 cloves",
+          "quantity": 4,
           "unit": ""
         },
         {
           "name": "Green onions",
-          "quantity": "4",
+          "quantity": 4,
           "unit": ""
         },
         {
           "name": "Pear",
-          "quantity": "1",
+          "quantity": 1,
           "unit": ""
         },
         {
           "name": "Sesame seeds",
-          "quantity": "1 tbsp",
+          "quantity": 1,
           "unit": "tbsp"
         },
         {
           "name": "Vegetable oil",
-          "quantity": "1 tbsp",
+          "quantity": 1,
           "unit": "tbsp"
         }
       ],
@@ -1460,52 +1461,52 @@
       "ingredients": [
         {
           "name": "Pasta",
-          "quantity": "1 lb",
+          "quantity": 1,
           "unit": "lb"
         },
         {
           "name": "Shrimp",
-          "quantity": "1 lb",
+          "quantity": 1,
           "unit": "lb"
         },
         {
           "name": "Garlic",
-          "quantity": "6 cloves",
+          "quantity": 6,
           "unit": ""
         },
         {
           "name": "Heavy cream",
-          "quantity": "1 cup",
+          "quantity": 1,
           "unit": "cup"
         },
         {
           "name": "Butter",
-          "quantity": "4 tbsp",
+          "quantity": 4,
           "unit": "tbsp"
         },
         {
           "name": "Parmesan cheese",
-          "quantity": "1/2 cup",
+          "quantity": 0.5,
           "unit": "cup"
         },
         {
           "name": "Lemon",
-          "quantity": "1",
+          "quantity": 1,
           "unit": ""
         },
         {
           "name": "Salt",
-          "quantity": "to taste",
-          "unit": ""
+          "quantity": null,
+          "unit": "To Taste"
         },
         {
           "name": "Pepper",
-          "quantity": "to taste",
-          "unit": ""
+          "quantity": null,
+          "unit": "To Taste"
         },
         {
           "name": "Olive oil",
-          "quantity": "2 tbsp",
+          "quantity": 2,
           "unit": "tbsp"
         }
       ],
@@ -1534,27 +1535,27 @@
       "ingredients": [
         {
           "name": "Dashi stock",
-          "quantity": "4 cups",
+          "quantity": 4,
           "unit": "cups"
         },
         {
           "name": "Miso paste",
-          "quantity": "4 tbsp",
+          "quantity": 4,
           "unit": "tbsp"
         },
         {
           "name": "Tofu",
-          "quantity": "8 oz",
+          "quantity": 8,
           "unit": "oz"
         },
         {
           "name": "Green onions",
-          "quantity": "2",
+          "quantity": 2,
           "unit": ""
         },
         {
           "name": "Seaweed",
-          "quantity": "2 sheets",
+          "quantity": 2,
           "unit": "sheets"
         }
       ],
@@ -1577,52 +1578,52 @@
       "ingredients": [
         {
           "name": "Linguine pasta",
-          "quantity": "8 oz",
+          "quantity": 8,
           "unit": "oz"
         },
         {
           "name": "Shrimp",
-          "quantity": "1 lb",
+          "quantity": 1,
           "unit": "lb"
         },
         {
           "name": "Garlic",
-          "quantity": "3 cloves",
+          "quantity": 3,
           "unit": ""
         },
         {
           "name": "Butter",
-          "quantity": "2 tbsp",
+          "quantity": 2,
           "unit": "tbsp"
         },
         {
           "name": "Olive oil",
-          "quantity": "2 tbsp",
+          "quantity": 2,
           "unit": "tbsp"
         },
         {
           "name": "Red pepper flakes",
-          "quantity": "1/4 tsp",
+          "quantity": 0.25,
           "unit": "tsp"
         },
         {
           "name": "Lemon",
-          "quantity": "1",
+          "quantity": 1,
           "unit": ""
         },
         {
           "name": "Salt",
-          "quantity": "1/4 tsp",
+          "quantity": 0.25,
           "unit": "tsp"
         },
         {
           "name": "Black pepper",
-          "quantity": "1/4 tsp",
+          "quantity": 0.25,
           "unit": "tsp"
         },
         {
           "name": "Parsley",
-          "quantity": "2 tbsp",
+          "quantity": 2,
           "unit": "tbsp"
         }
       ],
@@ -1646,48 +1647,48 @@
       "ingredients": [
         {
           "name": "Tomatoes",
-          "quantity": "4",
+          "quantity": 4,
           "unit": ""
         },
         {
           "name": "Onion",
-          "quantity": "1",
+          "quantity": 1,
           "unit": ""
         },
         {
           "name": "Garlic",
-          "quantity": "3 cloves",
+          "quantity": 3,
           "unit": ""
         },
         {
           "name": "Olive oil",
-          "quantity": "2 tbsp",
+          "quantity": 2,
           "unit": "tbsp"
         },
         {
           "name": "Vegetable broth",
-          "quantity": "2 cups",
+          "quantity": 2,
           "unit": "cups"
         },
         {
           "name": "Heavy cream",
-          "quantity": "1/2 cup",
+          "quantity": 0.5,
           "unit": "cup"
         },
         {
           "name": "Fresh basil",
-          "quantity": "1/4 cup",
+          "quantity": 0.25,
           "unit": "cup"
         },
         {
           "name": "Salt",
-          "quantity": "To taste",
-          "unit": ""
+          "quantity": null,
+          "unit": "To Taste"
         },
         {
           "name": "Black pepper",
-          "quantity": "To taste",
-          "unit": ""
+          "quantity": null,
+          "unit": "To Taste"
         }
       ],
       "instructions": [
@@ -1716,42 +1717,42 @@
       "ingredients": [
         {
           "name": "Salmon fillets",
-          "quantity": "4",
+          "quantity": 4,
           "unit": ""
         },
         {
           "name": "Lemon",
-          "quantity": "1",
+          "quantity": 1,
           "unit": ""
         },
         {
           "name": "Garlic",
-          "quantity": "2 cloves",
+          "quantity": 2,
           "unit": ""
         },
         {
           "name": "Olive oil",
-          "quantity": "3 tbsp",
+          "quantity": 3,
           "unit": "tbsp"
         },
         {
           "name": "Fresh thyme",
-          "quantity": "1 tbsp",
+          "quantity": 1,
           "unit": "tbsp"
         },
         {
           "name": "Fresh parsley",
-          "quantity": "1 tbsp",
+          "quantity": 1,
           "unit": "tbsp"
         },
         {
           "name": "Salt",
-          "quantity": "1/2 tsp",
+          "quantity": 0.5,
           "unit": "tsp"
         },
         {
           "name": "Black pepper",
-          "quantity": "1/4 tsp",
+          "quantity": 0.25,
           "unit": "tsp"
         }
       ],
@@ -1773,77 +1774,77 @@
       "ingredients": [
         {
           "name": "Chicken thighs",
-          "quantity": "4",
+          "quantity": 4,
           "unit": ""
         },
         {
           "name": "Olive oil",
-          "quantity": "2 tbsp",
+          "quantity": 2,
           "unit": "tbsp"
         },
         {
           "name": "Onion",
-          "quantity": "1",
+          "quantity": 1,
           "unit": ""
         },
         {
           "name": "Garlic",
-          "quantity": "2 cloves",
+          "quantity": 2,
           "unit": ""
         },
         {
           "name": "Tomato",
-          "quantity": "1",
+          "quantity": 1,
           "unit": ""
         },
         {
           "name": "Carrot",
-          "quantity": "2",
+          "quantity": 2,
           "unit": ""
         },
         {
           "name": "Potato",
-          "quantity": "2",
+          "quantity": 2,
           "unit": ""
         },
         {
           "name": "Green olives",
-          "quantity": "1/2 cup",
+          "quantity": 0.25,
           "unit": "cup"
         },
         {
           "name": "Lemon",
-          "quantity": "1",
+          "quantity": 1,
           "unit": ""
         },
         {
           "name": "Chicken broth",
-          "quantity": "1 cup",
+          "quantity": 1,
           "unit": "cup"
         },
         {
           "name": "Cumin",
-          "quantity": "1 tsp",
+          "quantity": 1,
           "unit": "tsp"
         },
         {
           "name": "Coriander",
-          "quantity": "1 tsp",
+          "quantity": 1,
           "unit": "tsp"
         },
         {
           "name": "Cinnamon",
-          "quantity": "1/2 tsp",
+          "quantity": 0.5,
           "unit": "tsp"
         },
         {
           "name": "Salt",
-          "quantity": "1/2 tsp",
+          "quantity": 0.5,
           "unit": "tsp"
         },
         {
           "name": "Black pepper",
-          "quantity": "1/4 tsp",
+          "quantity": 0.25,
           "unit": "tsp"
         }
       ],
@@ -1868,38 +1869,38 @@
       "ingredients": [
         {
           "name": "Pizza dough",
-          "quantity": "1 pound",
+          "quantity": 1,
           "unit": "pound"
         },
         {
           "name": "San Marzano tomatoes",
-          "quantity": "1 can",
+          "quantity": 1,
           "unit": "can"
         },
         {
           "name": "Fresh mozzarella cheese",
-          "quantity": "8 ounces",
+          "quantity": 8,
           "unit": "ounces"
         },
         {
           "name": "Basil leaves",
-          "quantity": "1/4 cup",
+          "quantity": 0.25,
           "unit": "cup"
         },
         {
           "name": "Extra-virgin olive oil",
-          "quantity": "2 tablespoons",
-          "unit": "tablespoons"
+          "quantity": 2,
+          "unit": "tbsp"
         },
         {
           "name": "Garlic",
-          "quantity": "2 cloves",
+          "quantity": 2,
           "unit": ""
         },
         {
           "name": "Salt",
-          "quantity": "1/2 teaspoon",
-          "unit": "teaspoon"
+          "quantity": 0.5,
+          "unit": "tsp"
         }
       ],
       "instructions": [
@@ -1923,22 +1924,22 @@
       "ingredients": [
         {
           "name": "Dashi",
-          "quantity": "4 cups",
+          "quantity": 4,
           "unit": "cups"
         },
         {
           "name": "Miso paste",
-          "quantity": "4 tbsp",
+          "quantity": 4,
           "unit": "tbsp"
         },
         {
           "name": "Tofu",
-          "quantity": "8 oz",
+          "quantity": 8,
           "unit": "oz"
         },
         {
           "name": "Green onions",
-          "quantity": "2",
+          "quantity": 2,
           "unit": ""
         }
       ],
@@ -1957,37 +1958,37 @@
       "ingredients": [
         {
           "name": "Chicken thighs",
-          "quantity": "4",
+          "quantity": 4,
           "unit": ""
         },
         {
           "name": "Soy sauce",
-          "quantity": "1/2 cup",
+          "quantity": 0.5,
           "unit": "cup"
         },
         {
           "name": "Mirin",
-          "quantity": "1/4 cup",
+          "quantity": 0.25,
           "unit": "cup"
         },
         {
           "name": "Brown sugar",
-          "quantity": "2 tbsp",
+          "quantity": 2,
           "unit": "tbsp"
         },
         {
           "name": "Vegetable oil",
-          "quantity": "1 tbsp",
+          "quantity": 1,
           "unit": "tbsp"
         },
         {
           "name": "Sesame seeds",
-          "quantity": "1 tbsp",
+          "quantity": 1,
           "unit": "tbsp"
         },
         {
           "name": "Green onions",
-          "quantity": "2",
+          "quantity": 2,
           "unit": ""
         }
       ],
@@ -2008,37 +2009,37 @@
       "ingredients": [
         {
           "name": "Pie crust",
-          "quantity": "2",
+          "quantity": 2,
           "unit": ""
         },
         {
           "name": "Apples",
-          "quantity": "6",
+          "quantity": 6,
           "unit": ""
         },
         {
           "name": "Sugar",
-          "quantity": "3/4 cup",
+          "quantity": 0.75,
           "unit": "cup"
         },
         {
           "name": "Flour",
-          "quantity": "2 tbsp",
+          "quantity": 2,
           "unit": "tbsp"
         },
         {
           "name": "Cinnamon",
-          "quantity": "1 tsp",
+          "quantity": 1,
           "unit": "tsp"
         },
         {
           "name": "Nutmeg",
-          "quantity": "1/2 tsp",
+          "quantity": 0.5,
           "unit": "tsp"
         },
         {
           "name": "Butter",
-          "quantity": "1/4 cup",
+          "quantity": 0.25,
           "unit": "cup"
         }
       ],
@@ -2065,52 +2066,52 @@
       "ingredients": [
         {
           "name": "Beef sirloin",
-          "quantity": "1 lb",
+          "quantity": 1,
           "unit": "lb"
         },
         {
           "name": "Broccoli",
-          "quantity": "1 head",
+          "quantity": 1,
           "unit": ""
         },
         {
           "name": "Garlic",
-          "quantity": "4 cloves",
+          "quantity": 4,
           "unit": ""
         },
         {
           "name": "Ginger",
-          "quantity": "1 tbsp",
+          "quantity": 1,
           "unit": "tbsp"
         },
         {
           "name": "Soy sauce",
-          "quantity": "1/4 cup",
+          "quantity": 0.25,
           "unit": "cup"
         },
         {
           "name": "Cornstarch",
-          "quantity": "1 tbsp",
+          "quantity": 1,
           "unit": "tbsp"
         },
         {
           "name": "Sesame oil",
-          "quantity": "1 tbsp",
+          "quantity": 1,
           "unit": "tbsp"
         },
         {
           "name": "Vegetable oil",
-          "quantity": "2 tbsp",
+          "quantity": 2,
           "unit": "tbsp"
         },
         {
           "name": "Salt",
-          "quantity": "1/4 tsp",
+          "quantity": 0.25,
           "unit": "tsp"
         },
         {
           "name": "Black pepper",
-          "quantity": "1/4 tsp",
+          "quantity": 0.25,
           "unit": "tsp"
         }
       ],
@@ -2138,62 +2139,62 @@
       "ingredients": [
         {
           "name": "Cooked rice",
-          "quantity": "4 cups",
+          "quantity": 4,
           "unit": "cups"
         },
         {
           "name": "Carrot",
-          "quantity": "1",
+          "quantity": 1,
           "unit": ""
         },
         {
           "name": "Green beans",
-          "quantity": "1 cup",
+          "quantity": 1,
           "unit": "cup"
         },
         {
           "name": "Green peas",
-          "quantity": "1/2 cup",
+          "quantity": 0.5,
           "unit": "cup"
         },
         {
           "name": "Onion",
-          "quantity": "1",
+          "quantity": 1,
           "unit": ""
         },
         {
           "name": "Garlic",
-          "quantity": "2 cloves",
+          "quantity": 2,
           "unit": ""
         },
         {
           "name": "Egg",
-          "quantity": "2",
+          "quantity": 2,
           "unit": ""
         },
         {
           "name": "Soy sauce",
-          "quantity": "3 tbsp",
+          "quantity": 3,
           "unit": "tbsp"
         },
         {
           "name": "Sesame oil",
-          "quantity": "1 tbsp",
+          "quantity": 1,
           "unit": "tbsp"
         },
         {
           "name": "Salt",
-          "quantity": "1/2 tsp",
+          "quantity": 0.5,
           "unit": "tsp"
         },
         {
           "name": "Black pepper",
-          "quantity": "1/4 tsp",
+          "quantity": 0.25,
           "unit": "tsp"
         },
         {
           "name": "Vegetable oil",
-          "quantity": "2 tbsp",
+          "quantity": 2,
           "unit": "tbsp"
         }
       ],
@@ -2216,42 +2217,42 @@
       "ingredients": [
         {
           "name": "Boneless, skinless chicken thighs",
-          "quantity": "4",
+          "quantity": 4,
           "unit": ""
         },
         {
           "name": "Soy sauce",
-          "quantity": "1/4 cup",
+          "quantity": 0.25,
           "unit": "cup"
         },
         {
           "name": "Mirin",
-          "quantity": "1/4 cup",
+          "quantity": 0.25,
           "unit": "cup"
         },
         {
           "name": "Sake",
-          "quantity": "1/4 cup",
+          "quantity": 0.25,
           "unit": "cup"
         },
         {
           "name": "Sugar",
-          "quantity": "2 tbsp",
+          "quantity": 2,
           "unit": "tbsp"
         },
         {
           "name": "Vegetable oil",
-          "quantity": "1 tbsp",
+          "quantity": 1,
           "unit": "tbsp"
         },
         {
           "name": "Sesame seeds",
-          "quantity": "1 tbsp",
+          "quantity": 1,
           "unit": "tbsp"
         },
         {
           "name": "Green onions",
-          "quantity": "2",
+          "quantity": 2,
           "unit": ""
         }
       ],
@@ -2275,77 +2276,77 @@
       "ingredients": [
         {
           "name": "Short grain rice",
-          "quantity": "2 cups",
+          "quantity": 2,
           "unit": "cups"
         },
         {
           "name": "Ground beef",
-          "quantity": "1 pound",
+          "quantity": 1,
           "unit": "pound"
         },
         {
           "name": "Carrot",
-          "quantity": "1",
+          "quantity": 1,
           "unit": ""
         },
         {
           "name": "Spinach",
-          "quantity": "2 cups",
+          "quantity": 2,
           "unit": "cups"
         },
         {
           "name": "Zucchini",
-          "quantity": "1",
+          "quantity": 1,
           "unit": ""
         },
         {
           "name": "Bean sprouts",
-          "quantity": "2 cups",
+          "quantity": 2,
           "unit": "cups"
         },
         {
           "name": "Shiitake mushrooms",
-          "quantity": "8",
+          "quantity": 8,
           "unit": ""
         },
         {
           "name": "Garlic",
-          "quantity": "4 cloves",
+          "quantity": 4,
           "unit": ""
         },
         {
           "name": "Soy sauce",
-          "quantity": "4 tbsp",
+          "quantity": 4,
           "unit": "tbsp"
         },
         {
           "name": "Sesame oil",
-          "quantity": "1 tbsp",
+          "quantity": 1,
           "unit": "tbsp"
         },
         {
           "name": "Sugar",
-          "quantity": "1 tbsp",
+          "quantity": 1,
           "unit": "tbsp"
         },
         {
           "name": "Eggs",
-          "quantity": "4",
+          "quantity": 4,
           "unit": ""
         },
         {
           "name": "Gochujang (Korean chili paste)",
-          "quantity": "4 tbsp",
+          "quantity": 4,
           "unit": "tbsp"
         },
         {
           "name": "Sesame seeds",
-          "quantity": "1 tbsp",
+          "quantity": 1,
           "unit": "tbsp"
         },
         {
           "name": "Vegetable oil",
-          "quantity": "2 tbsp",
+          "quantity": 2,
           "unit": "tbsp"
         }
       ],
@@ -2375,42 +2376,42 @@
       "ingredients": [
         {
           "name": "Beef sirloin",
-          "quantity": "1 pound",
+          "quantity": 1,
           "unit": "pound"
         },
         {
           "name": "Soy sauce",
-          "quantity": "1/4 cup",
+          "quantity": 0.25,
           "unit": "cup"
         },
         {
           "name": "Brown sugar",
-          "quantity": "2 tablespoons",
+          "quantity": 2,
           "unit": "tablespoons"
         },
         {
           "name": "Sesame oil",
-          "quantity": "1 tablespoon",
+          "quantity": 1,
           "unit": "tablespoon"
         },
         {
           "name": "Garlic",
-          "quantity": "3 cloves",
+          "quantity": 3,
           "unit": ""
         },
         {
           "name": "Green onions",
-          "quantity": "2",
+          "quantity": 2,
           "unit": ""
         },
         {
           "name": "Sesame seeds",
-          "quantity": "1 tablespoon",
+          "quantity": 1,
           "unit": "tablespoon"
         },
         {
           "name": "Vegetable oil",
-          "quantity": "1 tablespoon",
+          "quantity": 1,
           "unit": "tablespoon"
         }
       ],
@@ -2433,47 +2434,47 @@
       "ingredients": [
         {
           "name": "Salmon fillets",
-          "quantity": "4",
+          "quantity": 4,
           "unit": ""
         },
         {
           "name": "Teriyaki sauce",
-          "quantity": "1/2 cup",
+          "quantity": 0.5,
           "unit": "cup"
         },
         {
           "name": "Soy sauce",
-          "quantity": "1/4 cup",
+          "quantity": 0.25,
           "unit": "cup"
         },
         {
           "name": "Honey",
-          "quantity": "2 tbsp",
+          "quantity": 2,
           "unit": "tbsp"
         },
         {
           "name": "Garlic",
-          "quantity": "2 cloves",
+          "quantity": 2,
           "unit": ""
         },
         {
           "name": "Ginger",
-          "quantity": "1 tsp",
+          "quantity": 1,
           "unit": "tsp"
         },
         {
           "name": "Green onions",
-          "quantity": "2",
+          "quantity": 2,
           "unit": ""
         },
         {
           "name": "Sesame seeds",
-          "quantity": "1 tbsp",
+          "quantity": 1,
           "unit": "tbsp"
         },
         {
           "name": "Vegetable oil",
-          "quantity": "2 tbsp",
+          "quantity": 2,
           "unit": "tbsp"
         }
       ],
@@ -2497,47 +2498,47 @@
       "ingredients": [
         {
           "name": "Cooked rice",
-          "quantity": "4 cups",
+          "quantity": 4,
           "unit": "cups"
         },
         {
           "name": "Carrots",
-          "quantity": "2",
+          "quantity": 2,
           "unit": ""
         },
         {
           "name": "Peas",
-          "quantity": "1 cup",
+          "quantity": 1,
           "unit": "cup"
         },
         {
           "name": "Eggs",
-          "quantity": "2",
+          "quantity": 2,
           "unit": ""
         },
         {
           "name": "Onion",
-          "quantity": "1",
+          "quantity": 1,
           "unit": ""
         },
         {
           "name": "Soy sauce",
-          "quantity": "2 tbsp",
+          "quantity": 2,
           "unit": "tbsp"
         },
         {
           "name": "Salt",
-          "quantity": "1/2 tsp",
+          "quantity": 0.5,
           "unit": "tsp"
         },
         {
           "name": "Pepper",
-          "quantity": "1/4 tsp",
+          "quantity": 0.25,
           "unit": "tsp"
         },
         {
           "name": "Vegetable oil",
-          "quantity": "2 tbsp",
+          "quantity": 2,
           "unit": "tbsp"
         }
       ],
@@ -2561,42 +2562,42 @@
       "ingredients": [
         {
           "name": "Sweet potatoes",
-          "quantity": "2",
+          "quantity": 2,
           "unit": ""
         },
         {
           "name": "Black beans",
-          "quantity": "1 can",
-          "unit": ""
+          "quantity": 1,
+          "unit": "can"
         },
         {
           "name": "Taco seasoning",
-          "quantity": "1 tbsp",
+          "quantity": 1,
           "unit": "tbsp"
         },
         {
           "name": "Olive oil",
-          "quantity": "1 tbsp",
+          "quantity": 1,
           "unit": "tbsp"
         },
         {
           "name": "Corn tortillas",
-          "quantity": "8",
+          "quantity": 8,
           "unit": ""
         },
         {
           "name": "Lime",
-          "quantity": "1",
+          "quantity": 1,
           "unit": ""
         },
         {
           "name": "Cilantro",
-          "quantity": "1/4 cup",
+          "quantity": 0.25,
           "unit": "cup"
         },
         {
           "name": "Red onion",
-          "quantity": "1/4 cup",
+          "quantity": 0.25,
           "unit": "cup"
         }
       ],
