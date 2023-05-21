@@ -2616,1026 +2616,1269 @@
   "fruits": [
     {
       "name": "Apple",
-      "color": "Red/Green/Yellow",
-      "taste": "Sweet",
-      "importance": "High",
-      "nutrition": {
-        "fiber": {
-          "value": 4,
-          "unit": "grams"
+      "image": "assets/images/apple.png",
+      "color": "Red",
+      "taste": "Sweet and slightly tart",
+      "origin": "North America",
+      "family": "Rosaceae",
+      "season": "Fall",
+      "nutritionalValues": [
+        {
+          "name": "Calories",
+          "value": "52",
+          "unit": "kcal"
         },
-        "vitaminC": {
-          "value": 14,
-          "unit": "% RDI"
+        {
+          "name": "Carbohydrates",
+          "value": "14",
+          "unit": "g"
         },
-        "potassium": {
-          "value": 6,
-          "unit": "% RDI"
+        {
+          "name": "Protein",
+          "value": "0.3",
+          "unit": "g"
         },
-        "vitaminK": {
-          "value": 5,
-          "unit": "% RDI"
+        {
+          "name": "Fat",
+          "value": "0.2",
+          "unit": "g"
         },
-        "vitaminB6": {
-          "value": 0.04,
+        {
+          "name": "Fiber",
+          "value": "2.4",
+          "unit": "g"
+        },
+        {
+          "name": "Vitamin C",
+          "value": "8.4",
           "unit": "mg"
         },
-        "antioxidants": "High",
-        "carbohydrates": {
-          "value": 19,
-          "unit": "grams"
+        {
+          "name": "Potassium",
+          "value": "107",
+          "unit": "mg"
         },
-        "calcium": {
-          "value": 1,
-          "unit": "% RDI"
+        {
+          "name": "Vitamin A",
+          "value": "98",
+          "unit": "IU"
         },
-        "iron": {
-          "value": 1,
-          "unit": "% RDI"
+        {
+          "name": "Calcium",
+          "value": "11",
+          "unit": "mg"
         },
-        "magnesium": {
-          "value": 2,
-          "unit": "% RDI"
-        },
-        "phosphorus": {
-          "value": 2,
-          "unit": "% RDI"
-        },
-        "zinc": {
-          "value": 1,
-          "unit": "% RDI"
+        {
+          "name": "Iron",
+          "value": "0.2",
+          "unit": "mg"
         }
-      }
+      ]
     },
     {
       "name": "Banana",
+      "image": "assets/images/banana.png",
       "color": "Yellow",
       "taste": "Sweet",
-      "importance": "Medium",
-      "nutrition": {
-        "fiber": {
-          "value": 3,
-          "unit": "grams"
+      "origin": "Southeast Asia",
+      "family": "Musaceae",
+      "season": "Year-round",
+      "nutritionalValues": [
+        {
+          "name": "Calories",
+          "value": "96",
+          "unit": "kcal"
         },
-        "vitaminC": {
-          "value": 10,
-          "unit": "% RDI"
+        {
+          "name": "Carbohydrates",
+          "value": "23",
+          "unit": "g"
         },
-        "potassium": {
-          "value": 9,
-          "unit": "% RDI"
+        {
+          "name": "Protein",
+          "value": "1.1",
+          "unit": "g"
         },
-        "vitaminB6": {
-          "value": 0.22,
+        {
+          "name": "Fat",
+          "value": "0.3",
+          "unit": "g"
+        },
+        {
+          "name": "Fiber",
+          "value": "2.6",
+          "unit": "g"
+        },
+        {
+          "name": "Vitamin C",
+          "value": "8.7",
           "unit": "mg"
         },
-        "manganese": {
-          "value": 0.13,
+        {
+          "name": "Potassium",
+          "value": "358",
           "unit": "mg"
         },
-        "antioxidants": "Moderate",
-        "carbohydrates": {
-          "value": 27,
-          "unit": "grams"
+        {
+          "name": "Vitamin B6",
+          "value": "0.4",
+          "unit": "mg"
         },
-        "protein": {
-          "value": 1.3,
-          "unit": "grams"
+        {
+          "name": "Magnesium",
+          "value": "27",
+          "unit": "mg"
         },
-        "fat": {
-          "value": 0.4,
-          "unit": "grams"
-        },
-        "calcium": {
-          "value": 1,
-          "unit": "% RDI"
-        },
-        "iron": {
-          "value": 2,
-          "unit": "% RDI"
-        },
-        "magnesium": {
-          "value": 8,
-          "unit": "% RDI"
-        },
-        "phosphorus": {
-          "value": 3,
-          "unit": "% RDI"
-        },
-        "zinc": {
-          "value": 1,
-          "unit": "% RDI"
+        {
+          "name": "Phosphorus",
+          "value": "22",
+          "unit": "mg"
         }
-      }
+      ]
     },
     {
       "name": "Orange",
+      "image": "assets/images/orange.png",
       "color": "Orange",
-      "taste": "Sweet",
-      "importance": "High",
-      "nutrition": {
-        "fiber": {
-          "value": 3,
-          "unit": "grams"
+      "taste": "Sweet and tangy",
+      "origin": "Southeast Asia",
+      "family": "Rutaceae",
+      "season": "Winter",
+      "nutritionalValues": [
+        {
+          "name": "Calories",
+          "value": "62",
+          "unit": "kcal"
         },
-        "vitaminC": {
-          "value": 131,
-          "unit": "% RDI"
+        {
+          "name": "Carbohydrates",
+          "value": "15",
+          "unit": "g"
         },
-        "folate": {
-          "value": 10,
-          "unit": "% RDI"
+        {
+          "name": "Protein",
+          "value": "1.2",
+          "unit": "g"
         },
-        "thiamine": {
-          "value": 7,
-          "unit": "% RDI"
+        {
+          "name": "Fat",
+          "value": "0.2",
+          "unit": "g"
         },
-        "antioxidants": "High",
-        "carbohydrates": {
-          "value": 15,
-          "unit": "grams"
+        {
+          "name": "Fiber",
+          "value": "3.1",
+          "unit": "g"
         },
-        "protein": {
-          "value": 1.2,
-          "unit": "grams"
+        {
+          "name": "Vitamin C",
+          "value": "69.7",
+          "unit": "mg"
         },
-        "fat": {
-          "value": 0.2,
-          "unit": "grams"
+        {
+          "name": "Potassium",
+          "value": "237",
+          "unit": "mg"
         },
-        "calcium": {
-          "value": 4,
-          "unit": "% RDI"
+        {
+          "name": "Vitamin A",
+          "value": "225",
+          "unit": "IU"
         },
-        "iron": {
-          "value": 1,
-          "unit": "% RDI"
+        {
+          "name": "Calcium",
+          "value": "52",
+          "unit": "mg"
         },
-        "magnesium": {
-          "value": 2,
-          "unit": "% RDI"
-        },
-        "phosphorus": {
-          "value": 1,
-          "unit": "% RDI"
-        },
-        "zinc": {
-          "value": 0.1,
-          "unit": "% RDI"
+        {
+          "name": "Iron",
+          "value": "0.1",
+          "unit": "mg"
         }
-      }
+      ]
+    },
+    {
+      "name": "Grapes",
+      "image": "assets/images/grapes.png",
+      "color": "Purple",
+      "taste": "Sweet and juicy",
+      "origin": "Europe",
+      "family": "Vitaceae",
+      "season": "Summer",
+      "nutritionalValues": [
+        {
+          "name": "Calories",
+          "value": "69",
+          "unit": "kcal"
+        },
+        {
+          "name": "Carbohydrates",
+          "value": "18",
+          "unit": "g"
+        },
+        {
+          "name": "Protein",
+          "value": "0.72",
+          "unit": "g"
+        },
+        {
+          "name": "Fat",
+          "value": "0.16",
+          "unit": "g"
+        },
+        {
+          "name": "Fiber",
+          "value": "0.9",
+          "unit": "g"
+        },
+        {
+          "name": "Vitamin C",
+          "value": "3.2",
+          "unit": "mg"
+        },
+        {
+          "name": "Potassium",
+          "value": "191",
+          "unit": "mg"
+        },
+        {
+          "name": "Vitamin K",
+          "value": "14.6",
+          "unit": "mcg"
+        },
+        {
+          "name": "Calcium",
+          "value": "10",
+          "unit": "mg"
+        },
+        {
+          "name": "Iron",
+          "value": "0.36",
+          "unit": "mg"
+        }
+      ]
     },
     {
       "name": "Strawberry",
+      "image": "assets/images/strawberry.png",
       "color": "Red",
-      "taste": "Sweet/Tangy",
-      "importance": "High",
-      "nutrition": {
-        "fiber": {
-          "value": 2,
-          "unit": "grams"
+      "taste": "Sweet and tart",
+      "origin": "Europe",
+      "family": "Rosaceae",
+      "season": "Spring",
+      "nutritionalValues": [
+        {
+          "name": "Calories",
+          "value": "29",
+          "unit": "kcal"
         },
-        "vitaminC": {
-          "value": 149,
-          "unit": "% RDI"
+        {
+          "name": "Carbohydrates",
+          "value": "7",
+          "unit": "g"
         },
-        "manganese": {
-          "value": 28,
-          "unit": "% RDI"
+        {
+          "name": "Protein",
+          "value": "0.7",
+          "unit": "g"
         },
-        "folate": {
-          "value": 6,
-          "unit": "% RDI"
+        {
+          "name": "Fat",
+          "value": "0.3",
+          "unit": "g"
         },
-        "antioxidants": "Very high",
-        "carbohydrates": {
-          "value": 8,
-          "unit": "grams"
+        {
+          "name": "Fiber",
+          "value": "2",
+          "unit": "g"
         },
-        "protein": {
-          "value": 0.7,
-          "unit": "grams"
+        {
+          "name": "Vitamin C",
+          "value": "58.8",
+          "unit": "mg"
         },
-        "fat": {
-          "value": 0.2,
-          "unit": "grams"
+        {
+          "name": "Potassium",
+          "value": "153",
+          "unit": "mg"
         },
-        "calcium": {
-          "value": 1,
-          "unit": "% RDI"
+        {
+          "name": "Vitamin A",
+          "value": "12",
+          "unit": "IU"
         },
-        "iron": {
-          "value": 2,
-          "unit": "% RDI"
+        {
+          "name": "Calcium",
+          "value": "16",
+          "unit": "mg"
         },
-        "magnesium": {
-          "value": 3,
-          "unit": "% RDI"
-        },
-        "phosphorus": {
-          "value": 2,
-          "unit": "% RDI"
-        },
-        "zinc": {
-          "value": 0.1,
-          "unit": "% RDI"
+        {
+          "name": "Iron",
+          "value": "0.4",
+          "unit": "mg"
         }
-      }
-    },
-    {
-      "name": "Grapefruit",
-      "color": "Pink/Red",
-      "taste": "Sour/Bitter/Sweet",
-      "importance": "High",
-      "nutrition": {
-        "fiber": {
-          "value": 2,
-          "unit": "grams"
-        },
-        "vitaminC": {
-          "value": 64,
-          "unit": "% RDI"
-        },
-        "vitaminA": {
-          "value": 28,
-          "unit": "% RDI"
-        },
-        "folate": {
-          "value": 5,
-          "unit": "% RDI"
-        },
-        "potassium": {
-          "value": 5,
-          "unit": "% RDI"
-        },
-        "carbohydrates": {
-          "value": 11,
-          "unit": "grams"
-        },
-        "protein": {
-          "value": 0.7,
-          "unit": "grams"
-        },
-        "fat": {
-          "value": 0.1,
-          "unit": "grams"
-        },
-        "calcium": {
-          "value": 1,
-          "unit": "% RDI"
-        },
-        "iron": {
-          "value": 1,
-          "unit": "% RDI"
-        },
-        "magnesium": {
-          "value": 2,
-          "unit": "% RDI"
-        },
-        "phosphorus": {
-          "value": 2,
-          "unit": "% RDI"
-        },
-        "zinc": {
-          "value": 1,
-          "unit": "% RDI"
-        }
-      }
+      ]
     },
     {
       "name": "Mango",
-      "color": "Yellow/Orange",
-      "taste": "Sweet",
-      "importance": "High",
-      "nutrition": {
-        "fiber": {
-          "value": 1.6,
-          "unit": "grams"
-        },
-        "vitaminC": {
-          "value": 67,
-          "unit": "% RDI"
-        },
-        "vitaminA": {
-          "value": 10,
-          "unit": "% RDI"
-        },
-        "vitaminE": {
-          "value": 9,
-          "unit": "% RDI"
-        },
-        "potassium": {
-          "value": 6,
-          "unit": "% RDI"
-        },
-        "carbohydrates": {
-          "value": 25,
-          "unit": "grams"
-        },
-        "protein": {
-          "value": 0.8,
-          "unit": "grams"
-        },
-        "fat": {
-          "value": 0.4,
-          "unit": "grams"
-        },
-        "calcium": {
-          "value": 1,
-          "unit": "% RDI"
-        },
-        "iron": {
-          "value": 1,
-          "unit": "% RDI"
-        },
-        "magnesium": {
-          "value": 2,
-          "unit": "% RDI"
-        },
-        "phosphorus": {
-          "value": 2,
-          "unit": "% RDI"
-        },
-        "zinc": {
-          "value": 1,
-          "unit": "% RDI"
-        }
-      }
-    },
-    {
-      "name": "Blueberries",
-      "color": "Blue",
-      "taste": "Sweet/Tart",
-      "importance": "High",
-      "nutrition": {
-        "fiber": {
-          "value": 2.4,
-          "unit": "grams"
-        },
-        "vitaminC": {
-          "value": 16,
-          "unit": "% RDI"
-        },
-        "vitaminK": {
-          "value": 24,
-          "unit": "% RDI"
-        },
-        "manganese": {
-          "value": 25,
-          "unit": "% RDI"
-        },
-        "antioxidants": "Very high",
-        "carbohydrates": {
-          "value": 14,
-          "unit": "grams"
-        },
-        "protein": {
-          "value": 0.7,
-          "unit": "grams"
-        },
-        "fat": {
-          "value": 0.3,
-          "unit": "grams"
-        },
-        "calcium": {
-          "value": 1,
-          "unit": "% RDI"
-        },
-        "iron": {
-          "value": 2,
-          "unit": "% RDI"
-        },
-        "magnesium": {
-          "value": 2,
-          "unit": "% RDI"
-        },
-        "phosphorus": {
-          "value": 1,
-          "unit": "% RDI"
-        },
-        "zinc": {
-          "value": 1,
-          "unit": "% RDI"
-        }
-      }
-    },
-    {
-      "name": "Dragon Fruit",
-      "color": "Pink/Yellow/White",
-      "taste": "Mild/Slightly Sweet",
-      "importance": "Medium",
-      "nutrition": {
-        "fiber": {
-          "value": 1.8,
-          "unit": "grams"
-        },
-        "vitaminC": {
-          "value": 9,
-          "unit": "% RDI"
-        },
-        "vitaminB2": {
-          "value": 9,
-          "unit": "% RDI"
-        },
-        "iron": {
-          "value": 4,
-          "unit": "% RDI"
-        },
-        "magnesium": {
-          "value": 4,
-          "unit": "% RDI"
-        },
-        "antioxidants": "High",
-        "carbohydrates": {
-          "value": 9,
-          "unit": "grams"
-        },
-        "protein": {
-          "value": 1,
-          "unit": "gram"
-        },
-        "fat": {
-          "value": 0.4,
-          "unit": "grams"
-        },
-        "calcium": {
-          "value": 1,
-          "unit": "% RDI"
-        },
-        "phosphorus": {
-          "value": 1,
-          "unit": "% RDI"
-        }
-      }
-    },
-    {
-      "name": "Dragon Fruit",
-      "importance": "Dragon fruit is low in calories, high in fiber, and contains a range of essential vitamins and minerals. It has also been linked to improved digestion and a reduced risk of chronic diseases.",
-      "nutritions": {
-        "calories": {
-          "value": 60,
+      "image": "assets/images/mango.png",
+      "color": "Yellow",
+      "taste": "Sweet and tropical",
+      "origin": "South Asia",
+      "family": "Anacardiaceae",
+      "season": "Summer",
+      "nutritionalValues": [
+        {
+          "name": "Calories",
+          "value": "60",
           "unit": "kcal"
         },
-        "carbohydrates": {
-          "value": 13,
+        {
+          "name": "Carbohydrates",
+          "value": "15",
           "unit": "g"
         },
-        "protein": {
-          "value": 1.2,
+        {
+          "name": "Protein",
+          "value": "0.8",
           "unit": "g"
         },
-        "fat": {
-          "value": 0.5,
+        {
+          "name": "Fat",
+          "value": "0.4",
           "unit": "g"
         },
-        "fiber": {
-          "value": 3,
+        {
+          "name": "Fiber",
+          "value": "1.6",
           "unit": "g"
         },
-        "vitamin_c": {
-          "value": 9,
+        {
+          "name": "Vitamin C",
+          "value": "36.4",
           "unit": "mg"
         },
-        "iron": {
-          "value": 0.7,
-          "unit": "mg"
-        }
-      }
-    },
-    {
-      "name": "Starfruit",
-      "importance": "This fruit is rich in vitamin C and antioxidants, and has been known to promote healthy digestion and a strong immune system.",
-      "nutritions": {
-        "calories": {
-          "value": 28,
-          "unit": "kcal"
-        },
-        "carbohydrates": {
-          "value": 6.7,
-          "unit": "g"
-        },
-        "protein": {
-          "value": 1.1,
-          "unit": "g"
-        },
-        "fat": {
-          "value": 0.4,
-          "unit": "g"
-        },
-        "fiber": {
-          "value": 2.8,
-          "unit": "g"
-        },
-        "vitamin_c": {
-          "value": 36.7,
+        {
+          "name": "Potassium",
+          "value": "168",
           "unit": "mg"
         },
-        "iron": {
-          "value": 0.3,
-          "unit": "mg"
-        }
-      }
-    },
-    {
-      "name": "Papaya",
-      "importance": "High",
-      "nutrition": {
-        "Calories": {
-          "value": 60,
-          "unit": "kcal"
-        },
-        "Carbohydrates": {
-          "value": 15,
-          "unit": "g"
-        },
-        "Fiber": {
-          "value": 3,
-          "unit": "g"
-        },
-        "Protein": {
-          "value": 1,
-          "unit": "g"
-        },
-        "Fat": {
-          "value": 0.4,
-          "unit": "g"
-        },
-        "Vitamin C": {
-          "value": 94,
-          "unit": "mg"
-        },
-        "Vitamin A": {
-          "value": 1532,
+        {
+          "name": "Vitamin A",
+          "value": "1262",
           "unit": "IU"
         },
-        "Potassium": {
-          "value": 360,
+        {
+          "name": "Calcium",
+          "value": "16",
+          "unit": "mg"
+        },
+        {
+          "name": "Iron",
+          "value": "0.2",
           "unit": "mg"
         }
-      }
+      ]
     },
     {
-      "name": "Goji Berry",
-      "importance": "High",
-      "nutrition": {
-        "Calories": {
-          "value": 100,
+      "name": "Blueberry",
+      "image": "assets/images/blueberry.png",
+      "color": "Blue",
+      "taste": "Sweet and slightly tangy",
+      "origin": "North America",
+      "family": "Ericaceae",
+      "season": "Summer",
+      "nutritionalValues": [
+        {
+          "name": "Calories",
+          "value": "57",
           "unit": "kcal"
         },
-        "Carbohydrates": {
-          "value": 21,
+        {
+          "name": "Carbohydrates",
+          "value": "14",
           "unit": "g"
         },
-        "Fiber": {
-          "value": 4,
+        {
+          "name": "Protein",
+          "value": "0.7",
           "unit": "g"
         },
-        "Protein": {
-          "value": 4,
+        {
+          "name": "Fat",
+          "value": "0.3",
           "unit": "g"
         },
-        "Fat": {
-          "value": 1,
+        {
+          "name": "Fiber",
+          "value": "2.4",
           "unit": "g"
         },
-        "Vitamin C": {
-          "value": 500,
+        {
+          "name": "Vitamin C",
+          "value": "9.7",
           "unit": "mg"
         },
-        "Calcium": {
-          "value": 112,
+        {
+          "name": "Potassium",
+          "value": "77",
           "unit": "mg"
         },
-        "Iron": {
-          "value": 9,
-          "unit": "mg"
-        }
-      }
-    },
-    {
-      "name": "Acai Berry",
-      "importance": "High",
-      "nutrition": {
-        "Calories": {
-          "value": 70,
-          "unit": "kcal"
+        {
+          "name": "Vitamin K",
+          "value": "19.3",
+          "unit": "mcg"
         },
-        "Carbohydrates": {
-          "value": 4,
-          "unit": "g"
-        },
-        "Fiber": {
-          "value": 2,
-          "unit": "g"
-        },
-        "Protein": {
-          "value": 1,
-          "unit": "g"
-        },
-        "Fat": {
-          "value": 5,
-          "unit": "g"
-        },
-        "Vitamin C": {
-          "value": 15,
+        {
+          "name": "Calcium",
+          "value": "6",
           "unit": "mg"
         },
-        "Calcium": {
-          "value": 2,
-          "unit": "mg"
-        },
-        "Iron": {
-          "value": 1,
+        {
+          "name": "Iron",
+          "value": "0.4",
           "unit": "mg"
         }
-      }
-    },
-    {
-      "name": "Elderberry",
-      "importance": "Boosts the immune system",
-      "nutritions": {
-        "calories": {
-          "value": 73,
-          "unit": "kcal"
-        },
-        "fiber": {
-          "value": 7,
-          "unit": "g"
-        },
-        "vitamin C": {
-          "value": 6.6,
-          "unit": "mg"
-        },
-        "potassium": {
-          "value": 280,
-          "unit": "mg"
-        },
-        "carbohydrates": {
-          "value": 18,
-          "unit": "g"
-        }
-      }
-    },
-    {
-      "name": "Jujube",
-      "color": "Red/Brown",
-      "taste": "Sweet and Crispy",
-      "importance": "Low",
-      "nutrition": {
-        "fiber": {
-          "value": 1.2,
-          "unit": "grams"
-        },
-        "vitaminC": {
-          "value": 35,
-          "unit": "% RDI"
-        },
-        "iron": {
-          "value": 7,
-          "unit": "% RDI"
-        },
-        "manganese": {
-          "value": 6,
-          "unit": "% RDI"
-        },
-        "carbohydrates": {
-          "value": 19,
-          "unit": "grams"
-        }
-      }
-    },
-    {
-      "name": "Feijoa",
-      "color": "Green",
-      "taste": "Tart and Sweet",
-      "importance": "Low",
-      "nutrition": {
-        "fiber": {
-          "value": 6.4,
-          "unit": "grams"
-        },
-        "vitaminC": {
-          "value": 33,
-          "unit": "% RDI"
-        },
-        "vitaminB6": {
-          "value": 5,
-          "unit": "% RDI"
-        },
-        "calcium": {
-          "value": 3,
-          "unit": "% RDI"
-        },
-        "carbohydrates": {
-          "value": 13,
-          "unit": "grams"
-        }
-      }
-    },
-    {
-      "name": "Passionfruit",
-      "color": "Purple",
-      "taste": "Tart and Sweet",
-      "importance": "Moderate",
-      "nutrition": {
-        "fiber": {
-          "value": 5.4,
-          "unit": "grams"
-        },
-        "vitaminC": {
-          "value": 36,
-          "unit": "% RDI"
-        },
-        "vitaminA": {
-          "value": 8,
-          "unit": "% RDI"
-        },
-        "potassium": {
-          "value": 4,
-          "unit": "% RDI"
-        },
-        "carbohydrates": {
-          "value": 23,
-          "unit": "grams"
-        }
-      }
-    },
-    {
-      "name": "Mangosteen",
-      "color": "Dark Purple",
-      "taste": "Sweet and Tangy",
-      "importance": "Moderate",
-      "nutrition": {
-        "fiber": {
-          "value": 5.1,
-          "unit": "grams"
-        },
-        "vitaminC": {
-          "value": 14,
-          "unit": "% RDI"
-        },
-        "vitaminB6": {
-          "value": 9,
-          "unit": "% RDI"
-        },
-        "magnesium": {
-          "value": 6,
-          "unit": "% RDI"
-        },
-        "carbohydrates": {
-          "value": 13,
-          "unit": "grams"
-        }
-      }
-    },
-    {
-      "name": "Kiwano",
-      "color": "Orange/Yellow",
-      "taste": "Mildly Sweet",
-      "importance": "Low",
-      "nutrition": {
-        "fiber": {
-          "value": 1.5,
-          "unit": "grams"
-        },
-        "vitaminC": {
-          "value": 92,
-          "unit": "% RDI"
-        },
-        "vitaminA": {
-          "value": 10,
-          "unit": "% RDI"
-        },
-        "calcium": {
-          "value": 3,
-          "unit": "% RDI"
-        },
-        "carbohydrates": {
-          "value": 6,
-          "unit": "grams"
-        }
-      }
+      ]
     },
     {
       "name": "Pomegranate",
-      "color": "Red/Pink",
-      "taste": "Tart",
-      "importance": "High",
-      "nutrition": {
-        "fiber": {
-          "value": 7,
-          "unit": "grams"
+      "image": "assets/images/pomegranate.png",
+      "color": "Red",
+      "taste": "Sweet and tangy",
+      "origin": "Iran",
+      "family": "Lythraceae",
+      "season": "Fall",
+      "nutritionalValues": [
+        {
+          "name": "Calories",
+          "value": "83",
+          "unit": "kcal"
         },
-        "vitaminC": {
-          "value": 28,
-          "unit": "% RDI"
+        {
+          "name": "Carbohydrates",
+          "value": "19",
+          "unit": "g"
         },
-        "vitaminK": {
-          "value": 36,
-          "unit": "% RDI"
+        {
+          "name": "Protein",
+          "value": "1.7",
+          "unit": "g"
         },
-        "potassium": {
-          "value": 666,
+        {
+          "name": "Fat",
+          "value": "1.2",
+          "unit": "g"
+        },
+        {
+          "name": "Fiber",
+          "value": "4",
+          "unit": "g"
+        },
+        {
+          "name": "Vitamin C",
+          "value": "10.2",
           "unit": "mg"
         },
-        "carbohydrates": {
-          "value": 24,
-          "unit": "grams"
+        {
+          "name": "Potassium",
+          "value": "236",
+          "unit": "mg"
+        },
+        {
+          "name": "Vitamin K",
+          "value": "16.4",
+          "unit": "mcg"
+        },
+        {
+          "name": "Calcium",
+          "value": "10",
+          "unit": "mg"
+        },
+        {
+          "name": "Iron",
+          "value": "0.3",
+          "unit": "mg"
         }
-      }
+      ]
     },
     {
-      "name": "Guava",
-      "color": "Green/Yellow",
-      "taste": "Sweet/Tangy",
-      "importance": "High",
-      "nutrition": {
-        "fiber": {
-          "value": 5.4,
-          "unit": "grams"
+      "name": "Avocado",
+      "image": "assets/images/avocado.png",
+      "color": "Green",
+      "taste": "Creamy and nutty",
+      "origin": "Central and South America",
+      "family": "Lauraceae",
+      "season": "Year-round",
+      "nutritionalValues": [
+        {
+          "name": "Calories",
+          "value": "160",
+          "unit": "kcal"
         },
-        "vitaminC": {
-          "value": 628,
-          "unit": "% RDI"
+        {
+          "name": "Carbohydrates",
+          "value": "9",
+          "unit": "g"
         },
-        "vitaminA": {
-          "value": 12,
-          "unit": "% RDI"
+        {
+          "name": "Protein",
+          "value": "2",
+          "unit": "g"
         },
-        "potassium": {
-          "value": 12,
-          "unit": "% RDI"
+        {
+          "name": "Fat",
+          "value": "15",
+          "unit": "g"
         },
-        "carbohydrates": {
-          "value": 17,
-          "unit": "grams"
+        {
+          "name": "Fiber",
+          "value": "7",
+          "unit": "g"
         },
-        "protein": {
-          "value": 2.6,
-          "unit": "grams"
+        {
+          "name": "Vitamin C",
+          "value": "10",
+          "unit": "mg"
         },
-        "fat": {
-          "value": 1,
-          "unit": "gram"
+        {
+          "name": "Potassium",
+          "value": "485",
+          "unit": "mg"
+        },
+        {
+          "name": "Vitamin K",
+          "value": "21",
+          "unit": "mcg"
+        },
+        {
+          "name": "Calcium",
+          "value": "12",
+          "unit": "mg"
+        },
+        {
+          "name": "Iron",
+          "value": "0.6",
+          "unit": "mg"
         }
-      }
+      ]
     },
     {
-      "name": "Kiwi",
-      "color": "Brown/Green",
-      "taste": "Tart/Sweet",
-      "importance": "High",
-      "nutrition": {
-        "fiber": {
-          "value": 3,
-          "unit": "grams"
+      "name": "Peach",
+      "image": "assets/images/peach.png",
+      "color": "Orange",
+      "taste": "Sweet and juicy",
+      "origin": "China",
+      "family": "Rosaceae",
+      "season": "Summer",
+      "nutritionalValues": [
+        {
+          "name": "Calories",
+          "value": "39",
+          "unit": "kcal"
         },
-        "vitaminC": {
-          "value": 154,
-          "unit": "% RDI"
+        {
+          "name": "Carbohydrates",
+          "value": "9",
+          "unit": "g"
         },
-        "vitaminK": {
-          "value": 31,
-          "unit": "% RDI"
+        {
+          "name": "Protein",
+          "value": "0.9",
+          "unit": "g"
         },
-        "vitaminE": {
-          "value": 7,
-          "unit": "% RDI"
+        {
+          "name": "Fat",
+          "value": "0.3",
+          "unit": "g"
         },
-        "potassium": {
-          "value": 8,
-          "unit": "% RDI"
+        {
+          "name": "Fiber",
+          "value": "1.5",
+          "unit": "g"
         },
-        "carbohydrates": {
-          "value": 11,
-          "unit": "grams"
+        {
+          "name": "Vitamin C",
+          "value": "6.6",
+          "unit": "mg"
         },
-        "protein": {
-          "value": 1.1,
-          "unit": "grams"
+        {
+          "name": "Potassium",
+          "value": "190",
+          "unit": "mg"
         },
-        "fat": {
-          "value": 0.5,
-          "unit": "gram"
+        {
+          "name": "Vitamin A",
+          "value": "326",
+          "unit": "IU"
+        },
+        {
+          "name": "Calcium",
+          "value": "6",
+          "unit": "mg"
+        },
+        {
+          "name": "Iron",
+          "value": "0.4",
+          "unit": "mg"
         }
-      }
+      ]
     },
     {
-      "name": "Blueberries",
-      "color": "Blue",
-      "taste": "Sweet/Tart",
-      "importance": "High",
-      "nutrition": {
-        "fiber": {
-          "value": 2.4,
-          "unit": "grams"
+      "name": "Cherry",
+      "image": "assets/images/cherry.png",
+      "color": "Red",
+      "taste": "Sweet and tangy",
+      "origin": "Asia and Europe",
+      "family": "Rosaceae",
+      "season": "Summer",
+      "nutritionalValues": [
+        {
+          "name": "Calories",
+          "value": "50",
+          "unit": "kcal"
         },
-        "vitaminC": {
-          "value": 16,
-          "unit": "% RDI"
+        {
+          "name": "Carbohydrates",
+          "value": "12",
+          "unit": "g"
         },
-        "vitaminK": {
-          "value": 24,
-          "unit": "% RDI"
+        {
+          "name": "Protein",
+          "value": "1",
+          "unit": "g"
         },
-        "manganese": {
-          "value": 25,
-          "unit": "% RDI"
+        {
+          "name": "Fat",
+          "value": "0.3",
+          "unit": "g"
         },
-        "antioxidants": "Very high",
-        "carbohydrates": {
-          "value": 14,
-          "unit": "grams"
+        {
+          "name": "Fiber",
+          "value": "2",
+          "unit": "g"
         },
-        "protein": {
-          "value": 0.7,
-          "unit": "grams"
+        {
+          "name": "Vitamin C",
+          "value": "7",
+          "unit": "mg"
         },
-        "fat": {
-          "value": 0.3,
-          "unit": "grams"
+        {
+          "name": "Potassium",
+          "value": "222",
+          "unit": "mg"
         },
-        "calcium": {
-          "value": 1,
-          "unit": "% RDI"
+        {
+          "name": "Vitamin A",
+          "value": "64",
+          "unit": "IU"
         },
-        "iron": {
-          "value": 2,
-          "unit": "% RDI"
+        {
+          "name": "Calcium",
+          "value": "13",
+          "unit": "mg"
         },
-        "magnesium": {
-          "value": 2,
-          "unit": "% RDI"
-        },
-        "phosphorus": {
-          "value": 1,
-          "unit": "% RDI"
-        },
-        "zinc": {
-          "value": 1,
-          "unit": "% RDI"
+        {
+          "name": "Iron",
+          "value": "0.4",
+          "unit": "mg"
         }
-      }
+      ]
     },
     {
-      "name": "Grapefruit",
-      "color": "Pink/Red",
-      "taste": "Sour/Bitter/Sweet",
-      "importance": "High",
-      "nutrition": {
-        "fiber": {
-          "value": 2,
-          "unit": "grams"
+      "name": "Pineapple",
+      "image": "assets/images/pineapple.png",
+      "color": "Yellow",
+      "taste": "Sweet and tangy",
+      "origin": "South America",
+      "family": "Bromeliaceae",
+      "season": "Year-round",
+      "nutritionalValues": [
+        {
+          "name": "Calories",
+          "value": "50",
+          "unit": "kcal"
         },
-        "vitaminC": {
-          "value": 64,
-          "unit": "% RDI"
+        {
+          "name": "Carbohydrates",
+          "value": "13",
+          "unit": "g"
         },
-        "vitaminA": {
-          "value": 28,
-          "unit": "% RDI"
+        {
+          "name": "Protein",
+          "value": "0.5",
+          "unit": "g"
         },
-        "folate": {
-          "value": 5,
-          "unit": "% RDI"
+        {
+          "name": "Fat",
+          "value": "0.1",
+          "unit": "g"
         },
-        "potassium": {
-          "value": 5,
-          "unit": "% RDI"
+        {
+          "name": "Fiber",
+          "value": "1.4",
+          "unit": "g"
         },
-        "carbohydrates": {
-          "value": 11,
-          "unit": "grams"
+        {
+          "name": "Vitamin C",
+          "value": "79",
+          "unit": "mg"
         },
-        "protein": {
-          "value": 0.7,
-          "unit": "grams"
+        {
+          "name": "Manganese",
+          "value": "1.6",
+          "unit": "mg"
         },
-        "fat": {
-          "value": 0.1,
-          "unit": "grams"
+        {
+          "name": "Vitamin B6",
+          "value": "0.1",
+          "unit": "mg"
         },
-        "calcium": {
-          "value": 1,
-          "unit": "% RDI"
+        {
+          "name": "Copper",
+          "value": "0.1",
+          "unit": "mg"
         },
-        "iron": {
-          "value": 1,
-          "unit": "% RDI"
-        },
-        "magnesium": {
-          "value": 2,
-          "unit": "% RDI"
-        },
-        "phosphorus": {
-          "value": 2,
-          "unit": "% RDI"
-        },
-        "zinc": {
-          "value": 1,
-          "unit": "% RDI"
+        {
+          "name": "Magnesium",
+          "value": "13",
+          "unit": "mg"
         }
-      }
+      ]
+    },
+    {
+      "name": "Grapes",
+      "image": "assets/images/grapes.png",
+      "color": "Green or Purple",
+      "taste": "Sweet and juicy",
+      "origin": "Europe and Asia",
+      "family": "Vitaceae",
+      "season": "Summer and Fall",
+      "nutritionalValues": [
+        {
+          "name": "Calories",
+          "value": "69",
+          "unit": "kcal"
+        },
+        {
+          "name": "Carbohydrates",
+          "value": "18",
+          "unit": "g"
+        },
+        {
+          "name": "Protein",
+          "value": "0.7",
+          "unit": "g"
+        },
+        {
+          "name": "Fat",
+          "value": "0.2",
+          "unit": "g"
+        },
+        {
+          "name": "Fiber",
+          "value": "0.9",
+          "unit": "g"
+        },
+        {
+          "name": "Vitamin C",
+          "value": "3.2",
+          "unit": "mg"
+        },
+        {
+          "name": "Vitamin K",
+          "value": "22",
+          "unit": "mcg"
+        },
+        {
+          "name": "Potassium",
+          "value": "191",
+          "unit": "mg"
+        },
+        {
+          "name": "Vitamin B6",
+          "value": "0.1",
+          "unit": "mg"
+        },
+        {
+          "name": "Copper",
+          "value": "0.1",
+          "unit": "mg"
+        }
+      ]
+    },
+    {
+      "name": "Durian",
+      "image": "assets/images/durian.png",
+      "color": "Green or Yellow",
+      "taste": "Distinctive, sweet, and creamy",
+      "origin": "Southeast Asia",
+      "family": "Malvaceae",
+      "season": "Year-round",
+      "nutritionalValues": [
+        {
+          "name": "Calories",
+          "value": "367",
+          "unit": "kcal"
+        },
+        {
+          "name": "Carbohydrates",
+          "value": "66",
+          "unit": "g"
+        },
+        {
+          "name": "Protein",
+          "value": "3.6",
+          "unit": "g"
+        },
+        {
+          "name": "Fat",
+          "value": "23",
+          "unit": "g"
+        },
+        {
+          "name": "Fiber",
+          "value": "9.2",
+          "unit": "g"
+        },
+        {
+          "name": "Vitamin C",
+          "value": "30.9",
+          "unit": "mg"
+        },
+        {
+          "name": "Potassium",
+          "value": "436",
+          "unit": "mg"
+        },
+        {
+          "name": "Vitamin B6",
+          "value": "0.3",
+          "unit": "mg"
+        },
+        {
+          "name": "Magnesium",
+          "value": "30",
+          "unit": "mg"
+        },
+        {
+          "name": "Calcium",
+          "value": "6",
+          "unit": "mg"
+        }
+      ]
+    },
+    {
+      "name": "Jackfruit",
+      "image": "assets/images/jackfruit.png",
+      "color": "Green or Yellow",
+      "taste": "Sweet and tropical",
+      "origin": "South Asia",
+      "family": "Moraceae",
+      "season": "Year-round",
+      "nutritionalValues": [
+        {
+          "name": "Calories",
+          "value": "95",
+          "unit": "kcal"
+        },
+        {
+          "name": "Carbohydrates",
+          "value": "23",
+          "unit": "g"
+        },
+        {
+          "name": "Protein",
+          "value": "1.7",
+          "unit": "g"
+        },
+        {
+          "name": "Fat",
+          "value": "0.6",
+          "unit": "g"
+        },
+        {
+          "name": "Fiber",
+          "value": "1.5",
+          "unit": "g"
+        },
+        {
+          "name": "Vitamin C",
+          "value": "11.1",
+          "unit": "mg"
+        },
+        {
+          "name": "Potassium",
+          "value": "448",
+          "unit": "mg"
+        },
+        {
+          "name": "Vitamin A",
+          "value": "110",
+          "unit": "IU"
+        },
+        {
+          "name": "Calcium",
+          "value": "24",
+          "unit": "mg"
+        },
+        {
+          "name": "Iron",
+          "value": "0.6",
+          "unit": "mg"
+        }
+      ]
+    },
+    {
+      "name": "Ackee",
+      "image": "assets/images/ackee.png",
+      "color": "Red",
+      "taste": "Mild and nutty",
+      "origin": "West Africa",
+      "family": "Sapindaceae",
+      "season": "Year-round",
+      "nutritionalValues": [
+        {
+          "name": "Calories",
+          "value": "151",
+          "unit": "kcal"
+        },
+        {
+          "name": "Carbohydrates",
+          "value": "36",
+          "unit": "g"
+        },
+        {
+          "name": "Protein",
+          "value": "2.2",
+          "unit": "g"
+        },
+        {
+          "name": "Fat",
+          "value": "0.3",
+          "unit": "g"
+        },
+        {
+          "name": "Fiber",
+          "value": "2.6",
+          "unit": "g"
+        },
+        {
+          "name": "Vitamin C",
+          "value": "33.6",
+          "unit": "mg"
+        },
+        {
+          "name": "Potassium",
+          "value": "270",
+          "unit": "mg"
+        },
+        {
+          "name": "Vitamin A",
+          "value": "7",
+          "unit": "IU"
+        },
+        {
+          "name": "Calcium",
+          "value": "81",
+          "unit": "mg"
+        },
+        {
+          "name": "Iron",
+          "value": "0.6",
+          "unit": "mg"
+        }
+      ]
+    },
+    {
+      "name": "Salak",
+      "image": "assets/images/salak.png",
+      "color": "Brown",
+      "taste": "Sweet and tangy",
+      "origin": "Indonesia",
+      "family": "Arecaceae",
+      "season": "Year-round",
+      "nutritionalValues": [
+        {
+          "name": "Calories",
+          "value": "82",
+          "unit": "kcal"
+        },
+        {
+          "name": "Carbohydrates",
+          "value": "22",
+          "unit": "g"
+        },
+        {
+          "name": "Protein",
+          "value": "0.6",
+          "unit": "g"
+        },
+        {
+          "name": "Fat",
+          "value": "0.4",
+          "unit": "g"
+        },
+        {
+          "name": "Fiber",
+          "value": "2.6",
+          "unit": "g"
+        },
+        {
+          "name": "Vitamin C",
+          "value": "8.4",
+          "unit": "mg"
+        },
+        {
+          "name": "Potassium",
+          "value": "256",
+          "unit": "mg"
+        },
+        {
+          "name": "Vitamin A",
+          "value": "44",
+          "unit": "IU"
+        },
+        {
+          "name": "Calcium",
+          "value": "29",
+          "unit": "mg"
+        },
+        {
+          "name": "Iron",
+          "value": "2.6",
+          "unit": "mg"
+        }
+      ]
+    },
+    {
+      "name": "Rambutan",
+      "image": "assets/images/rambutan.png",
+      "color": "Red or Yellow",
+      "taste": "Sweet and juicy",
+      "origin": "Southeast Asia",
+      "family": "Sapindaceae",
+      "season": "Summer",
+      "nutritionalValues": [
+        {
+          "name": "Calories",
+          "value": "68",
+          "unit": "kcal"
+        },
+        {
+          "name": "Carbohydrates",
+          "value": "16.5",
+          "unit": "g"
+        },
+        {
+          "name": "Protein",
+          "value": "0.9",
+          "unit": "g"
+        },
+        {
+          "name": "Fat",
+          "value": "0.2",
+          "unit": "g"
+        },
+        {
+          "name": "Fiber",
+          "value": "0.9",
+          "unit": "g"
+        },
+        {
+          "name": "Vitamin C",
+          "value": "20.9",
+          "unit": "mg"
+        },
+        {
+          "name": "Calcium",
+          "value": "22",
+          "unit": "mg"
+        },
+        {
+          "name": "Iron",
+          "value": "0.4",
+          "unit": "mg"
+        },
+        {
+          "name": "Phosphorus",
+          "value": "20",
+          "unit": "mg"
+        },
+        {
+          "name": "Potassium",
+          "value": "42",
+          "unit": "mg"
+        }
+      ]
+    },
+    {
+      "name": "Feijoa",
+      "image": "assets/images/feijoa.png",
+      "color": "Green",
+      "taste": "Tropical and tangy",
+      "origin": "South America",
+      "family": "Myrtaceae",
+      "season": "Fall",
+      "nutritionalValues": [
+        {
+          "name": "Calories",
+          "value": "55",
+          "unit": "kcal"
+        },
+        {
+          "name": "Carbohydrates",
+          "value": "14",
+          "unit": "g"
+        },
+        {
+          "name": "Protein",
+          "value": "1",
+          "unit": "g"
+        },
+        {
+          "name": "Fat",
+          "value": "0.6",
+          "unit": "g"
+        },
+        {
+          "name": "Fiber",
+          "value": "6",
+          "unit": "g"
+        },
+        {
+          "name": "Vitamin C",
+          "value": "30",
+          "unit": "mg"
+        },
+        {
+          "name": "Vitamin E",
+          "value": "22",
+          "unit": "mg"
+        },
+        {
+          "name": "Vitamin K",
+          "value": "3.9",
+          "unit": "mcg"
+        },
+        {
+          "name": "Potassium",
+          "value": "172",
+          "unit": "mg"
+        },
+        {
+          "name": "Calcium",
+          "value": "8",
+          "unit": "mg"
+        }
+      ]
+    },
+    {
+      "name": "Dragon Fruit",
+      "image": "assets/images/dragonfruit.png",
+      "color": "Pink or Yellow",
+      "taste": "Mildly sweet and refreshing",
+      "origin": "Central America and Southeast Asia",
+      "family": "Cactaceae",
+      "season": "Year-round",
+      "nutritionalValues": [
+        {
+          "name": "Calories",
+          "value": "60",
+          "unit": "kcal"
+        },
+        {
+          "name": "Carbohydrates",
+          "value": "9",
+          "unit": "g"
+        },
+        {
+          "name": "Protein",
+          "value": "1",
+          "unit": "g"
+        },
+        {
+          "name": "Fat",
+          "value": "0",
+          "unit": "g"
+        },
+        {
+          "name": "Fiber",
+          "value": "1",
+          "unit": "g"
+        },
+        {
+          "name": "Vitamin C",
+          "value": "9",
+          "unit": "mg"
+        },
+        {
+          "name": "Iron",
+          "value": "1",
+          "unit": "mg"
+        },
+        {
+          "name": "Calcium",
+          "value": "6",
+          "unit": "mg"
+        }
+      ]
+    },
+    {
+      "name": "Passion Fruit",
+      "image": "assets/images/passionfruit.png",
+      "color": "Purple",
+      "taste": "Tangy and tropical",
+      "origin": "South America",
+      "family": "Passifloraceae",
+      "season": "Year-round",
+      "nutritionalValues": [
+        {
+          "name": "Calories",
+          "value": "17",
+          "unit": "kcal"
+        },
+        {
+          "name": "Carbohydrates",
+          "value": "4",
+          "unit": "g"
+        },
+        {
+          "name": "Protein",
+          "value": "2",
+          "unit": "g"
+        },
+        {
+          "name": "Fat",
+          "value": "0",
+          "unit": "g"
+        },
+        {
+          "name": "Fiber",
+          "value": "2",
+          "unit": "g"
+        },
+        {
+          "name": "Vitamin C",
+          "value": "30",
+          "unit": "mg"
+        },
+        {
+          "name": "Vitamin A",
+          "value": "1274",
+          "unit": "IU"
+        },
+        {
+          "name": "Potassium",
+          "value": "348",
+          "unit": "mg"
+        },
+        {
+          "name": "Iron",
+          "value": "1.6",
+          "unit": "mg"
+        }
+      ]
     }
   ]
 }
