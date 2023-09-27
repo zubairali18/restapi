@@ -1,0 +1,3884 @@
+{
+  "recipes": [
+    {
+      "name": "Lasagna",
+      "servings": 3,
+      "difficulty": "Intermediate",
+      "image": "https://img.freepik.com/premium-photo/italian-lasagna-with-tomato-sauce-isolated-white-background_711700-1506.jpg",
+      "ingredients": [
+        {
+          "name": "Lasagna noodles",
+          "quantity": 12,
+          "unit": "sheets"
+        },
+        {
+          "name": "Ground beef",
+          "quantity": 1,
+          "unit": "pound"
+        },
+        {
+          "name": "Onion",
+          "quantity": 1,
+          "unit": "medium"
+        },
+        {
+          "name": "Garlic",
+          "quantity": 4,
+          "unit": "cloves"
+        },
+        {
+          "name": "Tomato sauce",
+          "quantity": 2,
+          "unit": "cups"
+        },
+        {
+          "name": "Cottage cheese",
+          "quantity": 2,
+          "unit": "cups"
+        },
+        {
+          "name": "Mozzarella cheese",
+          "quantity": 2,
+          "unit": "cups"
+        },
+        {
+          "name": "Parmesan cheese",
+          "quantity": 1,
+          "unit": "cup"
+        },
+        {
+          "name": "Egg",
+          "quantity": 1,
+          "unit": null
+        },
+        {
+          "name": "Basil",
+          "quantity": 1,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Salt",
+          "quantity": null,
+          "unit": "To Taste"
+        },
+        {
+          "name": "Pepper",
+          "quantity": null,
+          "unit": "To Taste"
+        }
+      ],
+      "instructions": [
+        "1. Cook the lasagna noodles according to package instructions.",
+        "2. Preheat the oven to 375°F (190°C).",
+        "3. In a large skillet, brown the ground beef over medium heat. Add the onion and garlic and cook until the onion is translucent.",
+        "4. Stir in the tomato sauce and heat through.",
+        "5. In a separate bowl, mix together the cottage cheese, mozzarella cheese, Parmesan cheese, egg, basil, salt, and pepper.",
+        "6. In a 9x13 inch baking dish, layer the noodles, meat sauce, and cheese mixture, in that order. Repeat the layers until all ingredients are used up, ending with a layer of cheese on top.",
+        "7. Cover with foil and bake for 25 minutes. Remove the foil and bake for an additional 25 minutes or until the cheese is melted and bubbly.",
+        "8. Let cool for a few minutes before slicing and serving."
+      ]
+    },
+    {
+      "name": "Chocolate Chip Cookies",
+      "servings": 12,
+      "difficulty": "Intermediate",
+      "image": "https://media.istockphoto.com/id/1134897271/photo/biscuits-with-chocolate-isolated-on-white-background.jpg?s=612x612&w=0&k=20&c=lzX92wxN5mwL0ZsQndE_XubR0h_g3fyMgy0sKMQIAtg=",
+      "ingredients": [
+        {
+          "name": "Butter",
+          "quantity": 0.5,
+          "unit": "cup"
+        },
+        {
+          "name": "Granulated sugar",
+          "quantity": 0.5,
+          "unit": "cup"
+        },
+        {
+          "name": "Brown sugar",
+          "quantity": 0.5,
+          "unit": "cup"
+        },
+        {
+          "name": "Egg",
+          "quantity": 1,
+          "unit": ""
+        },
+        {
+          "name": "Vanilla extract",
+          "quantity": 1,
+          "unit": "tsp"
+        },
+        {
+          "name": "All-purpose flour",
+          "quantity": 0.25,
+          "unit": "cup"
+        },
+        {
+          "name": "Baking soda",
+          "quantity": 0.5,
+          "unit": "tsp"
+        },
+        {
+          "name": "Salt",
+          "quantity": 0.5,
+          "unit": "tsp"
+        },
+        {
+          "name": "Chocolate chips",
+          "quantity": 1,
+          "unit": "cup"
+        }
+      ],
+      "instructions": [
+        "1. Preheat the oven to 350°F (180°C).",
+        "2. In a large mixing bowl, cream together the butter, granulated sugar, and brown sugar until light and fluffy.",
+        "3. Add the egg and vanilla extract to the bowl, and mix until well combined.",
+        "4. In a separate bowl, whisk together the flour, baking soda, and salt.",
+        "5. Gradually add the dry ingredients to the wet ingredients, mixing until just combined.",
+        "6. Fold in the chocolate chips.",
+        "7. Line a baking sheet with parchment paper.",
+        "8. Using a cookie scoop or spoon, drop rounded balls of dough onto the prepared baking sheet, leaving about 2 inches (5 cm) between each cookie.",
+        "9. Bake for 12-15 minutes, or until the edges are golden brown.",
+        "10. Allow the cookies to cool on the baking sheet for 5 minutes before transferring them to a wire rack to cool completely."
+      ]
+    },
+    {
+      "name": "Classic Caesar Salad",
+      "servings": 4,
+      "difficulty": "Intermediate",
+      "image": "https://media.istockphoto.com/id/1211166166/photo/caesar-salad-with-grilled-chicken-and-croutons-of-bread.jpg?s=612x612&w=0&k=20&c=anNWizfxset3nOpS9zxGU1PCgn6dBwILhqYIED4qxYY=",
+      "ingredients": [
+        {
+          "name": "Romaine lettuce",
+          "quantity": 1,
+          "unit": ""
+        },
+        {
+          "name": "Parmesan cheese",
+          "quantity": 0.5,
+          "unit": "cup"
+        },
+        {
+          "name": "Croutons",
+          "quantity": 1,
+          "unit": "cup"
+        },
+        {
+          "name": "Anchovy fillets",
+          "quantity": 4,
+          "unit": ""
+        },
+        {
+          "name": "Garlic",
+          "quantity": 2,
+          "unit": ""
+        },
+        {
+          "name": "Lemon juice",
+          "quantity": 0.25,
+          "unit": "cup"
+        },
+        {
+          "name": "Dijon mustard",
+          "quantity": 1,
+          "unit": "tsp"
+        },
+        {
+          "name": "Worcestershire sauce",
+          "quantity": 1,
+          "unit": "tsp"
+        },
+        {
+          "name": "Olive oil",
+          "quantity": 0.5,
+          "unit": "cup"
+        },
+        {
+          "name": "Salt",
+          "quantity": 0.25,
+          "unit": "tsp"
+        },
+        {
+          "name": "Black pepper",
+          "quantity": 0.25,
+          "unit": "tsp"
+        }
+      ],
+      "instructions": [
+        "1. Wash and dry the lettuce leaves, then tear them into bite-sized pieces.",
+        "2. Grate the Parmesan cheese and set it aside.",
+        "3. In a food processor or blender, combine the anchovy fillets, garlic, lemon juice, Dijon mustard, and Worcestershire sauce. Process until smooth.",
+        "4. Slowly pour in the olive oil while the blender is running, until the dressing is emulsified.",
+        "5. Season the dressing with salt and black pepper to taste.",
+        "6. In a large salad bowl, toss the lettuce with the dressing, croutons, and grated Parmesan cheese.",
+        "7. Serve immediately."
+      ]
+    },
+    {
+      "name": "Chicken Alfredo Pasta",
+      "servings": 4,
+      "difficulty": "Easy",
+      "image": "https://media.istockphoto.com/id/1254382372/photo/isolated-spaghetti-with-white-cream-sauce.jpg?s=612x612&w=0&k=20&c=BQr6C62XLKPLA4DNLKc4RgcKuCtSHklC-1N4BquEzr8=",
+      "ingredients": [
+        {
+          "name": "Fettuccine pasta",
+          "quantity": 1,
+          "unit": "lb"
+        },
+        {
+          "name": "Chicken breast",
+          "quantity": 2,
+          "unit": ""
+        },
+        {
+          "name": "Heavy cream",
+          "quantity": 1,
+          "unit": "cup"
+        },
+        {
+          "name": "Parmesan cheese",
+          "quantity": 0.5,
+          "unit": "cup"
+        },
+        {
+          "name": "Garlic",
+          "quantity": 2,
+          "unit": ""
+        },
+        {
+          "name": "Butter",
+          "quantity": 4,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Salt",
+          "quantity": 0.5,
+          "unit": "tsp"
+        },
+        {
+          "name": "Black pepper",
+          "quantity": 0.25,
+          "unit": "tsp"
+        }
+      ],
+      "instructions": [
+        "1. Cook the fettuccine pasta according to the package instructions, then drain and set aside.",
+        "2. Cut the chicken breast into small pieces, then season with salt and black pepper.",
+        "3. In a large skillet over medium heat, melt the butter and add the minced garlic. Cook for 1-2 minutes until fragrant.",
+        "4. Add the chicken to the skillet and cook until golden brown on all sides.",
+        "5. Pour in the heavy cream and stir until the sauce starts to thicken.",
+        "6. Add the grated Parmesan cheese and stir until melted and well combined.",
+        "7. Add the cooked fettuccine pasta to the skillet and toss until coated in the sauce.",
+        "8. Serve immediately, garnished with more grated Parmesan cheese and chopped parsley if desired."
+      ]
+    },
+    {
+      "name": "Margherita Pizza",
+      "servings": 4,
+      "difficulty": "Intermediate",
+      "image": "https://thumbs.dreamstime.com/b/real-italian-pizza-margherita-napoli-isolated-white-background-real-italian-pizza-margherita-napoli-isolated-white-246648576.jpg",
+      "ingredients": [
+        {
+          "name": "Pizza dough",
+          "quantity": 1,
+          "unit": "lb"
+        },
+        {
+          "name": "Tomato sauce",
+          "quantity": 1,
+          "unit": "cup"
+        },
+        {
+          "name": "Fresh mozzarella cheese",
+          "quantity": 8,
+          "unit": "oz"
+        },
+        {
+          "name": "Fresh basil leaves",
+          "quantity": 10,
+          "unit": ""
+        },
+        {
+          "name": "Extra-virgin olive oil",
+          "quantity": 1,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Salt",
+          "quantity": 0.25,
+          "unit": "tsp"
+        },
+        {
+          "name": "Black pepper",
+          "quantity": 0.25,
+          "unit": "tsp"
+        }
+      ],
+      "instructions": [
+        "1. Preheat the oven to 450°F (230°C).",
+        "2. Roll out the pizza dough on a floured surface into a 12-inch (30-cm) circle.",
+        "3. Transfer the dough to a lightly greased pizza pan or baking sheet.",
+        "4. Spread the tomato sauce evenly over the pizza dough, leaving a small border around the edges.",
+        "5. Tear the fresh mozzarella cheese into small pieces and scatter them over the pizza sauce.",
+        "6. Top with fresh basil leaves and drizzle with extra-virgin olive oil.",
+        "7. Sprinkle with salt and black pepper to taste.",
+        "8. Bake the pizza for 10-12 minutes until the crust is golden brown and the cheese is melted and bubbly.",
+        "9. Remove the pizza from the oven and let it cool for a few minutes before slicing and serving."
+      ]
+    },
+    {
+      "name": "Chicken Pad Thai",
+      "servings": 4,
+      "difficulty": "Easy",
+      "image": "https://images.ctfassets.net/px4cqjx727yq/1VPSAGf0KEdyz2fUZfLl7a/fc2c18b5e0d074e7e390a4d8643498d4/Keto_Zucchini_Chicken_Pad_Thai_with_Coconut_Cashew.png?q=90&w=1680",
+      "ingredients": [
+        {
+          "name": "Rice noodles",
+          "quantity": 8,
+          "unit": "oz"
+        },
+        {
+          "name": "Chicken breast",
+          "quantity": 2,
+          "unit": ""
+        },
+        {
+          "name": "Garlic",
+          "quantity": 2,
+          "unit": ""
+        },
+        {
+          "name": "Shallot",
+          "quantity": 1,
+          "unit": ""
+        },
+        {
+          "name": "Bean sprouts",
+          "quantity": 2,
+          "unit": "cups"
+        },
+        {
+          "name": "Green onions",
+          "quantity": 4,
+          "unit": ""
+        },
+        {
+          "name": "Egg",
+          "quantity": 2,
+          "unit": ""
+        },
+        {
+          "name": "Peanuts",
+          "quantity": 0.25,
+          "unit": "cup"
+        },
+        {
+          "name": "Lime",
+          "quantity": 1,
+          "unit": ""
+        },
+        {
+          "name": "Vegetable oil",
+          "quantity": 2,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Fish sauce",
+          "quantity": 3,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Tamarind concentrate",
+          "quantity": 1,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Brown sugar",
+          "quantity": 1,
+          "unit": "tbsp"
+        }
+      ],
+      "instructions": [
+        "1. Soak the rice noodles in hot water for 15-20 minutes until they are softened.",
+        "2. Drain the noodles and set aside.",
+        "3. Cut the chicken breast into small pieces.",
+        "4. Heat the vegetable oil in a wok or large skillet over medium-high heat.",
+        "5. Add the garlic and shallot and stir-fry for 30 seconds.",
+        "6. Add the chicken and cook until it is no longer pink.",
+        "7. Push the chicken to one side of the wok and crack the eggs into the other side.",
+        "8. Scramble the eggs until they are cooked through.",
+        "9. Add the noodles, bean sprouts, and green onions to the wok.",
+        "10. Stir-fry for 2-3 minutes until the noodles are heated through and the vegetables are slightly wilted.",
+        "11. In a small bowl, mix together the fish sauce, tamarind concentrate, brown sugar, and lime juice.",
+        "12. Pour the sauce over the noodles and stir-fry for 1-2 minutes until everything is well combined.",
+        "13. Garnish with chopped peanuts and serve hot."
+      ]
+    },
+    {
+      "name": "Biryani",
+      "servings": 6,
+      "difficulty": "Difficult",
+      "image": "https://recipes.timesofindia.com/thumb/msid-53096628,width-1600,height-900/53096628.jpg",
+      "ingredients": [
+        {
+          "name": "Basmati rice",
+          "quantity": 3,
+          "unit": "cups"
+        },
+        {
+          "name": "Chicken",
+          "quantity": 1,
+          "unit": "kg"
+        },
+        {
+          "name": "Onions",
+          "quantity": 2,
+          "unit": ""
+        },
+        {
+          "name": "Tomatoes",
+          "quantity": 2,
+          "unit": ""
+        },
+        {
+          "name": "Ginger",
+          "quantity": 1,
+          "unit": "inch"
+        },
+        {
+          "name": "Garlic",
+          "quantity": 6,
+          "unit": ""
+        },
+        {
+          "name": "Green chilies",
+          "quantity": 4,
+          "unit": ""
+        },
+        {
+          "name": "Yogurt",
+          "quantity": 1,
+          "unit": "cup"
+        },
+        {
+          "name": "Red chili powder",
+          "quantity": 1,
+          "unit": "tsp"
+        },
+        {
+          "name": "Turmeric powder",
+          "quantity": 0.5,
+          "unit": "tsp"
+        },
+        {
+          "name": "Garam masala powder",
+          "quantity": 1,
+          "unit": "tsp"
+        },
+        {
+          "name": "Cumin powder",
+          "quantity": 1,
+          "unit": "tsp"
+        },
+        {
+          "name": "Coriander powder",
+          "quantity": 1,
+          "unit": "tsp"
+        },
+        {
+          "name": "Bay leaves",
+          "quantity": 2,
+          "unit": ""
+        },
+        {
+          "name": "Cinnamon sticks",
+          "quantity": 2,
+          "unit": ""
+        },
+        {
+          "name": "Green cardamom pods",
+          "quantity": 2,
+          "unit": ""
+        },
+        {
+          "name": "Black cardamom pods",
+          "quantity": 2,
+          "unit": ""
+        },
+        {
+          "name": "Cloves",
+          "quantity": 2,
+          "unit": ""
+        },
+        {
+          "name": "Oil",
+          "quantity": 0.5,
+          "unit": "cup"
+        },
+        {
+          "name": "Salt",
+          "quantity": null,
+          "unit": "To Taste"
+        },
+        {
+          "name": "Water",
+          "quantity": 5,
+          "unit": "cups"
+        },
+        {
+          "name": "Saffron",
+          "quantity": 0.25,
+          "unit": "tsp"
+        },
+        {
+          "name": "Milk",
+          "quantity": 0.25,
+          "unit": "cup"
+        }
+      ],
+      "instructions": [
+        "1. Wash and soak the basmati rice for 30 minutes.",
+        "2. Heat oil in a pot and fry the onions until golden brown.",
+        "3. Add ginger and garlic paste and fry for 1 minute.",
+        "4. Add chicken and cook for 5 minutes.",
+        "5. Add tomatoes, green chilies, red chili powder, turmeric powder, cumin powder, coriander powder, and salt. Mix well and cook for 10-15 minutes until the chicken is cooked through.",
+        "6. In a separate pot, bring water to a boil and add the bay leaves, cinnamon sticks, green cardamom pods, black cardamom pods, cloves, and salt.",
+        "7. Add the soaked rice to the boiling water and cook until the rice is about 80% done. Drain the water and keep the rice aside.",
+        "8. In a small bowl, mix the saffron with warm milk and keep aside.",
+        "9. In a large pot, layer half of the cooked rice at the bottom. Sprinkle half of the saffron milk over the rice.",
+        "10. Layer the chicken mixture on top of the rice.",
+        "11. Layer the remaining rice on top of the chicken mixture. Sprinkle the remaining saffron milk over the rice.",
+        "12. Cover the pot tightly with a lid and cook on low heat for 15-20 minutes.",
+        "13. Serve hot with raita and salad."
+      ]
+    },
+    {
+      "name": "Haleem",
+      "servings": 8,
+      "difficulty": "Difficult",
+      "image": "https://i.dawn.com/primary/2017/10/59d080eb5b178.jpg",
+      "ingredients": [
+        {
+          "name": "Boneless mutton",
+          "quantity": 1,
+          "unit": "kg"
+        },
+        {
+          "name": "Split chickpeas",
+          "quantity": 1,
+          "unit": "cup"
+        },
+        {
+          "name": "Lentils",
+          "quantity": 1,
+          "unit": "cup"
+        },
+        {
+          "name": "Wheat",
+          "quantity": 1,
+          "unit": "cup"
+        },
+        {
+          "name": "Onions",
+          "quantity": 4,
+          "unit": ""
+        },
+        {
+          "name": "Ginger garlic paste",
+          "quantity": 2,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Green chilies",
+          "quantity": 6,
+          "unit": ""
+        },
+        {
+          "name": "Red chili powder",
+          "quantity": 2,
+          "unit": "tsp"
+        },
+        {
+          "name": "Turmeric powder",
+          "quantity": 1,
+          "unit": "tsp"
+        },
+        {
+          "name": "Coriander powder",
+          "quantity": 2,
+          "unit": "tsp"
+        },
+        {
+          "name": "Cumin powder",
+          "quantity": 1,
+          "unit": "tsp"
+        },
+        {
+          "name": "Garam masala powder",
+          "quantity": 1,
+          "unit": "tsp"
+        },
+        {
+          "name": "Salt",
+          "quantity": null,
+          "unit": "To Taste"
+        },
+        {
+          "name": "Oil",
+          "quantity": 1,
+          "unit": "cup"
+        },
+        {
+          "name": "Lemon",
+          "quantity": 1,
+          "unit": ""
+        },
+        {
+          "name": "Mint leaves",
+          "quantity": 0.5,
+          "unit": "cup"
+        },
+        {
+          "name": "Fried onions",
+          "quantity": 1,
+          "unit": "cup"
+        },
+        {
+          "name": "Ginger",
+          "quantity": 1,
+          "unit": "inch"
+        }
+      ],
+      "instructions": [
+        "1. Soak the wheat, split chickpeas, and lentils in water for 6-8 hours.",
+        "2. In a large pot, add the soaked wheat, chickpeas, and lentils along with 8-10 cups of water. Cook on low heat for 3-4 hours, stirring occasionally, until the grains and lentils are completely cooked and tender.",
+        "3. In a separate pot, add the boneless mutton along with 4-5 cups of water. Add 2 chopped onions, ginger garlic paste, green chilies, red chili powder, turmeric powder, coriander powder, cumin powder, garam masala powder, and salt. Mix well and cook on low heat for 2-3 hours until the meat is tender and falls apart easily.",
+        "4. Once the meat and lentil mixture are cooked, use a hand blender to blend them together until the mixture is smooth and creamy. Add water if necessary to achieve the desired consistency.",
+        "5. In a pan, heat oil and add sliced onions. Fry until they are golden brown and crisp. Drain and keep aside.",
+        "6. In the same pan, fry sliced ginger until it turns golden brown. Drain and keep aside.",
+        "7. Add the meat mixture to the lentil and wheat mixture and cook for another hour, stirring occasionally.",
+        "8. Add the juice of one lemon and mix well.",
+        "9. Serve hot with fried onions, ginger, mint leaves, and naan bread."
+      ]
+    },
+    {
+      "name": "Thai Green Curry",
+      "servings": 4,
+      "difficulty": "Intermediate",
+      "image": "https://img.taste.com.au/Y3OSiJEI/taste/2016/11/thai-green-chicken-curry-106836-1.jpeg",
+      "ingredients": [
+        {
+          "name": "Coconut Milk",
+          "quantity": 400,
+          "unit": "ml"
+        },
+        {
+          "name": "Green Curry Paste",
+          "quantity": 2,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Boneless Chicken",
+          "quantity": 500,
+          "unit": "g"
+        },
+        {
+          "name": "Eggplant",
+          "quantity": 1,
+          "unit": ""
+        },
+        {
+          "name": "Bamboo Shoots",
+          "quantity": 0.5,
+          "unit": "cup"
+        },
+        {
+          "name": "Green Beans",
+          "quantity": 0.5,
+          "unit": "cup"
+        },
+        {
+          "name": "Kaffir Lime Leaves",
+          "quantity": 5,
+          "unit": ""
+        },
+        {
+          "name": "Fish Sauce",
+          "quantity": 2,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Sugar",
+          "quantity": 1,
+          "unit": "tsp"
+        },
+        {
+          "name": "Salt",
+          "quantity": null,
+          "unit": "To Taste"
+        }
+      ],
+      "instructions": [
+        "1. In a large pot, heat the coconut milk on medium heat until it comes to a boil.",
+        "2. Add the green curry paste and stir well. Let it simmer for a minute.",
+        "3. Add the boneless chicken and stir well. Let it cook for 5-7 minutes.",
+        "4. Add the eggplant, bamboo shoots, and green beans. Mix well and cook for another 5-7 minutes.",
+        "5. Add the kaffir lime leaves, fish sauce, sugar, and salt. Mix well and let it cook for another minute.",
+        "6. Serve hot with steamed rice."
+      ]
+    },
+    {
+      "name": "Aloo Gosht",
+      "servings": 4,
+      "difficulty": "Easy",
+      "image": "https://kfoods.com/images1/newrecipeicon/aaloo-gosht_3308.jpg",
+      "ingredients": [
+        {
+          "name": "Mutton",
+          "quantity": 500,
+          "unit": "g"
+        },
+        {
+          "name": "Potatoes",
+          "quantity": 2,
+          "unit": ""
+        },
+        {
+          "name": "Onions",
+          "quantity": 2,
+          "unit": ""
+        },
+        {
+          "name": "Tomatoes",
+          "quantity": 2,
+          "unit": ""
+        },
+        {
+          "name": "Garlic",
+          "quantity": 4,
+          "unit": ""
+        },
+        {
+          "name": "Ginger",
+          "quantity": 1,
+          "unit": ""
+        },
+        {
+          "name": "Green Chilies",
+          "quantity": 4,
+          "unit": ""
+        },
+        {
+          "name": "Cumin Seeds",
+          "quantity": 1,
+          "unit": "tsp"
+        },
+        {
+          "name": "Coriander Powder",
+          "quantity": 1,
+          "unit": "tsp"
+        },
+        {
+          "name": "Turmeric Powder",
+          "quantity": 0.5,
+          "unit": "tsp"
+        },
+        {
+          "name": "Red Chili Powder",
+          "quantity": 1,
+          "unit": "tsp"
+        },
+        {
+          "name": "Salt",
+          "quantity": null,
+          "unit": "To Taste"
+        },
+        {
+          "name": "Oil",
+          "quantity": 0.25,
+          "unit": "cup"
+        },
+        {
+          "name": "Water",
+          "quantity": 1,
+          "unit": "cup"
+        },
+        {
+          "name": "Fresh Coriander",
+          "quantity": 1,
+          "unit": ""
+        }
+      ],
+      "instructions": [
+        "1. In a pot, heat the oil on medium heat. Add the onions and fry until golden brown.",
+        "2. Add the mutton and fry until it changes color.",
+        "3. Add the garlic, ginger, and green chilies. Fry for a minute.",
+        "4. Add the cumin seeds, coriander powder, turmeric powder, red chili powder, and salt. Mix well.",
+        "5. Add the tomatoes and cook until they turn soft.",
+        "6. Add the potatoes and water. Mix well and let it cook on low heat until the mutton and potatoes are tender and the water has evaporated.",
+        "7. Garnish with fresh coriander and serve hot with naan or rice."
+      ]
+    },
+    {
+      "name": "Pho",
+      "servings": 2,
+      "difficulty": "Intermediate",
+      "image": "https://thumbs.dreamstime.com/b/vietnamese-pho-soup-white-background-classic-authentic-food-served-bowl-chicken-broth-lots-fresh-173063147.jpg",
+      "ingredients": [
+        {
+          "name": "Beef Bones",
+          "quantity": 3,
+          "unit": "lbs"
+        },
+        {
+          "name": "Beef Chuck",
+          "quantity": 1,
+          "unit": "lb"
+        },
+        {
+          "name": "Yellow Onion",
+          "quantity": 1,
+          "unit": ""
+        },
+        {
+          "name": "Ginger",
+          "quantity": 4,
+          "unit": "inch"
+        },
+        {
+          "name": "Star Anise",
+          "quantity": 2,
+          "unit": "pods"
+        },
+        {
+          "name": "Cloves",
+          "quantity": 3,
+          "unit": ""
+        },
+        {
+          "name": "Cinnamon Stick",
+          "quantity": 1,
+          "unit": ""
+        },
+        {
+          "name": "Fish Sauce",
+          "quantity": 3,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Rock Sugar",
+          "quantity": 1,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Rice Noodles",
+          "quantity": 1,
+          "unit": "lb"
+        },
+        {
+          "name": "Bean Sprouts",
+          "quantity": 2,
+          "unit": "cup"
+        },
+        {
+          "name": "Basil Leaves",
+          "quantity": 1,
+          "unit": "cup"
+        },
+        {
+          "name": "Cilantro",
+          "quantity": 1,
+          "unit": "cup"
+        },
+        {
+          "name": "Lime",
+          "quantity": 1,
+          "unit": ""
+        },
+        {
+          "name": "Thai Chili Peppers",
+          "quantity": 3,
+          "unit": ""
+        },
+        {
+          "name": "Hoisin Sauce",
+          "quantity": null,
+          "unit": "To Taste"
+        },
+        {
+          "name": "Sriracha Sauce",
+          "quantity": null,
+          "unit": "To Taste"
+        }
+      ],
+      "instructions": [
+        "1. Preheat the oven to 450°F. Roast the beef bones and chuck for 30 minutes.",
+        "2. In a large pot, char the onion and ginger until fragrant. Add the roasted beef bones and chuck, star anise, cloves, cinnamon stick, fish sauce, and rock sugar. Add enough water to cover the ingredients.",
+        "3. Bring the pot to a boil, then lower the heat to a simmer. Skim the impurities from the top of the broth.",
+        "4. Let the broth simmer for at least 6 hours.",
+        "5. Strain the broth through a fine mesh strainer.",
+        "6. Cook the rice noodles according to the package instructions.",
+        "7. Divide the cooked noodles, bean sprouts, basil leaves, cilantro, and thinly sliced beef chuck among serving bowls.",
+        "8. Pour the hot broth over the ingredients in the bowls.",
+        "9. Serve with lime wedges, Thai chili peppers, hoisin sauce, and sriracha sauce."
+      ]
+    },
+    {
+      "name": "Teriyaki Chicken",
+      "servings": 5,
+      "difficulty": "Easy",
+      "image": "https://i0.wp.com/chefsavvy.com/wp-content/uploads/pouring-sauce-ontop-of-teriyaki-chicken-bowl.jpg?resize=665%2C363&ssl=1",
+      "ingredients": [
+        {
+          "name": "Chicken Thighs",
+          "quantity": 1,
+          "unit": "lb"
+        },
+        {
+          "name": "Soy Sauce",
+          "quantity": 0.5,
+          "unit": "cup"
+        },
+        {
+          "name": "Mirin",
+          "quantity": 0.25,
+          "unit": "cup"
+        },
+        {
+          "name": "Brown Sugar",
+          "quantity": 2,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Garlic",
+          "quantity": 2,
+          "unit": ""
+        },
+        {
+          "name": "Ginger",
+          "quantity": 1,
+          "unit": ""
+        },
+        {
+          "name": "Green Onions",
+          "quantity": 2,
+          "unit": ""
+        },
+        {
+          "name": "Sesame Seeds",
+          "quantity": 1,
+          "unit": "tbsp"
+        }
+      ],
+      "instructions": [
+        "1. In a bowl, mix together soy sauce, mirin, brown sugar, garlic, and grated ginger.",
+        "2. Add the chicken thighs to the bowl",
+        "3. Marinate the chicken in the mixture for at least 30 minutes, or up to 2 hours.",
+        "4. Preheat the oven to 425°F.",
+        "5. Place the chicken and the marinade in a baking dish.",
+        "6. Bake for 25-30 minutes, or until the chicken is cooked through and the sauce has thickened.",
+        "7. Garnish with sliced green onions and sesame seeds.",
+        "8. Serve with rice and steamed vegetables."
+      ]
+    },
+    {
+      "name": "Bulgogi Beef",
+      "servings": 4,
+      "difficulty": "Medium",
+      "image": "https://img.freepik.com/premium-photo/korean-beef-bulgogi-white-background-with-copy-space_431906-23.jpg?w=2000",
+      "ingredients": [
+        {
+          "name": "Sirloin Steak",
+          "quantity": 1,
+          "unit": "lb"
+        },
+        {
+          "name": "Soy Sauce",
+          "quantity": 0.25,
+          "unit": "cup"
+        },
+        {
+          "name": "Brown Sugar",
+          "quantity": 2,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Sesame Oil",
+          "quantity": 2,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Garlic",
+          "quantity": 3,
+          "unit": ""
+        },
+        {
+          "name": "Ginger",
+          "quantity": 1,
+          "unit": "inch"
+        },
+        {
+          "name": "Green Onions",
+          "quantity": 2,
+          "unit": ""
+        },
+        {
+          "name": "Sesame Seeds",
+          "quantity": 1,
+          "unit": "tbsp"
+        }
+      ],
+      "instructions": [
+        "1. In a bowl, mix together soy sauce, brown sugar, sesame oil, garlic, and grated ginger.",
+        "2. Add the sliced sirloin steak to the bowl and mix well to coat the meat with the marinade. Let it marinate in the refrigerator for at least 30 minutes, or up to 2 hours.",
+        "3. Preheat the grill or a grill pan to medium-high heat.",
+        "4. Grill the marinated beef for 2-3 minutes per side, or until cooked through.",
+        "5. Serve the bulgogi beef hot, garnished with sliced green onions and sesame seeds.",
+        "6. This dish is often served with steamed rice and kimchi."
+      ]
+    },
+    {
+      "name": "Pakistani Biryani",
+      "servings": 2,
+      "difficulty": "Medium",
+      "image": "https://cravingzone.com/wp-content/uploads/2020/07/biryani-5-667x500.jpg",
+      "ingredients": [
+        {
+          "name": "Basmati Rice",
+          "quantity": 2,
+          "unit": "cup"
+        },
+        {
+          "name": "Chicken Thighs",
+          "quantity": 1,
+          "unit": "lb"
+        },
+        {
+          "name": "Yogurt",
+          "quantity": 1,
+          "unit": "cup"
+        },
+        {
+          "name": "Onion",
+          "quantity": 1,
+          "unit": ""
+        },
+        {
+          "name": "Garlic",
+          "quantity": 4,
+          "unit": ""
+        },
+        {
+          "name": "Ginger",
+          "quantity": 1,
+          "unit": "inch"
+        },
+        {
+          "name": "Tomatoes",
+          "quantity": 2,
+          "unit": ""
+        },
+        {
+          "name": "Green Chilies",
+          "quantity": 2,
+          "unit": ""
+        },
+        {
+          "name": "Cumin Powder",
+          "quantity": 1,
+          "unit": "tsp"
+        },
+        {
+          "name": "Coriander Powder",
+          "quantity": 1,
+          "unit": "tsp"
+        },
+        {
+          "name": "Turmeric Powder",
+          "quantity": 0.5,
+          "unit": "tsp"
+        },
+        {
+          "name": "Red Chili Powder",
+          "quantity": 1,
+          "unit": "tsp"
+        },
+        {
+          "name": "Cinnamon Stick",
+          "quantity": 1,
+          "unit": ""
+        },
+        {
+          "name": "Cloves",
+          "quantity": 4,
+          "unit": ""
+        },
+        {
+          "name": "Green Cardamom Pods",
+          "quantity": 4,
+          "unit": ""
+        },
+        {
+          "name": "Bay Leaf",
+          "quantity": 1,
+          "unit": ""
+        },
+        {
+          "name": "Salt",
+          "quantity": null,
+          "unit": "To Taste"
+        },
+        {
+          "name": "Oil",
+          "quantity": 0.5,
+          "unit": "cup"
+        },
+        {
+          "name": "Water",
+          "quantity": 4,
+          "unit": "cup"
+        },
+        {
+          "name": "Fresh Cilantro Leaves",
+          "quantity": 0.25,
+          "unit": "cup"
+        }
+      ],
+      "instructions": [
+        "1. Soak the basmati rice in water for 30 minutes, then drain and rinse the rice.",
+        "2. In a large pot, heat the oil over medium-high heat.",
+        "3. Add the sliced onions and cook until golden brown, stirring occasionally.",
+        "4. Add the chicken thighs to the pot and cook until browned on all sides, about 5 minutes.",
+        "5. Add the garlic, ginger, and green chilies to the pot and cook for 1-2 minutes, stirring frequently.",
+        "6. Add the diced tomatoes, cumin powder, coriander powder, turmeric powder, red chili powder, cinnamon stick, cloves, green cardamom pods, bay leaf, and salt to the pot. Stir well to combine all the ingredients.",
+        "7. Add the yogurt to the pot and mix well.",
+        "8. Add the soaked and drained basmati rice to the pot and stir gently to combine with the chicken and spices.",
+        "9. Add 4 cups of water to the pot and bring it to a boil.",
+        "10. Reduce the heat to low, cover the pot with a tight-fitting lid, and let it simmer for 20-25 minutes, or until the rice is fully cooked and the liquid is absorbed.",
+        "11. Remove the pot from heat and let it rest for 5-10 minutes before fluffing the rice with a fork.",
+        "12. Garnish the biryani with fresh cilantro leaves and serve hot with raita or chutney.",
+        "Note: You can also add potatoes or other vegetables to the biryani, such as peas or carrots, for added flavor and nutrition."
+      ]
+    },
+    {
+      "name": "Turkish Lahmacun",
+      "servings": 4,
+      "difficulty": "Difficult",
+      "image": "https://i0.wp.com/www.turkishfoodtravel.com/wp-content/uploads/2020/12/lahmacun_big.jpg?fit=1200%2C674&ssl=1",
+      "ingredients": [
+        {
+          "name": "Ground lamb",
+          "quantity": 0.5,
+          "unit": "lb"
+        },
+        {
+          "name": "Tomatoes",
+          "quantity": 2,
+          "unit": ""
+        },
+        {
+          "name": "Onion",
+          "quantity": 1,
+          "unit": ""
+        },
+        {
+          "name": "Garlic",
+          "quantity": 3,
+          "unit": ""
+        },
+        {
+          "name": "Red pepper",
+          "quantity": 1,
+          "unit": ""
+        },
+        {
+          "name": "Parsley",
+          "quantity": 0.25,
+          "unit": "cup"
+        },
+        {
+          "name": "Lemon",
+          "quantity": 1,
+          "unit": ""
+        },
+        {
+          "name": "Salt",
+          "quantity": 1,
+          "unit": "tsp"
+        },
+        {
+          "name": "Black pepper",
+          "quantity": 0.5,
+          "unit": "tsp"
+        },
+        {
+          "name": "Allspice",
+          "quantity": 0.5,
+          "unit": "tsp"
+        },
+        {
+          "name": "Cumin",
+          "quantity": 0.5,
+          "unit": "tsp"
+        },
+        {
+          "name": "Paprika",
+          "quantity": 1,
+          "unit": "tsp"
+        },
+        {
+          "name": "Tomato paste",
+          "quantity": 2,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Olive oil",
+          "quantity": 2,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Water",
+          "quantity": 0.25,
+          "unit": "cup"
+        },
+        {
+          "name": "Pizza dough",
+          "quantity": 1,
+          "unit": "lb"
+        }
+      ],
+      "instructions": [
+        "1. Preheat the oven to 450°F.",
+        "2. In a bowl, mix together the ground lamb, diced tomatoes, diced onion, minced garlic, diced red pepper, chopped parsley, lemon juice, salt, black pepper, allspice, cumin, paprika, tomato paste, and olive oil until well combined.",
+        "3. Add 1/4 cup of water to the mixture and stir until the water is absorbed.",
+        "4. Divide the pizza dough into 4 equal portions and roll each portion into a thin circle on a floured surface.",
+        "5. Place each circle onto a baking sheet lined with parchment paper.",
+        "6. Spread the lamb mixture evenly onto each dough circle, leaving a small border around the edges.",
+        "7. Bake in the preheated oven for 10-12 minutes, or until the edges of the dough are golden brown and the lamb mixture is cooked through.",
+        "8. Remove from the oven and let cool for a few minutes.",
+        "9. Cut into slices and serve hot."
+      ]
+    },
+    {
+      "name": "Beef and Broccoli Stir Fry",
+      "servings": 4,
+      "difficulty": "Easy",
+      "image": "https://barefeetinthekitchen.com/wp-content/uploads/2016/03/beef-broccoli-stir-fry-2.jpg",
+      "ingredients": [
+        {
+          "name": "Beef sirloin",
+          "quantity": 1,
+          "unit": "lb"
+        },
+        {
+          "name": "Broccoli florets",
+          "quantity": 4,
+          "unit": "cups"
+        },
+        {
+          "name": "Garlic",
+          "quantity": 3,
+          "unit": ""
+        },
+        {
+          "name": "Ginger",
+          "quantity": 1,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Soy sauce",
+          "quantity": 3,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Cornstarch",
+          "quantity": 2,
+          "unit": "tsp"
+        },
+        {
+          "name": "Water",
+          "quantity": 0.25,
+          "unit": "cup"
+        },
+        {
+          "name": "Vegetable oil",
+          "quantity": 2,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Salt",
+          "quantity": 0.5,
+          "unit": "tsp"
+        },
+        {
+          "name": "Black pepper",
+          "quantity": 0.25,
+          "unit": "tsp"
+        }
+      ],
+      "instructions": [
+        "1. In a small bowl, mix together the soy sauce, cornstarch, water, salt, and black pepper.",
+        "2. Cut the beef into thin strips.",
+        "3. Add the beef to the soy sauce mixture and marinate for 10-15 minutes.",
+        "4. Heat the vegetable oil in a wok or large skillet over high heat.",
+        "5. Add the garlic and ginger and stir-fry for 30 seconds.",
+        "6. Add the beef and stir-fry for 2-3 minutes until it is browned on all sides.",
+        "7. Add the broccoli and stir-fry for an additional 2-3 minutes until it is bright green and slightly softened.",
+        "8. Serve hot with steamed rice."
+      ]
+    },
+    {
+      "name": "Easy Beef and Pepper Skillet",
+      "servings": 4,
+      "difficulty": "Difficult",
+      "image": "https://hips.hearstapps.com/goodhousekeeping/assets/15/51/1450378960-ghk-0116-sauteed-beef-pepper-skillet-with-fries.jpg",
+      "ingredients": [
+        {
+          "name": "Ground beef",
+          "quantity": 1,
+          "unit": "lb"
+        },
+        {
+          "name": "Onion",
+          "quantity": 1,
+          "unit": ""
+        },
+        {
+          "name": "Garlic cloves",
+          "quantity": 2,
+          "unit": ""
+        },
+        {
+          "name": "Green bell pepper",
+          "quantity": 1,
+          "unit": ""
+        },
+        {
+          "name": "Red bell pepper",
+          "quantity": 1,
+          "unit": ""
+        },
+        {
+          "name": "Diced tomatoes",
+          "quantity": 1,
+          "unit": "can"
+        },
+        {
+          "name": "Salt",
+          "quantity": 1,
+          "unit": "tsp"
+        },
+        {
+          "name": "Black pepper",
+          "quantity": 0.5,
+          "unit": "tsp"
+        },
+        {
+          "name": "Olive oil",
+          "quantity": 2,
+          "unit": "tbsp"
+        }
+      ],
+      "instructions": [
+        "1. Heat olive oil in a large skillet over medium-high heat.",
+        "2. Add ground beef and cook until browned, about 5-7 minutes.",
+        "3. Add chopped onion, minced garlic, green bell pepper, and red bell pepper to the skillet. Season with salt and black pepper to taste.",
+        "4. Cook for 5-7 minutes until the vegetables are softened.",
+        "5. Stir in the can of diced tomatoes with their juice.",
+        "6. Bring the mixture to a simmer and cook for 10-15 minutes until the sauce has thickened slightly.",
+        "7. Serve hot with rice or crusty bread."
+      ]
+    },
+    {
+      "name": "Beef Bulgogi",
+      "servings": 4,
+      "difficulty": "Moderate",
+      "image": "https://img.freepik.com/premium-photo/korean-beef-bulgogi-white-background-with-copy-space_431906-23.jpg?w=2000",
+      "ingredients": [
+        {
+          "name": "Beef sirloin",
+          "quantity": 1,
+          "unit": "lb"
+        },
+        {
+          "name": "Soy sauce",
+          "quantity": 0.5,
+          "unit": "cup"
+        },
+        {
+          "name": "Brown sugar",
+          "quantity": 0.25,
+          "unit": "cup"
+        },
+        {
+          "name": "Sesame oil",
+          "quantity": 1,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Garlic",
+          "quantity": 4,
+          "unit": ""
+        },
+        {
+          "name": "Green onions",
+          "quantity": 4,
+          "unit": ""
+        },
+        {
+          "name": "Pear",
+          "quantity": 1,
+          "unit": ""
+        },
+        {
+          "name": "Sesame seeds",
+          "quantity": 1,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Vegetable oil",
+          "quantity": 1,
+          "unit": "tbsp"
+        }
+      ],
+      "instructions": [
+        "1. Cut the beef into thin strips.",
+        "2. In a bowl, mix together the soy sauce, brown sugar, sesame oil, garlic, and chopped green onions.",
+        "3. Grate the pear and add it to the marinade.",
+        "4. Add the beef to the marinade and mix well. Cover and refrigerate for at least 1 hour, or overnight.",
+        "5. Heat the vegetable oil in a large skillet over medium-high heat.",
+        "6. Add the beef and cook for 5-7 minutes, or until browned and cooked through.",
+        "7. Garnish with sesame seeds and additional chopped green onions, if desired."
+      ]
+    },
+    {
+      "name": "Creamy Garlic Shrimp Pasta",
+      "servings": 4,
+      "difficulty": "Easy",
+      "image": "https://images-gmi-pmc.edge-generalmills.com/9697bbe1-c710-44a7-b5a8-d8adefea5058.jpg",
+      "ingredients": [
+        {
+          "name": "Pasta",
+          "quantity": 1,
+          "unit": "lb"
+        },
+        {
+          "name": "Shrimp",
+          "quantity": 1,
+          "unit": "lb"
+        },
+        {
+          "name": "Garlic",
+          "quantity": 6,
+          "unit": ""
+        },
+        {
+          "name": "Heavy cream",
+          "quantity": 1,
+          "unit": "cup"
+        },
+        {
+          "name": "Butter",
+          "quantity": 4,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Parmesan cheese",
+          "quantity": 0.5,
+          "unit": "cup"
+        },
+        {
+          "name": "Lemon",
+          "quantity": 1,
+          "unit": ""
+        },
+        {
+          "name": "Salt",
+          "quantity": null,
+          "unit": "To Taste"
+        },
+        {
+          "name": "Pepper",
+          "quantity": null,
+          "unit": "To Taste"
+        },
+        {
+          "name": "Olive oil",
+          "quantity": 2,
+          "unit": "tbsp"
+        }
+      ],
+      "instructions": [
+        "1. Cook pasta according to package directions.",
+        "2. Drain and set aside.",
+        "3. In a large skillet, heat olive oil over medium-high heat.",
+        "4. Add shrimp and cook until pink, about 2-3 minutes per side.",
+        "5. Remove shrimp from skillet and set aside.",
+        "6. In the same skillet, melt butter over medium heat.",
+        "7. Add minced garlic and cook until fragrant, about 1 minute.",
+        "8. Stir in heavy cream and bring to a simmer.",
+        "9. Add parmesan cheese and stir until melted and well combined.",
+        "10. Add cooked pasta to the skillet and toss with the sauce.",
+        "11. Add cooked shrimp to the skillet and toss with the pasta.",
+        "12. Squeeze lemon juice over the pasta and shrimp.",
+        "13. Season with salt and pepper to taste.",
+        "14. Serve hot."
+      ]
+    },
+    {
+      "name": "Japanese Miso Soup",
+      "servings": 4,
+      "difficulty": "Medium",
+      "image": "https://web-japan.org/kidsweb/img/cook_misoshiru_pic17.jpg",
+      "ingredients": [
+        {
+          "name": "Dashi stock",
+          "quantity": 4,
+          "unit": "cups"
+        },
+        {
+          "name": "Miso paste",
+          "quantity": 4,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Tofu",
+          "quantity": 8,
+          "unit": "oz"
+        },
+        {
+          "name": "Green onions",
+          "quantity": 2,
+          "unit": ""
+        },
+        {
+          "name": "Seaweed",
+          "quantity": 2,
+          "unit": "sheets"
+        }
+      ],
+      "instructions": [
+        "1. Heat the dashi stock in a saucepan over medium heat.",
+        "2. Cut the tofu into small cubes and add it to the stock.",
+        "3. Cut the green onions into thin slices and add them to the stock.",
+        "4. Cut the seaweed into small pieces and add it to the stock.",
+        "5. Simmer for 2-3 minutes until the tofu is heated through and the vegetables are slightly wilted.",
+        "6. In a small bowl, whisk together the miso paste with a small amount of the hot broth until the paste is dissolved.",
+        "7. Pour the miso mixture back into the soup and stir gently.",
+        "8. Serve hot."
+      ]
+    },
+    {
+      "name": "Garlic Shrimp Linguine",
+      "servings": 4,
+      "difficulty": "Difficult",
+      "image": "https://images-gmi-pmc.edge-generalmills.com/8218a2ba-d750-40d3-9355-b9d58a02a626.jpg",
+      "ingredients": [
+        {
+          "name": "Linguine pasta",
+          "quantity": 8,
+          "unit": "oz"
+        },
+        {
+          "name": "Shrimp",
+          "quantity": 1,
+          "unit": "lb"
+        },
+        {
+          "name": "Garlic",
+          "quantity": 3,
+          "unit": ""
+        },
+        {
+          "name": "Butter",
+          "quantity": 2,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Olive oil",
+          "quantity": 2,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Red pepper flakes",
+          "quantity": 0.25,
+          "unit": "tsp"
+        },
+        {
+          "name": "Lemon",
+          "quantity": 1,
+          "unit": ""
+        },
+        {
+          "name": "Salt",
+          "quantity": 0.25,
+          "unit": "tsp"
+        },
+        {
+          "name": "Black pepper",
+          "quantity": 0.25,
+          "unit": "tsp"
+        },
+        {
+          "name": "Parsley",
+          "quantity": 2,
+          "unit": "tbsp"
+        }
+      ],
+      "instructions": [
+        "1. Cook the linguine pasta according to package instructions until al dente.",
+        "2. Drain and set aside.",
+        "3. In a large skillet, melt the butter with the olive oil over medium heat.",
+        "4. Add the minced garlic and red pepper flakes, and cook until fragrant.",
+        "5. Add the shrimp to the skillet and season with salt and black pepper.",
+        "6. Cook the shrimp for 2-3 minutes on each side until pink and cooked through.",
+        "7. Squeeze the juice of one lemon over the shrimp.",
+        "8. Add the cooked linguine to the skillet and toss until coated in the garlic butter sauce.",
+        "9. Garnish with chopped parsley and serve hot."
+      ]
+    },
+    {
+      "name": "Tomato Basil Soup",
+      "servings": 4,
+      "difficulty": "Easy",
+      "image": "https://thecozyapron.com/wp-content/uploads/2012/02/tomato-basil-soup_thecozyapron_1.jpg",
+      "ingredients": [
+        {
+          "name": "Tomatoes",
+          "quantity": 4,
+          "unit": ""
+        },
+        {
+          "name": "Onion",
+          "quantity": 1,
+          "unit": ""
+        },
+        {
+          "name": "Garlic",
+          "quantity": 3,
+          "unit": ""
+        },
+        {
+          "name": "Olive oil",
+          "quantity": 2,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Vegetable broth",
+          "quantity": 2,
+          "unit": "cups"
+        },
+        {
+          "name": "Heavy cream",
+          "quantity": 0.5,
+          "unit": "cup"
+        },
+        {
+          "name": "Fresh basil",
+          "quantity": 0.25,
+          "unit": "cup"
+        },
+        {
+          "name": "Salt",
+          "quantity": null,
+          "unit": "To Taste"
+        },
+        {
+          "name": "Black pepper",
+          "quantity": null,
+          "unit": "To Taste"
+        }
+      ],
+      "instructions": [
+        "1. Preheat the oven to 375°F.",
+        "2. Cut the tomatoes in half and place them on a baking sheet.",
+        "3. Drizzle with olive oil and season with salt and pepper.",
+        "4. Roast the tomatoes for 30-40 minutes, or until they are soft and slightly browned.",
+        "5. While the tomatoes are roasting, chop the onion and garlic.",
+        "6. Heat 2 tablespoons of olive oil in a large pot over medium heat.",
+        "7. Add the onion and garlic and cook until they are soft and fragrant, about 5 minutes.",
+        "8. Add the roasted tomatoes and vegetable broth to the pot and bring to a simmer.",
+        "9. Let the soup simmer for 10-15 minutes, or until the tomatoes are very soft.",
+        "10. Remove the soup from the heat and let it cool slightly.",
+        "11. Use an immersion blender to puree the soup until it is smooth and creamy.",
+        "12. Return the pot to the stove over medium heat.",
+        "13. Add the heavy cream and fresh basil to the soup and stir to combine.",
+        "14. Season the soup with salt and pepper to taste.",
+        "15. Serve hot."
+      ]
+    },
+    {
+      "name": "Grilled Salmon with Lemon and Herb Marinade",
+      "servings": 4,
+      "difficulty": "Difficult",
+      "image": "https://images-gmi-pmc.edge-generalmills.com/6bd4a0d4-bec0-43c9-93c5-8f69a02b6e34.jpg",
+      "ingredients": [
+        {
+          "name": "Salmon fillets",
+          "quantity": 4,
+          "unit": ""
+        },
+        {
+          "name": "Lemon",
+          "quantity": 1,
+          "unit": ""
+        },
+        {
+          "name": "Garlic",
+          "quantity": 2,
+          "unit": ""
+        },
+        {
+          "name": "Olive oil",
+          "quantity": 3,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Fresh thyme",
+          "quantity": 1,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Fresh parsley",
+          "quantity": 1,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Salt",
+          "quantity": 0.5,
+          "unit": "tsp"
+        },
+        {
+          "name": "Black pepper",
+          "quantity": 0.25,
+          "unit": "tsp"
+        }
+      ],
+      "instructions": [
+        "1. In a small bowl, whisk together the juice of one lemon, minced garlic, olive oil, thyme, parsley, salt, and black pepper.",
+        "2. Place the salmon fillets in a shallow dish and pour the marinade over them.",
+        "3. Cover the dish and refrigerate for at least 30 minutes, or up to 2 hours.",
+        "4. Preheat a grill to medium-high heat.",
+        "5. Remove the salmon from the marinade and discard the marinade.",
+        "6. Grill the salmon for 5-7 minutes per side, or until it is cooked through and flakes easily with a fork.",
+        "7. Serve hot with lemon wedges."
+      ]
+    },
+    {
+      "name": "Moroccan Chicken Tagine",
+      "servings": 4,
+      "difficulty": "Easy",
+      "image": "https://img.taste.com.au/UFKTkDGI/taste/2016/11/moroccan-chicken-tagine-102314-1.jpeg",
+      "ingredients": [
+        {
+          "name": "Chicken thighs",
+          "quantity": 4,
+          "unit": ""
+        },
+        {
+          "name": "Olive oil",
+          "quantity": 2,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Onion",
+          "quantity": 1,
+          "unit": ""
+        },
+        {
+          "name": "Garlic",
+          "quantity": 2,
+          "unit": ""
+        },
+        {
+          "name": "Tomato",
+          "quantity": 1,
+          "unit": ""
+        },
+        {
+          "name": "Carrot",
+          "quantity": 2,
+          "unit": ""
+        },
+        {
+          "name": "Potato",
+          "quantity": 2,
+          "unit": ""
+        },
+        {
+          "name": "Green olives",
+          "quantity": 0.25,
+          "unit": "cup"
+        },
+        {
+          "name": "Lemon",
+          "quantity": 1,
+          "unit": ""
+        },
+        {
+          "name": "Chicken broth",
+          "quantity": 1,
+          "unit": "cup"
+        },
+        {
+          "name": "Cumin",
+          "quantity": 1,
+          "unit": "tsp"
+        },
+        {
+          "name": "Coriander",
+          "quantity": 1,
+          "unit": "tsp"
+        },
+        {
+          "name": "Cinnamon",
+          "quantity": 0.5,
+          "unit": "tsp"
+        },
+        {
+          "name": "Salt",
+          "quantity": 0.5,
+          "unit": "tsp"
+        },
+        {
+          "name": "Black pepper",
+          "quantity": 0.25,
+          "unit": "tsp"
+        }
+      ],
+      "instructions": [
+        "1. Preheat oven to 375°F (190°C).",
+        "2. Heat the olive oil in a large skillet over medium-high heat.",
+        "3. Season the chicken with salt and pepper, and brown on all sides in the skillet.",
+        "4. Remove the chicken and set aside.",
+        "5. Add the onion, garlic, and spices to the skillet and cook for 1-2 minutes until fragrant.",
+        "6. Add the tomato and cook for another 2-3 minutes.",
+        "7. Add the chicken broth and bring to a boil.",
+        "8. Add the chicken back to the skillet, along with the carrots, potatoes, olives, and lemon.",
+        "9. Cover the skillet with a lid and bake in the preheated oven for 45 minutes to 1 hour, until the chicken is cooked through and the vegetables are tender.",
+        "10. Serve hot with couscous or bread."
+      ]
+    },
+    {
+      "name": "Margherita Pizza",
+      "servings": 2,
+      "difficulty": "Moderate",
+      "image": "https://static01.nyt.com/images/2014/04/09/dining/09JPPIZZA2/09JPPIZZA2-videoSixteenByNineJumbo1600-v2.jpg",
+      "ingredients": [
+        {
+          "name": "Pizza dough",
+          "quantity": 1,
+          "unit": "pound"
+        },
+        {
+          "name": "San Marzano tomatoes",
+          "quantity": 1,
+          "unit": "can"
+        },
+        {
+          "name": "Fresh mozzarella cheese",
+          "quantity": 8,
+          "unit": "ounces"
+        },
+        {
+          "name": "Basil leaves",
+          "quantity": 0.25,
+          "unit": "cup"
+        },
+        {
+          "name": "Extra-virgin olive oil",
+          "quantity": 2,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Garlic",
+          "quantity": 2,
+          "unit": ""
+        },
+        {
+          "name": "Salt",
+          "quantity": 0.5,
+          "unit": "tsp"
+        }
+      ],
+      "instructions": [
+        "1. Preheat the oven to 450°F.",
+        "2. Roll out the pizza dough on a floured surface to your desired thickness.",
+        "3. Spread the San Marzano tomatoes over the pizza dough, leaving a 1/2-inch border around the edges.",
+        "4. Sprinkle the minced garlic over the tomato sauce.",
+        "5. Tear the mozzarella cheese into small pieces and scatter over the tomato sauce.",
+        "6. Sprinkle the basil leaves over the cheese.",
+        "7. Drizzle the olive oil over the pizza.",
+        "8. Sprinkle the salt over the pizza.",
+        "9. Bake the pizza for 12-15 minutes, or until the crust is golden brown.",
+        "10. Slice and serve hot."
+      ]
+    },
+    {
+      "name": "Miso Soup",
+      "servings": 4,
+      "difficulty": "Difficult",
+      "image": "https://i.ytimg.com/vi/eOwnsH2u-F0/maxresdefault.jpg",
+      "ingredients": [
+        {
+          "name": "Dashi",
+          "quantity": 4,
+          "unit": "cups"
+        },
+        {
+          "name": "Miso paste",
+          "quantity": 4,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Tofu",
+          "quantity": 8,
+          "unit": "oz"
+        },
+        {
+          "name": "Green onions",
+          "quantity": 2,
+          "unit": ""
+        }
+      ],
+      "instructions": [
+        "1. In a medium saucepan, bring the dashi to a simmer over medium heat.",
+        "2. Add the miso paste and stir until it is completely dissolved.",
+        "3. Add the tofu and let it cook for 1-2 minutes.",
+        "4. Divide the soup among four bowls and garnish with chopped green onions."
+      ]
+    },
+    {
+      "name": "Chicken Teriyaki",
+      "servings": 4,
+      "difficulty": "Easy",
+      "image": "https://i0.wp.com/chefsavvy.com/wp-content/uploads/pouring-sauce-ontop-of-teriyaki-chicken-bowl.jpg?resize=665%2C363&ssl=1",
+      "ingredients": [
+        {
+          "name": "Chicken thighs",
+          "quantity": 4,
+          "unit": ""
+        },
+        {
+          "name": "Soy sauce",
+          "quantity": 0.5,
+          "unit": "cup"
+        },
+        {
+          "name": "Mirin",
+          "quantity": 0.25,
+          "unit": "cup"
+        },
+        {
+          "name": "Brown sugar",
+          "quantity": 2,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Vegetable oil",
+          "quantity": 1,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Sesame seeds",
+          "quantity": 1,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Green onions",
+          "quantity": 2,
+          "unit": ""
+        }
+      ],
+      "instructions": [
+        "1. In a small saucepan, combine the soy sauce, mirin, and brown sugar.",
+        "2. Bring the mixture to a boil, then reduce the heat to low and simmer for 5-7 minutes until the sauce thickens.",
+        "3. Heat the vegetable oil in a large skillet over medium-high heat.",
+        "4. Add the chicken thighs and cook for 5-7 minutes on each side until they are golden brown and cooked through.",
+        "5. Pour the teriyaki sauce over the chicken and cook for 1-2 minutes until the sauce coats the chicken and is heated through.",
+        "6. Serve the chicken topped with sesame seeds and chopped green onions."
+      ]
+    },
+    {
+      "name": "Apple Pie",
+      "servings": 8,
+      "difficulty": "Easy",
+      "image": "https://www.mashed.com/img/gallery/the-untold-truth-of-apple-pie/l-intro-1643045440.jpg",
+      "ingredients": [
+        {
+          "name": "Pie crust",
+          "quantity": 2,
+          "unit": ""
+        },
+        {
+          "name": "Apples",
+          "quantity": 6,
+          "unit": ""
+        },
+        {
+          "name": "Sugar",
+          "quantity": 0.75,
+          "unit": "cup"
+        },
+        {
+          "name": "Flour",
+          "quantity": 2,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Cinnamon",
+          "quantity": 1,
+          "unit": "tsp"
+        },
+        {
+          "name": "Nutmeg",
+          "quantity": 0.5,
+          "unit": "tsp"
+        },
+        {
+          "name": "Butter",
+          "quantity": 0.25,
+          "unit": "cup"
+        }
+      ],
+      "instructions": [
+        "1. Preheat the oven to 375°F (190°C).",
+        "2. Peel and slice the apples.",
+        "3. In a small bowl, mix together the sugar, flour, cinnamon, and nutmeg.",
+        "4. Place one of the pie crusts in a 9-inch (23-cm) pie dish.",
+        "5. Arrange the sliced apples in the pie crust.",
+        "6. Sprinkle the sugar mixture over the apples.",
+        "7. Dot the top of the apples with small pieces of butter.",
+        "8. Place the second pie crust on top of the apples.",
+        "9. Trim the edges of the crusts and crimp together with a fork.",
+        "10. Cut several slits in the top crust to allow steam to escape.",
+        "11. Bake for 45-50 minutes, or until the crust is golden brown and the filling is bubbling.",
+        "12. Allow the pie to cool before slicing and serving."
+      ]
+    },
+    {
+      "name": "Beef and Broccoli Stir-Fry",
+      "servings": 4,
+      "difficulty": "Medium",
+      "image": "https://www.savingdessert.com/wp-content/uploads/2013/01/Beef-and-Broccoli-Stir-Fry-3.jpg",
+      "ingredients": [
+        {
+          "name": "Beef sirloin",
+          "quantity": 1,
+          "unit": "lb"
+        },
+        {
+          "name": "Broccoli",
+          "quantity": 1,
+          "unit": ""
+        },
+        {
+          "name": "Garlic",
+          "quantity": 4,
+          "unit": ""
+        },
+        {
+          "name": "Ginger",
+          "quantity": 1,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Soy sauce",
+          "quantity": 0.25,
+          "unit": "cup"
+        },
+        {
+          "name": "Cornstarch",
+          "quantity": 1,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Sesame oil",
+          "quantity": 1,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Vegetable oil",
+          "quantity": 2,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Salt",
+          "quantity": 0.25,
+          "unit": "tsp"
+        },
+        {
+          "name": "Black pepper",
+          "quantity": 0.25,
+          "unit": "tsp"
+        }
+      ],
+      "instructions": [
+        "1. Slice the beef into thin strips.",
+        "2. In a small bowl, mix together the soy sauce, cornstarch, and sesame oil.",
+        "3. Add the beef to the bowl and stir to coat.",
+        "4. Heat the vegetable oil in a wok or large skillet over high heat.",
+        "5. Add the garlic and ginger and stir-fry for 30 seconds.",
+        "6. Add the beef and stir-fry for 2-3 minutes until browned.",
+        "7. Remove the beef from the wok and set aside.",
+        "8. Add the broccoli to the wok and stir-fry for 2-3 minutes.",
+        "9. Add a splash of water and cover the wok with a lid.",
+        "10. Steam the broccoli for 1-2 minutes until it is tender-crisp.",
+        "11. Return the beef to the wok and stir to combine with the broccoli.",
+        "12. Season with salt and black pepper to taste.",
+        "13. Serve hot over rice."
+      ]
+    },
+    {
+      "name": "Fried Rice with Vegetables",
+      "servings": 4,
+      "difficulty": "Moderate",
+      "image": "https://thumbs.dreamstime.com/b/chinese-fried-rice-vegetables-omelette-black-bowl-isolated-white-background-99762251.jpg",
+      "ingredients": [
+        {
+          "name": "Cooked rice",
+          "quantity": 4,
+          "unit": "cups"
+        },
+        {
+          "name": "Carrot",
+          "quantity": 1,
+          "unit": ""
+        },
+        {
+          "name": "Green beans",
+          "quantity": 1,
+          "unit": "cup"
+        },
+        {
+          "name": "Green peas",
+          "quantity": 0.5,
+          "unit": "cup"
+        },
+        {
+          "name": "Onion",
+          "quantity": 1,
+          "unit": ""
+        },
+        {
+          "name": "Garlic",
+          "quantity": 2,
+          "unit": ""
+        },
+        {
+          "name": "Egg",
+          "quantity": 2,
+          "unit": ""
+        },
+        {
+          "name": "Soy sauce",
+          "quantity": 3,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Sesame oil",
+          "quantity": 1,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Salt",
+          "quantity": 0.5,
+          "unit": "tsp"
+        },
+        {
+          "name": "Black pepper",
+          "quantity": 0.25,
+          "unit": "tsp"
+        },
+        {
+          "name": "Vegetable oil",
+          "quantity": 2,
+          "unit": "tbsp"
+        }
+      ],
+      "instructions": [
+        "1. Heat the vegetable oil in a wok or large skillet over medium-high heat.",
+        "2. Add the garlic and onion and stir-fry for 30 seconds.",
+        "3. Add the carrot, green beans, and green peas to the wok and stir-fry for 2-3 minutes until the vegetables are slightly softened.",
+        "4. Push the vegetables to one side of the wok and crack the eggs into the other side.",
+        "5. Scramble the eggs until they are cooked through.",
+        "6. Add the cooked rice to the wok and stir-fry for 2-3 minutes until the rice is heated through.",
+        "7. Add the soy sauce, sesame oil, salt, and black pepper to the wok and stir-fry for an additional 1-2 minutes until everything is well combined.",
+        "8. Serve hot."
+      ]
+    },
+    {
+      "name": "Japanese Chicken Teriyaki",
+      "servings": 4,
+      "difficulty": "Medium",
+      "image": "https://static01.nyt.com/images/2016/05/28/dining/28COOKING-CHICKEN-TERIYAKI1/28COOKING-CHICKEN-TERIYAKI1-videoSixteenByNineJumbo1600.jpg",
+      "ingredients": [
+        {
+          "name": "Boneless, skinless chicken thighs",
+          "quantity": 4,
+          "unit": ""
+        },
+        {
+          "name": "Soy sauce",
+          "quantity": 0.25,
+          "unit": "cup"
+        },
+        {
+          "name": "Mirin",
+          "quantity": 0.25,
+          "unit": "cup"
+        },
+        {
+          "name": "Sake",
+          "quantity": 0.25,
+          "unit": "cup"
+        },
+        {
+          "name": "Sugar",
+          "quantity": 2,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Vegetable oil",
+          "quantity": 1,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Sesame seeds",
+          "quantity": 1,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Green onions",
+          "quantity": 2,
+          "unit": ""
+        }
+      ],
+      "instructions": [
+        "1. In a small saucepan, combine the soy sauce, mirin, sake, and sugar.",
+        "2. Heat the saucepan over medium heat and stir until the sugar has dissolved.",
+        "3. Remove from heat and let cool.",
+        "4. Cut the chicken into bite-sized pieces.",
+        "5. In a large skillet, heat the vegetable oil over medium-high heat.",
+        "6. Add the chicken and cook until browned on all sides.",
+        "7. Pour the teriyaki sauce over the chicken and stir to coat.",
+        "8. Reduce heat to low and simmer for 10-15 minutes, until the chicken is cooked through and the sauce has thickened.",
+        "9. Garnish with sesame seeds and sliced green onions, and serve hot."
+      ]
+    },
+    {
+      "name": "Korean Bibimbap",
+      "servings": 4,
+      "difficulty": "Difficult",
+      "image": "https://www.maangchi.com/wp-content/uploads/2008/01/bibimbap-bowl-590x422.jpg",
+      "ingredients": [
+        {
+          "name": "Short grain rice",
+          "quantity": 2,
+          "unit": "cups"
+        },
+        {
+          "name": "Ground beef",
+          "quantity": 1,
+          "unit": "pound"
+        },
+        {
+          "name": "Carrot",
+          "quantity": 1,
+          "unit": ""
+        },
+        {
+          "name": "Spinach",
+          "quantity": 2,
+          "unit": "cups"
+        },
+        {
+          "name": "Zucchini",
+          "quantity": 1,
+          "unit": ""
+        },
+        {
+          "name": "Bean sprouts",
+          "quantity": 2,
+          "unit": "cups"
+        },
+        {
+          "name": "Shiitake mushrooms",
+          "quantity": 8,
+          "unit": ""
+        },
+        {
+          "name": "Garlic",
+          "quantity": 4,
+          "unit": ""
+        },
+        {
+          "name": "Soy sauce",
+          "quantity": 4,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Sesame oil",
+          "quantity": 1,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Sugar",
+          "quantity": 1,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Eggs",
+          "quantity": 4,
+          "unit": ""
+        },
+        {
+          "name": "Gochujang (Korean chili paste)",
+          "quantity": 4,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Sesame seeds",
+          "quantity": 1,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Vegetable oil",
+          "quantity": 2,
+          "unit": "tbsp"
+        }
+      ],
+      "instructions": [
+        "1. Cook the rice according to package instructions.",
+        "2. While the rice is cooking, slice the carrot, zucchini, and shiitake mushrooms into thin strips.",
+        "3. In a small bowl, mix together the soy sauce, sesame oil, and sugar.",
+        "4. Heat 1 tablespoon of vegetable oil in a large skillet over medium-high heat.",
+        "5. Add the ground beef and garlic to the skillet and cook until the beef is browned and cooked through.",
+        "6. Remove the beef from the skillet and set aside.",
+        "7. Add another tablespoon of vegetable oil to the skillet and add the sliced vegetables and bean sprouts.",
+        "8. Stir-fry for 3-4 minutes until the vegetables are tender.",
+        "9. Add the cooked ground beef back to the skillet and pour the soy sauce mixture over everything.",
+        "10. Stir-fry for another minute until everything is coated in the sauce.",
+        "11. In a separate pan, fry the eggs sunny-side up.",
+        "12. To serve, place a scoop of rice in the bottom of each bowl.",
+        "13. Arrange the beef and vegetable mixture on top of the rice.",
+        "14. Top with the fried egg and a spoonful of gochujang.",
+        "15. Sprinkle with sesame seeds and serve hot."
+      ]
+    },
+    {
+      "name": "Korean BBQ Beef Bulgogi",
+      "servings": 4,
+      "difficulty": "Medium",
+      "image": "https://www.aspicyperspective.com/wp-content/uploads/2020/01/bulgogi-korean-bbq-recipe-200-480x270.jpg",
+      "ingredients": [
+        {
+          "name": "Beef sirloin",
+          "quantity": 1,
+          "unit": "pound"
+        },
+        {
+          "name": "Soy sauce",
+          "quantity": 0.25,
+          "unit": "cup"
+        },
+        {
+          "name": "Brown sugar",
+          "quantity": 2,
+          "unit": "tablespoons"
+        },
+        {
+          "name": "Sesame oil",
+          "quantity": 1,
+          "unit": "tablespoon"
+        },
+        {
+          "name": "Garlic",
+          "quantity": 3,
+          "unit": ""
+        },
+        {
+          "name": "Green onions",
+          "quantity": 2,
+          "unit": ""
+        },
+        {
+          "name": "Sesame seeds",
+          "quantity": 1,
+          "unit": "tablespoon"
+        },
+        {
+          "name": "Vegetable oil",
+          "quantity": 1,
+          "unit": "tablespoon"
+        }
+      ],
+      "instructions": [
+        "1. Cut the beef into thin slices.",
+        "2. In a bowl, mix together soy sauce, brown sugar, sesame oil, garlic, and green onions.",
+        "3. Add the beef slices and stir to coat.",
+        "4. Cover and marinate for at least 1 hour or overnight.",
+        "5. Heat a large skillet or grill pan over medium-high heat.",
+        "6. Add the vegetable oil and swirl to coat.",
+        "7. Add the marinated beef and cook for 3-5 minutes, stirring occasionally, until the beef is cooked through.",
+        "8. Sprinkle with sesame seeds and serve hot."
+      ]
+    },
+    {
+      "name": "Teriyaki Salmon",
+      "servings": 4,
+      "difficulty": "Easy",
+      "image": "https://culinaryginger.com/wp-content/uploads/Teriyaki-Glazed-Salmon-59-720x405.jpg",
+      "ingredients": [
+        {
+          "name": "Salmon fillets",
+          "quantity": 4,
+          "unit": ""
+        },
+        {
+          "name": "Teriyaki sauce",
+          "quantity": 0.5,
+          "unit": "cup"
+        },
+        {
+          "name": "Soy sauce",
+          "quantity": 0.25,
+          "unit": "cup"
+        },
+        {
+          "name": "Honey",
+          "quantity": 2,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Garlic",
+          "quantity": 2,
+          "unit": ""
+        },
+        {
+          "name": "Ginger",
+          "quantity": 1,
+          "unit": "tsp"
+        },
+        {
+          "name": "Green onions",
+          "quantity": 2,
+          "unit": ""
+        },
+        {
+          "name": "Sesame seeds",
+          "quantity": 1,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Vegetable oil",
+          "quantity": 2,
+          "unit": "tbsp"
+        }
+      ],
+      "instructions": [
+        "1. Preheat the oven to 400°F.",
+        "2. In a small bowl, whisk together the teriyaki sauce, soy sauce, honey, garlic, and ginger.",
+        "3. Line a baking sheet with parchment paper and place the salmon fillets on top.",
+        "4. Pour the teriyaki sauce over the salmon, making sure to coat each fillet.",
+        "5. Bake in the preheated oven for 12-15 minutes, or until the salmon is cooked through and flakes easily with a fork.",
+        "6. While the salmon is baking, thinly slice the green onions.",
+        "7. In a small skillet, toast the sesame seeds over medium heat until they are golden brown, about 3-4 minutes.",
+        "8. When the salmon is done, remove it from the oven and let it rest for a few minutes.",
+        "9. Garnish with sliced green onions and toasted sesame seeds, and serve hot."
+      ]
+    },
+    {
+      "name": "Fried Rice with Vegetables",
+      "servings": 4,
+      "difficulty": "Medium",
+      "image": "https://www.seriouseats.com/thmb/tuMCogfAOy2zNdVqE7ydUwuru9Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/easy-vegetable-fried-rice-recipe-hero-2-fed2a62b8bce4c51b945d9c24c2edb68.jpg",
+      "ingredients": [
+        {
+          "name": "Cooked rice",
+          "quantity": 4,
+          "unit": "cups"
+        },
+        {
+          "name": "Carrots",
+          "quantity": 2,
+          "unit": ""
+        },
+        {
+          "name": "Peas",
+          "quantity": 1,
+          "unit": "cup"
+        },
+        {
+          "name": "Eggs",
+          "quantity": 2,
+          "unit": ""
+        },
+        {
+          "name": "Onion",
+          "quantity": 1,
+          "unit": ""
+        },
+        {
+          "name": "Soy sauce",
+          "quantity": 2,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Salt",
+          "quantity": 0.5,
+          "unit": "tsp"
+        },
+        {
+          "name": "Pepper",
+          "quantity": 0.25,
+          "unit": "tsp"
+        },
+        {
+          "name": "Vegetable oil",
+          "quantity": 2,
+          "unit": "tbsp"
+        }
+      ],
+      "instructions": [
+        "1. Cut the carrots into small cubes and dice the onion.",
+        "2. Beat the eggs in a bowl and set aside.",
+        "3. Heat 1 tablespoon of oil in a large skillet over medium-high heat.",
+        "4. Add the carrots, peas, and onion and stir-fry for 3-4 minutes.",
+        "5. Push the vegetables to one side of the skillet and pour the beaten eggs into the other side.",
+        "6. Scramble the eggs until they are cooked through.",
+        "7. Add the cooked rice to the skillet and stir well to combine with the vegetables and eggs.",
+        "8. Add the soy sauce, salt, and pepper and stir-fry for another 2-3 minutes.",
+        "9. Serve hot."
+      ]
+    },
+    {
+      "name": "Roasted Sweet Potato and Black Bean Tacos",
+      "servings": 4,
+      "difficulty": "Medium",
+      "image": "https://www.mashed.com/img/gallery/roasted-sweet-potato-and-black-bean-tacos-recipe/l-intro-1631149755.jpg",
+      "ingredients": [
+        {
+          "name": "Sweet potatoes",
+          "quantity": 2,
+          "unit": ""
+        },
+        {
+          "name": "Black beans",
+          "quantity": 1,
+          "unit": "can"
+        },
+        {
+          "name": "Taco seasoning",
+          "quantity": 1,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Olive oil",
+          "quantity": 1,
+          "unit": "tbsp"
+        },
+        {
+          "name": "Corn tortillas",
+          "quantity": 8,
+          "unit": ""
+        },
+        {
+          "name": "Lime",
+          "quantity": 1,
+          "unit": ""
+        },
+        {
+          "name": "Cilantro",
+          "quantity": 0.25,
+          "unit": "cup"
+        },
+        {
+          "name": "Red onion",
+          "quantity": 0.25,
+          "unit": "cup"
+        }
+      ],
+      "instructions": [
+        "1. Preheat oven to 425°F (220°C).",
+        "2. Peel and dice the sweet potatoes into 1/2-inch pieces.",
+        "3. Drain and rinse the black beans.",
+        "4. In a large bowl, toss the sweet potatoes with taco seasoning and olive oil.",
+        "5. Spread the sweet potatoes in a single layer on a baking sheet and roast for 25-30 minutes or until tender and lightly browned.",
+        "6. Warm the tortillas in a dry skillet over medium-high heat.",
+        "7. To assemble the tacos, spoon the sweet potatoes and black beans onto the tortillas.",
+        "8. Top with chopped cilantro and red onion, and squeeze lime juice over the top.",
+        "9. Serve hot."
+      ]
+    }
+  ],
+  "fruits": [
+    {
+      "name": "Apple",
+      "image": "assets/images/apple.png",
+      "color": "Red",
+      "taste": "Sweet and slightly tart",
+      "origin": "North America",
+      "family": "Rosaceae",
+      "season": "Fall",
+      "nutritionalValues": [
+        {
+          "name": "Calories",
+          "value": "52",
+          "unit": "kcal"
+        },
+        {
+          "name": "Carbohydrates",
+          "value": "14",
+          "unit": "g"
+        },
+        {
+          "name": "Protein",
+          "value": "0.3",
+          "unit": "g"
+        },
+        {
+          "name": "Fat",
+          "value": "0.2",
+          "unit": "g"
+        },
+        {
+          "name": "Fiber",
+          "value": "2.4",
+          "unit": "g"
+        },
+        {
+          "name": "Vitamin C",
+          "value": "8.4",
+          "unit": "mg"
+        },
+        {
+          "name": "Potassium",
+          "value": "107",
+          "unit": "mg"
+        },
+        {
+          "name": "Vitamin A",
+          "value": "98",
+          "unit": "IU"
+        },
+        {
+          "name": "Calcium",
+          "value": "11",
+          "unit": "mg"
+        },
+        {
+          "name": "Iron",
+          "value": "0.2",
+          "unit": "mg"
+        }
+      ]
+    },
+    {
+      "name": "Banana",
+      "image": "assets/images/banana.png",
+      "color": "Yellow",
+      "taste": "Sweet",
+      "origin": "Southeast Asia",
+      "family": "Musaceae",
+      "season": "Year-round",
+      "nutritionalValues": [
+        {
+          "name": "Calories",
+          "value": "96",
+          "unit": "kcal"
+        },
+        {
+          "name": "Carbohydrates",
+          "value": "23",
+          "unit": "g"
+        },
+        {
+          "name": "Protein",
+          "value": "1.1",
+          "unit": "g"
+        },
+        {
+          "name": "Fat",
+          "value": "0.3",
+          "unit": "g"
+        },
+        {
+          "name": "Fiber",
+          "value": "2.6",
+          "unit": "g"
+        },
+        {
+          "name": "Vitamin C",
+          "value": "8.7",
+          "unit": "mg"
+        },
+        {
+          "name": "Potassium",
+          "value": "358",
+          "unit": "mg"
+        },
+        {
+          "name": "Vitamin B6",
+          "value": "0.4",
+          "unit": "mg"
+        },
+        {
+          "name": "Magnesium",
+          "value": "27",
+          "unit": "mg"
+        },
+        {
+          "name": "Phosphorus",
+          "value": "22",
+          "unit": "mg"
+        }
+      ]
+    },
+    {
+      "name": "Orange",
+      "image": "assets/images/orange.png",
+      "color": "Orange",
+      "taste": "Sweet and tangy",
+      "origin": "Southeast Asia",
+      "family": "Rutaceae",
+      "season": "Winter",
+      "nutritionalValues": [
+        {
+          "name": "Calories",
+          "value": "62",
+          "unit": "kcal"
+        },
+        {
+          "name": "Carbohydrates",
+          "value": "15",
+          "unit": "g"
+        },
+        {
+          "name": "Protein",
+          "value": "1.2",
+          "unit": "g"
+        },
+        {
+          "name": "Fat",
+          "value": "0.2",
+          "unit": "g"
+        },
+        {
+          "name": "Fiber",
+          "value": "3.1",
+          "unit": "g"
+        },
+        {
+          "name": "Vitamin C",
+          "value": "69.7",
+          "unit": "mg"
+        },
+        {
+          "name": "Potassium",
+          "value": "237",
+          "unit": "mg"
+        },
+        {
+          "name": "Vitamin A",
+          "value": "225",
+          "unit": "IU"
+        },
+        {
+          "name": "Calcium",
+          "value": "52",
+          "unit": "mg"
+        },
+        {
+          "name": "Iron",
+          "value": "0.1",
+          "unit": "mg"
+        }
+      ]
+    },
+    {
+      "name": "Grapes",
+      "image": "assets/images/grapes.png",
+      "color": "Purple",
+      "taste": "Sweet and juicy",
+      "origin": "Europe",
+      "family": "Vitaceae",
+      "season": "Summer",
+      "nutritionalValues": [
+        {
+          "name": "Calories",
+          "value": "69",
+          "unit": "kcal"
+        },
+        {
+          "name": "Carbohydrates",
+          "value": "18",
+          "unit": "g"
+        },
+        {
+          "name": "Protein",
+          "value": "0.72",
+          "unit": "g"
+        },
+        {
+          "name": "Fat",
+          "value": "0.16",
+          "unit": "g"
+        },
+        {
+          "name": "Fiber",
+          "value": "0.9",
+          "unit": "g"
+        },
+        {
+          "name": "Vitamin C",
+          "value": "3.2",
+          "unit": "mg"
+        },
+        {
+          "name": "Potassium",
+          "value": "191",
+          "unit": "mg"
+        },
+        {
+          "name": "Vitamin K",
+          "value": "14.6",
+          "unit": "mcg"
+        },
+        {
+          "name": "Calcium",
+          "value": "10",
+          "unit": "mg"
+        },
+        {
+          "name": "Iron",
+          "value": "0.36",
+          "unit": "mg"
+        }
+      ]
+    },
+    {
+      "name": "Strawberry",
+      "image": "assets/images/strawberry.png",
+      "color": "Red",
+      "taste": "Sweet and tart",
+      "origin": "Europe",
+      "family": "Rosaceae",
+      "season": "Spring",
+      "nutritionalValues": [
+        {
+          "name": "Calories",
+          "value": "29",
+          "unit": "kcal"
+        },
+        {
+          "name": "Carbohydrates",
+          "value": "7",
+          "unit": "g"
+        },
+        {
+          "name": "Protein",
+          "value": "0.7",
+          "unit": "g"
+        },
+        {
+          "name": "Fat",
+          "value": "0.3",
+          "unit": "g"
+        },
+        {
+          "name": "Fiber",
+          "value": "2",
+          "unit": "g"
+        },
+        {
+          "name": "Vitamin C",
+          "value": "58.8",
+          "unit": "mg"
+        },
+        {
+          "name": "Potassium",
+          "value": "153",
+          "unit": "mg"
+        },
+        {
+          "name": "Vitamin A",
+          "value": "12",
+          "unit": "IU"
+        },
+        {
+          "name": "Calcium",
+          "value": "16",
+          "unit": "mg"
+        },
+        {
+          "name": "Iron",
+          "value": "0.4",
+          "unit": "mg"
+        }
+      ]
+    },
+    {
+      "name": "Mango",
+      "image": "assets/images/mango.png",
+      "color": "Yellow",
+      "taste": "Sweet and tropical",
+      "origin": "South Asia",
+      "family": "Anacardiaceae",
+      "season": "Summer",
+      "nutritionalValues": [
+        {
+          "name": "Calories",
+          "value": "60",
+          "unit": "kcal"
+        },
+        {
+          "name": "Carbohydrates",
+          "value": "15",
+          "unit": "g"
+        },
+        {
+          "name": "Protein",
+          "value": "0.8",
+          "unit": "g"
+        },
+        {
+          "name": "Fat",
+          "value": "0.4",
+          "unit": "g"
+        },
+        {
+          "name": "Fiber",
+          "value": "1.6",
+          "unit": "g"
+        },
+        {
+          "name": "Vitamin C",
+          "value": "36.4",
+          "unit": "mg"
+        },
+        {
+          "name": "Potassium",
+          "value": "168",
+          "unit": "mg"
+        },
+        {
+          "name": "Vitamin A",
+          "value": "1262",
+          "unit": "IU"
+        },
+        {
+          "name": "Calcium",
+          "value": "16",
+          "unit": "mg"
+        },
+        {
+          "name": "Iron",
+          "value": "0.2",
+          "unit": "mg"
+        }
+      ]
+    },
+    {
+      "name": "Blueberry",
+      "image": "assets/images/blueberry.png",
+      "color": "Blue",
+      "taste": "Sweet and slightly tangy",
+      "origin": "North America",
+      "family": "Ericaceae",
+      "season": "Summer",
+      "nutritionalValues": [
+        {
+          "name": "Calories",
+          "value": "57",
+          "unit": "kcal"
+        },
+        {
+          "name": "Carbohydrates",
+          "value": "14",
+          "unit": "g"
+        },
+        {
+          "name": "Protein",
+          "value": "0.7",
+          "unit": "g"
+        },
+        {
+          "name": "Fat",
+          "value": "0.3",
+          "unit": "g"
+        },
+        {
+          "name": "Fiber",
+          "value": "2.4",
+          "unit": "g"
+        },
+        {
+          "name": "Vitamin C",
+          "value": "9.7",
+          "unit": "mg"
+        },
+        {
+          "name": "Potassium",
+          "value": "77",
+          "unit": "mg"
+        },
+        {
+          "name": "Vitamin K",
+          "value": "19.3",
+          "unit": "mcg"
+        },
+        {
+          "name": "Calcium",
+          "value": "6",
+          "unit": "mg"
+        },
+        {
+          "name": "Iron",
+          "value": "0.4",
+          "unit": "mg"
+        }
+      ]
+    },
+    {
+      "name": "Pomegranate",
+      "image": "assets/images/pomegranate.png",
+      "color": "Red",
+      "taste": "Sweet and tangy",
+      "origin": "Iran",
+      "family": "Lythraceae",
+      "season": "Fall",
+      "nutritionalValues": [
+        {
+          "name": "Calories",
+          "value": "83",
+          "unit": "kcal"
+        },
+        {
+          "name": "Carbohydrates",
+          "value": "19",
+          "unit": "g"
+        },
+        {
+          "name": "Protein",
+          "value": "1.7",
+          "unit": "g"
+        },
+        {
+          "name": "Fat",
+          "value": "1.2",
+          "unit": "g"
+        },
+        {
+          "name": "Fiber",
+          "value": "4",
+          "unit": "g"
+        },
+        {
+          "name": "Vitamin C",
+          "value": "10.2",
+          "unit": "mg"
+        },
+        {
+          "name": "Potassium",
+          "value": "236",
+          "unit": "mg"
+        },
+        {
+          "name": "Vitamin K",
+          "value": "16.4",
+          "unit": "mcg"
+        },
+        {
+          "name": "Calcium",
+          "value": "10",
+          "unit": "mg"
+        },
+        {
+          "name": "Iron",
+          "value": "0.3",
+          "unit": "mg"
+        }
+      ]
+    },
+    {
+      "name": "Avocado",
+      "image": "assets/images/avocado.png",
+      "color": "Green",
+      "taste": "Creamy and nutty",
+      "origin": "Central and South America",
+      "family": "Lauraceae",
+      "season": "Year-round",
+      "nutritionalValues": [
+        {
+          "name": "Calories",
+          "value": "160",
+          "unit": "kcal"
+        },
+        {
+          "name": "Carbohydrates",
+          "value": "9",
+          "unit": "g"
+        },
+        {
+          "name": "Protein",
+          "value": "2",
+          "unit": "g"
+        },
+        {
+          "name": "Fat",
+          "value": "15",
+          "unit": "g"
+        },
+        {
+          "name": "Fiber",
+          "value": "7",
+          "unit": "g"
+        },
+        {
+          "name": "Vitamin C",
+          "value": "10",
+          "unit": "mg"
+        },
+        {
+          "name": "Potassium",
+          "value": "485",
+          "unit": "mg"
+        },
+        {
+          "name": "Vitamin K",
+          "value": "21",
+          "unit": "mcg"
+        },
+        {
+          "name": "Calcium",
+          "value": "12",
+          "unit": "mg"
+        },
+        {
+          "name": "Iron",
+          "value": "0.6",
+          "unit": "mg"
+        }
+      ]
+    },
+    {
+      "name": "Peach",
+      "image": "assets/images/peach.png",
+      "color": "Orange",
+      "taste": "Sweet and juicy",
+      "origin": "China",
+      "family": "Rosaceae",
+      "season": "Summer",
+      "nutritionalValues": [
+        {
+          "name": "Calories",
+          "value": "39",
+          "unit": "kcal"
+        },
+        {
+          "name": "Carbohydrates",
+          "value": "9",
+          "unit": "g"
+        },
+        {
+          "name": "Protein",
+          "value": "0.9",
+          "unit": "g"
+        },
+        {
+          "name": "Fat",
+          "value": "0.3",
+          "unit": "g"
+        },
+        {
+          "name": "Fiber",
+          "value": "1.5",
+          "unit": "g"
+        },
+        {
+          "name": "Vitamin C",
+          "value": "6.6",
+          "unit": "mg"
+        },
+        {
+          "name": "Potassium",
+          "value": "190",
+          "unit": "mg"
+        },
+        {
+          "name": "Vitamin A",
+          "value": "326",
+          "unit": "IU"
+        },
+        {
+          "name": "Calcium",
+          "value": "6",
+          "unit": "mg"
+        },
+        {
+          "name": "Iron",
+          "value": "0.4",
+          "unit": "mg"
+        }
+      ]
+    },
+    {
+      "name": "Cherry",
+      "image": "assets/images/cherry.png",
+      "color": "Red",
+      "taste": "Sweet and tangy",
+      "origin": "Asia and Europe",
+      "family": "Rosaceae",
+      "season": "Summer",
+      "nutritionalValues": [
+        {
+          "name": "Calories",
+          "value": "50",
+          "unit": "kcal"
+        },
+        {
+          "name": "Carbohydrates",
+          "value": "12",
+          "unit": "g"
+        },
+        {
+          "name": "Protein",
+          "value": "1",
+          "unit": "g"
+        },
+        {
+          "name": "Fat",
+          "value": "0.3",
+          "unit": "g"
+        },
+        {
+          "name": "Fiber",
+          "value": "2",
+          "unit": "g"
+        },
+        {
+          "name": "Vitamin C",
+          "value": "7",
+          "unit": "mg"
+        },
+        {
+          "name": "Potassium",
+          "value": "222",
+          "unit": "mg"
+        },
+        {
+          "name": "Vitamin A",
+          "value": "64",
+          "unit": "IU"
+        },
+        {
+          "name": "Calcium",
+          "value": "13",
+          "unit": "mg"
+        },
+        {
+          "name": "Iron",
+          "value": "0.4",
+          "unit": "mg"
+        }
+      ]
+    },
+    {
+      "name": "Pineapple",
+      "image": "assets/images/pineapple.png",
+      "color": "Yellow",
+      "taste": "Sweet and tangy",
+      "origin": "South America",
+      "family": "Bromeliaceae",
+      "season": "Year-round",
+      "nutritionalValues": [
+        {
+          "name": "Calories",
+          "value": "50",
+          "unit": "kcal"
+        },
+        {
+          "name": "Carbohydrates",
+          "value": "13",
+          "unit": "g"
+        },
+        {
+          "name": "Protein",
+          "value": "0.5",
+          "unit": "g"
+        },
+        {
+          "name": "Fat",
+          "value": "0.1",
+          "unit": "g"
+        },
+        {
+          "name": "Fiber",
+          "value": "1.4",
+          "unit": "g"
+        },
+        {
+          "name": "Vitamin C",
+          "value": "79",
+          "unit": "mg"
+        },
+        {
+          "name": "Manganese",
+          "value": "1.6",
+          "unit": "mg"
+        },
+        {
+          "name": "Vitamin B6",
+          "value": "0.1",
+          "unit": "mg"
+        },
+        {
+          "name": "Copper",
+          "value": "0.1",
+          "unit": "mg"
+        },
+        {
+          "name": "Magnesium",
+          "value": "13",
+          "unit": "mg"
+        }
+      ]
+    },
+    {
+      "name": "Grapes",
+      "image": "assets/images/grapes.png",
+      "color": "Green or Purple",
+      "taste": "Sweet and juicy",
+      "origin": "Europe and Asia",
+      "family": "Vitaceae",
+      "season": "Summer and Fall",
+      "nutritionalValues": [
+        {
+          "name": "Calories",
+          "value": "69",
+          "unit": "kcal"
+        },
+        {
+          "name": "Carbohydrates",
+          "value": "18",
+          "unit": "g"
+        },
+        {
+          "name": "Protein",
+          "value": "0.7",
+          "unit": "g"
+        },
+        {
+          "name": "Fat",
+          "value": "0.2",
+          "unit": "g"
+        },
+        {
+          "name": "Fiber",
+          "value": "0.9",
+          "unit": "g"
+        },
+        {
+          "name": "Vitamin C",
+          "value": "3.2",
+          "unit": "mg"
+        },
+        {
+          "name": "Vitamin K",
+          "value": "22",
+          "unit": "mcg"
+        },
+        {
+          "name": "Potassium",
+          "value": "191",
+          "unit": "mg"
+        },
+        {
+          "name": "Vitamin B6",
+          "value": "0.1",
+          "unit": "mg"
+        },
+        {
+          "name": "Copper",
+          "value": "0.1",
+          "unit": "mg"
+        }
+      ]
+    },
+    {
+      "name": "Durian",
+      "image": "assets/images/durian.png",
+      "color": "Green or Yellow",
+      "taste": "Distinctive, sweet, and creamy",
+      "origin": "Southeast Asia",
+      "family": "Malvaceae",
+      "season": "Year-round",
+      "nutritionalValues": [
+        {
+          "name": "Calories",
+          "value": "367",
+          "unit": "kcal"
+        },
+        {
+          "name": "Carbohydrates",
+          "value": "66",
+          "unit": "g"
+        },
+        {
+          "name": "Protein",
+          "value": "3.6",
+          "unit": "g"
+        },
+        {
+          "name": "Fat",
+          "value": "23",
+          "unit": "g"
+        },
+        {
+          "name": "Fiber",
+          "value": "9.2",
+          "unit": "g"
+        },
+        {
+          "name": "Vitamin C",
+          "value": "30.9",
+          "unit": "mg"
+        },
+        {
+          "name": "Potassium",
+          "value": "436",
+          "unit": "mg"
+        },
+        {
+          "name": "Vitamin B6",
+          "value": "0.3",
+          "unit": "mg"
+        },
+        {
+          "name": "Magnesium",
+          "value": "30",
+          "unit": "mg"
+        },
+        {
+          "name": "Calcium",
+          "value": "6",
+          "unit": "mg"
+        }
+      ]
+    },
+    {
+      "name": "Jackfruit",
+      "image": "assets/images/jackfruit.png",
+      "color": "Green or Yellow",
+      "taste": "Sweet and tropical",
+      "origin": "South Asia",
+      "family": "Moraceae",
+      "season": "Year-round",
+      "nutritionalValues": [
+        {
+          "name": "Calories",
+          "value": "95",
+          "unit": "kcal"
+        },
+        {
+          "name": "Carbohydrates",
+          "value": "23",
+          "unit": "g"
+        },
+        {
+          "name": "Protein",
+          "value": "1.7",
+          "unit": "g"
+        },
+        {
+          "name": "Fat",
+          "value": "0.6",
+          "unit": "g"
+        },
+        {
+          "name": "Fiber",
+          "value": "1.5",
+          "unit": "g"
+        },
+        {
+          "name": "Vitamin C",
+          "value": "11.1",
+          "unit": "mg"
+        },
+        {
+          "name": "Potassium",
+          "value": "448",
+          "unit": "mg"
+        },
+        {
+          "name": "Vitamin A",
+          "value": "110",
+          "unit": "IU"
+        },
+        {
+          "name": "Calcium",
+          "value": "24",
+          "unit": "mg"
+        },
+        {
+          "name": "Iron",
+          "value": "0.6",
+          "unit": "mg"
+        }
+      ]
+    },
+    {
+      "name": "Ackee",
+      "image": "assets/images/ackee.png",
+      "color": "Red",
+      "taste": "Mild and nutty",
+      "origin": "West Africa",
+      "family": "Sapindaceae",
+      "season": "Year-round",
+      "nutritionalValues": [
+        {
+          "name": "Calories",
+          "value": "151",
+          "unit": "kcal"
+        },
+        {
+          "name": "Carbohydrates",
+          "value": "36",
+          "unit": "g"
+        },
+        {
+          "name": "Protein",
+          "value": "2.2",
+          "unit": "g"
+        },
+        {
+          "name": "Fat",
+          "value": "0.3",
+          "unit": "g"
+        },
+        {
+          "name": "Fiber",
+          "value": "2.6",
+          "unit": "g"
+        },
+        {
+          "name": "Vitamin C",
+          "value": "33.6",
+          "unit": "mg"
+        },
+        {
+          "name": "Potassium",
+          "value": "270",
+          "unit": "mg"
+        },
+        {
+          "name": "Vitamin A",
+          "value": "7",
+          "unit": "IU"
+        },
+        {
+          "name": "Calcium",
+          "value": "81",
+          "unit": "mg"
+        },
+        {
+          "name": "Iron",
+          "value": "0.6",
+          "unit": "mg"
+        }
+      ]
+    },
+    {
+      "name": "Salak",
+      "image": "assets/images/salak.png",
+      "color": "Brown",
+      "taste": "Sweet and tangy",
+      "origin": "Indonesia",
+      "family": "Arecaceae",
+      "season": "Year-round",
+      "nutritionalValues": [
+        {
+          "name": "Calories",
+          "value": "82",
+          "unit": "kcal"
+        },
+        {
+          "name": "Carbohydrates",
+          "value": "22",
+          "unit": "g"
+        },
+        {
+          "name": "Protein",
+          "value": "0.6",
+          "unit": "g"
+        },
+        {
+          "name": "Fat",
+          "value": "0.4",
+          "unit": "g"
+        },
+        {
+          "name": "Fiber",
+          "value": "2.6",
+          "unit": "g"
+        },
+        {
+          "name": "Vitamin C",
+          "value": "8.4",
+          "unit": "mg"
+        },
+        {
+          "name": "Potassium",
+          "value": "256",
+          "unit": "mg"
+        },
+        {
+          "name": "Vitamin A",
+          "value": "44",
+          "unit": "IU"
+        },
+        {
+          "name": "Calcium",
+          "value": "29",
+          "unit": "mg"
+        },
+        {
+          "name": "Iron",
+          "value": "2.6",
+          "unit": "mg"
+        }
+      ]
+    },
+    {
+      "name": "Rambutan",
+      "image": "assets/images/rambutan.png",
+      "color": "Red or Yellow",
+      "taste": "Sweet and juicy",
+      "origin": "Southeast Asia",
+      "family": "Sapindaceae",
+      "season": "Summer",
+      "nutritionalValues": [
+        {
+          "name": "Calories",
+          "value": "68",
+          "unit": "kcal"
+        },
+        {
+          "name": "Carbohydrates",
+          "value": "16.5",
+          "unit": "g"
+        },
+        {
+          "name": "Protein",
+          "value": "0.9",
+          "unit": "g"
+        },
+        {
+          "name": "Fat",
+          "value": "0.2",
+          "unit": "g"
+        },
+        {
+          "name": "Fiber",
+          "value": "0.9",
+          "unit": "g"
+        },
+        {
+          "name": "Vitamin C",
+          "value": "20.9",
+          "unit": "mg"
+        },
+        {
+          "name": "Calcium",
+          "value": "22",
+          "unit": "mg"
+        },
+        {
+          "name": "Iron",
+          "value": "0.4",
+          "unit": "mg"
+        },
+        {
+          "name": "Phosphorus",
+          "value": "20",
+          "unit": "mg"
+        },
+        {
+          "name": "Potassium",
+          "value": "42",
+          "unit": "mg"
+        }
+      ]
+    },
+    {
+      "name": "Feijoa",
+      "image": "assets/images/feijoa.png",
+      "color": "Green",
+      "taste": "Tropical and tangy",
+      "origin": "South America",
+      "family": "Myrtaceae",
+      "season": "Fall",
+      "nutritionalValues": [
+        {
+          "name": "Calories",
+          "value": "55",
+          "unit": "kcal"
+        },
+        {
+          "name": "Carbohydrates",
+          "value": "14",
+          "unit": "g"
+        },
+        {
+          "name": "Protein",
+          "value": "1",
+          "unit": "g"
+        },
+        {
+          "name": "Fat",
+          "value": "0.6",
+          "unit": "g"
+        },
+        {
+          "name": "Fiber",
+          "value": "6",
+          "unit": "g"
+        },
+        {
+          "name": "Vitamin C",
+          "value": "30",
+          "unit": "mg"
+        },
+        {
+          "name": "Vitamin E",
+          "value": "22",
+          "unit": "mg"
+        },
+        {
+          "name": "Vitamin K",
+          "value": "3.9",
+          "unit": "mcg"
+        },
+        {
+          "name": "Potassium",
+          "value": "172",
+          "unit": "mg"
+        },
+        {
+          "name": "Calcium",
+          "value": "8",
+          "unit": "mg"
+        }
+      ]
+    },
+    {
+      "name": "Dragon Fruit",
+      "image": "assets/images/dragonfruit.png",
+      "color": "Pink or Yellow",
+      "taste": "Mildly sweet and refreshing",
+      "origin": "Central America and Southeast Asia",
+      "family": "Cactaceae",
+      "season": "Year-round",
+      "nutritionalValues": [
+        {
+          "name": "Calories",
+          "value": "60",
+          "unit": "kcal"
+        },
+        {
+          "name": "Carbohydrates",
+          "value": "9",
+          "unit": "g"
+        },
+        {
+          "name": "Protein",
+          "value": "1",
+          "unit": "g"
+        },
+        {
+          "name": "Fat",
+          "value": "0",
+          "unit": "g"
+        },
+        {
+          "name": "Fiber",
+          "value": "1",
+          "unit": "g"
+        },
+        {
+          "name": "Vitamin C",
+          "value": "9",
+          "unit": "mg"
+        },
+        {
+          "name": "Iron",
+          "value": "1",
+          "unit": "mg"
+        },
+        {
+          "name": "Calcium",
+          "value": "6",
+          "unit": "mg"
+        }
+      ]
+    },
+    {
+      "name": "Passion Fruit",
+      "image": "assets/images/passionfruit.png",
+      "color": "Purple",
+      "taste": "Tangy and tropical",
+      "origin": "South America",
+      "family": "Passifloraceae",
+      "season": "Year-round",
+      "nutritionalValues": [
+        {
+          "name": "Calories",
+          "value": "17",
+          "unit": "kcal"
+        },
+        {
+          "name": "Carbohydrates",
+          "value": "4",
+          "unit": "g"
+        },
+        {
+          "name": "Protein",
+          "value": "2",
+          "unit": "g"
+        },
+        {
+          "name": "Fat",
+          "value": "0",
+          "unit": "g"
+        },
+        {
+          "name": "Fiber",
+          "value": "2",
+          "unit": "g"
+        },
+        {
+          "name": "Vitamin C",
+          "value": "30",
+          "unit": "mg"
+        },
+        {
+          "name": "Vitamin A",
+          "value": "1274",
+          "unit": "IU"
+        },
+        {
+          "name": "Potassium",
+          "value": "348",
+          "unit": "mg"
+        },
+        {
+          "name": "Iron",
+          "value": "1.6",
+          "unit": "mg"
+        }
+      ]
+    }
+  ]
+}
